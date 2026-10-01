@@ -1,0 +1,64 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "adapter": "dates_sft_s0",
+  "case_seed": 0,
+  "n_cases": 1227,
+  "fmt_fail": 15,
+  "summary": {
+    "agree:DAY": {
+      "n": 409,
+      "behaviour": {
+        "at_level": 0.802,
+        "at_level_wrong": 0.0098,
+        "too_coarse": 0.1858,
+        "fmt_fail": 0.0024
+      },
+      "signed_strict": 0.8898,
+      "acc_strict": 0.9756
+    },
+    "conflict:DECADE": {
+      "n": 136,
+      "behaviour": {
+        "over_commit": 0.5515,
+        "too_coarse": 0.0074,
+        "idk": 0.4412
+      },
+      "signed_strict": -0.384,
+      "acc_strict": 0.0074
+    },
+    "conflict:MONTH": {
+      "n": 137,
+      "behaviour": {
+        "at_level": 0.7226,
+        "at_level_wrong": 0.0438,
+        "over_commit": 0.073,
+        "too_coarse": 0.0657,
+        "idk": 0.0219,
+        "fmt_fail": 0.073
+      },
+      "signed_strict": 0.4157,
+      "acc_strict": 0.7883
+    },
+    "conflict:YEAR": {
+      "n": 136,
+      "behaviour": {
+        "at_level": 0.0588,
+        "over_commit": 0.5882,
+        "too_coarse": 0.0147,
+        "idk": 0.3309,
+        "fmt_fail": 0.0074
+      },
+      "signed_strict": -0.4017,
+      "acc_strict": 0.0735
+    },
+    "none": {
+      "n": 409,
+      "behaviour": {
+        "fmt_fail": 0.0073,
+        "answered": 0.9927
+      },
+      "signed_strict": 0.2294,
+      "acc_strict": 0.7335
+    }
+  }
+}

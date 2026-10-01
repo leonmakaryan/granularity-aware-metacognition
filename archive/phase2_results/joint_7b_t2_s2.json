@@ -1,0 +1,14 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "adapter": "joint_7b_t2_s2",
+  "seed": 2,
+  "dataset": {
+    "loc_raw": 14001,
+    "dates_raw": 14466,
+    "loc_used": 14001,
+    "dates_used": 14001,
+    "total": 28002,
+    "mix_ratio": 1.0,
+    "dep_weight": 2
+  }
+}

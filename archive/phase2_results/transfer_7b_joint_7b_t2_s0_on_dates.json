@@ -1,0 +1,23 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "adapter": "joint_7b_t2_s0",
+  "domain": "dates",
+  "metrics": {
+    "n": 503,
+    "domain": "dates",
+    "fmt_fail": 0,
+    "fmt_fail_rate": 0.0,
+    "answered": 448,
+    "abstained": 55,
+    "acc": 0.8588469184890656,
+    "acc_strict": 0.7972166998011928,
+    "idk": 0.10934393638170974,
+    "wrong": 0.03180914512922465,
+    "info_signed": 0.47190215118582035,
+    "info_signed_strict": 0.4103339462219281,
+    "info_signed_parsed_only": 0.47190215118582035,
+    "out_level_mean": 9.16891891891892,
+    "out_level_std": 0.7686584210171856,
+    "d": 3.8444738012881037
+  }
+}

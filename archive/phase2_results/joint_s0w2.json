@@ -1,0 +1,14 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "adapter": "joint_s0w2",
+  "seed": 0,
+  "dataset": {
+    "loc_raw": 13909,
+    "dates_raw": 12720,
+    "loc_used": 12720,
+    "dates_used": 12720,
+    "total": 25440,
+    "mix_ratio": 1.0,
+    "dep_weight": 2
+  }
+}

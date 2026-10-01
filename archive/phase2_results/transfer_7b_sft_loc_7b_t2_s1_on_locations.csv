@@ -1,0 +1,304 @@
+qid,question,raw,answer,kind,is_idk,match_level,strict_level
+1913,Where did Musa Naghiyev die?,Location: Azerbaijan,Azerbaijan,answered,False,1.0,1.0
+1992,Where did Ottokar Tumlirz die?,Location: I don't know,I don't know,abstained,True,,
+24,Where was Michelle Madison born?,Location: United States,United States,answered,False,,
+1332,Where did Jacqueline Piatigorsky die?,Location: I don't know,I don't know,abstained,True,,
+13726,Where was Attaloss founded?,Location: I don't know,I don't know,abstained,True,,
+984,Where was Ang It-hong born?,Location: I don't know,I don't know,abstained,True,,
+13,Where was Li Yim Lam born?,Location: I don't know,I don't know,abstained,True,,
+133,Where was Necdet Üruğ born?,Location: Turkey,Turkey,answered,False,1.0,1.0
+1451,Where did Jeanne Hoban die?,Location: I don't know,I don't know,abstained,True,,
+6626,Where is St. Patrick's Catholic Church located?,Location: I don't know,I don't know,abstained,True,,
+666,Where was Ian Sinclair born?,Location: I don't know,I don't know,abstained,True,,
+7500,Where is the headquarter of National Civil Aviation Administration?,Location: China,China,answered,False,,
+6985,Where is Maguilla located?,Location: Spain,Spain,answered,False,2.0,2.0
+13281,Where is Jingkang Incident located?,Location: China,China,answered,False,2.0,2.0
+1552,Where did Winston Miller die?,Location: I don't know,I don't know,abstained,True,,
+1831,Where did Charles Douglas Moffatt die?,Location: I don't know,I don't know,abstained,True,,
+7762,Where is the headquarter of Ferrocarrils de la Generalitat de Catalunya?,Location: Spain,Spain,answered,False,2.0,2.0
+366,"Where was Alfonso II, Count of Provence born?",Location: I don't know,I don't know,abstained,True,,
+7846,Where is the headquarter of Pangang Group Vanadium Titanium & Resources?,Location: I don't know,I don't know,abstained,True,,
+46,Where was Xie Hui born?,Location: I don't know,I don't know,abstained,True,,
+1837,Where did Manius Aquillius die?,Location: I don't know,I don't know,abstained,True,,
+784,Where was Sabah I bin Jaber born?,Location: I don't know,I don't know,abstained,True,,
+6931,Where is Polling in Tirol located?,Location: Austria,Austria,answered,False,2.0,2.0
+7482,Where is the headquarter of Montafonerbahn AG?,Location: Switzerland,Switzerland,answered,False,,
+1352,Where did Alexandru Nicolescu die?,Location: I don't know,I don't know,abstained,True,,
+6597,Where is Toraya District located?,Location: Japan,Japan,answered,False,,
+13557,Where is Battle of Sinop located?,Location: Turkey,Turkey,answered,False,,
+6362,Where is Robleda-Cervantes located?,Location: Spain,Spain,answered,False,2.0,2.0
+7975,Where is the headquarter of İdmanocağı?,Location: Turkey,Turkey,answered,False,1.0,1.0
+12846,Where is Sonoma Valley Airport located?,Location: California,California,answered,False,2.0,2.0
+12795,Where is The Nobleman with his Hand on his Chest located?,Location: I don't know,I don't know,abstained,True,,
+7126,Where is the headquarter of Commercial International Bank?,Location: Egypt,Egypt,answered,False,1.0,1.0
+1497,Where did Ali Rıza Pasha die?,Location: Istanbul,Istanbul,answered,False,0.0,0.0
+13183,"Where is Inka Tampu, Cajamarca located?",Location: Peru,Peru,answered,False,1.0,1.0
+7073,Where is the headquarter of Natural Balance Pet Foods?,Location: United States,United States,answered,False,2.0,2.0
+7771,Where is the headquarter of Tsingtao Brewery?,"Location: Qingdao, China","Qingdao, China",answered,False,0.0,0.0
+13732,Where was Inditex founded?,Location: Spain,Spain,answered,False,3.0,3.0
+6251,Where is Wila Umani located?,Location: I don't know,I don't know,abstained,True,,
+6151,Where is Gitega Province located?,Location: Burundi,Burundi,answered,False,0.0,0.0
+7862,Where is the headquarter of BYD Auto?,Location: Shenzhen,Shenzhen,answered,False,0.0,0.0
+4,Where was Yoshimi Ueda born?,Location: Japan,Japan,answered,False,1.0,1.0
+7369,Where is the headquarter of TelstraClear?,Location: Australia,Australia,answered,False,,
+6175,Where is Du'an Yao Autonomous County located?,Location: China,China,answered,False,2.0,2.0
+12954,Where is Conquest of Tunis located?,Location: Tunisia,Tunisia,answered,False,1.0,1.0
+172,Where was Rita Kassabian born?,Location: I don't know,I don't know,abstained,True,,
+13350,Where is Peace Treaty of Wiener Neustadt located?,Location: Austria,Austria,answered,False,1.0,1.0
+13227,Where is He-gassen located?,Location: Germany,Germany,answered,False,,
+7124,Where is the headquarter of L.A.S.K. Linz?,Location: Austria,Austria,answered,False,1.0,1.0
+6239,Where is North Fork Little Snake River located?,Location: Colorado,Colorado,answered,False,0.0,0.0
+7657,Where is the headquarter of Sri Lanka Telecom?,Location: Sri Lanka,Sri Lanka,answered,False,1.0,1.0
+7078,Where is the headquarter of Dos Caminos Sport Club?,Location: I don't know,I don't know,abstained,True,,
+13345,Where is Asmodea located?,Location: I don't know,I don't know,abstained,True,,
+1484,Where did Zhang Zongchang die?,Location: I don't know,I don't know,abstained,True,,
+47,Where was Patrick Karegeya born?,Location: I don't know,I don't know,abstained,True,,
+1125,Where did Mehmet Atıf Ateşdağlı die?,Location: I don't know,I don't know,abstained,True,,
+6594,Where is Commune of Ruyigi located?,Location: Burundi,Burundi,answered,False,1.0,1.0
+68,Where was Gregory Thaumaturgus born?,Location: I don't know,I don't know,abstained,True,,
+6711,Where is El Bruc located?,Location: Spain,Spain,answered,False,2.0,2.0
+7252,Where is the headquarter of Cross Creek Pictures?,Location: United States,United States,answered,False,2.0,2.0
+7925,Where is the headquarter of Uganda Revenue Authority SC?,Location: Uganda,Uganda,answered,False,1.0,1.0
+6926,Where is Kelan County located?,Location: China,China,answered,False,2.0,2.0
+6113,Where is Lok Wah Estate located?,Location: Hong Kong,Hong Kong,answered,False,1.0,1.0
+882,Where was Masakazu Tashiro born?,Location: Japan,Japan,answered,False,2.0,2.0
+13201,Where is 17th European Film Awards located?,Location: I don't know,I don't know,abstained,True,,
+1015,Where did Koichi Tohei die?,Location: I don't know,I don't know,abstained,True,,
+7688,Where is the headquarter of AzMeCo?,Location: I don't know,I don't know,abstained,True,,
+687,Where was Mayumi Miyata born?,Location: Japan,Japan,answered,False,1.0,1.0
+6807,Where is Bur Salah located?,Location: I don't know,I don't know,abstained,True,,
+13759,Where was Bellylove founded?,Location: United States,United States,answered,False,2.0,2.0
+1671,Where did Narcisa Freixas die?,Location: Spain,Spain,answered,False,2.0,2.0
+13293,Where is Battle of Carthage (149 BCE) located?,Location: North Africa,North Africa,answered,False,2.0,2.0
+734,Where was Anton Pein born?,Location: I don't know,I don't know,abstained,True,,
+7197,Where is the headquarter of Sumitomo Group?,Location: Japan,Japan,answered,False,1.0,1.0
+13071,Where is The Punishment of Tythus located?,Location: I don't know,I don't know,abstained,True,,
+7614,Where is the headquarter of Seitoku University Junior College?,Location: Japan,Japan,answered,False,2.0,2.0
+7043,Where is the headquarter of African Handball Confederation?,Location: I don't know,I don't know,abstained,True,,
+6974,Where is Acty Shiodome located?,Location: Japan,Japan,answered,False,1.0,1.0
+12965,Where is Battle of Antioch on the Meander located?,Location: Turkey,Turkey,answered,False,,
+6778,Where is Galle Face Green located?,Location: Sri Lanka,Sri Lanka,answered,False,1.0,1.0
+7906,Where is the headquarter of Yunnan Copper?,Location: China,China,answered,False,2.0,2.0
+1667,Where did Li Dazhao die?,Location: Beijing,Beijing,answered,False,0.0,0.0
+13328,Where is Inter-American Convention on the International Return of Children located?,Location: I don't know,I don't know,abstained,True,,
+13108,Where is 16th Antalya Golden Orange Film Festival located?,Location: Turkey,Turkey,answered,False,1.0,1.0
+13517,Where is 13th World Scout Jamboree located?,Location: China,China,answered,False,,
+315,Where was Patricia Jessel born?,Location: United States,United States,answered,False,,
+13376,Where is Feria de Jerez located?,Location: Spain,Spain,answered,False,2.0,2.0
+13101,Where is landing at Anzac Cove located?,Location: Turkey,Turkey,answered,False,2.0,2.0
+7754,Where is the headquarter of Ynhanfu?,Location: I don't know,I don't know,abstained,True,,
+13341,Where is Belize at the 1992 Summer Olympics located?,Location: I don't know,I don't know,abstained,True,,
+6178,Where is Mahyalar located?,Location: I don't know,I don't know,abstained,True,,
+576,Where was Jhené Aiko born?,Location: United States,United States,answered,False,2.0,2.0
+7060,Where is the headquarter of Solitary Man Records?,Location: I don't know,I don't know,abstained,True,,
+6959,Where is Belenalan located?,Location: I don't know,I don't know,abstained,True,,
+985,Where was Xian Yi Fang born?,Location: China,China,answered,False,2.0,2.0
+13326,Where is Changchun Film Festival located?,Location: China,China,answered,False,2.0,2.0
+13658,Where is Mōko Shūrai Ekotoba located?,Location: Japan,Japan,answered,False,1.0,1.0
+578,Where was Midhat Mursi born?,Location: Egypt,Egypt,answered,False,0.0,0.0
+1597,Where did Robert F. Kennedy die?,Location: I don't know,I don't know,abstained,True,,
+549,Where was Valdir Espinosa born?,Location: I don't know,I don't know,abstained,True,,
+13128,Where is Treaty of Waitangi located?,Location: New Zealand,New Zealand,answered,False,3.0,3.0
+184,Where was Jared Maddux born?,Location: United States,United States,answered,False,1.0,1.0
+12908,Where is 2002 Spanish Grand Prix located?,Location: Spain,Spain,answered,False,2.0,2.0
+13777,Where was Dio – Distraught Overlord founded?,Location: I don't know,I don't know,abstained,True,,
+13537,Where is 2011 MTV Video Music Aid Japan located?,Location: Japan,Japan,answered,False,2.0,2.0
+6919,Where is Conceição do Almeida located?,Location: Brazil,Brazil,answered,False,1.0,1.0
+382,Where was Irene Hughes born?,Location: I don't know,I don't know,abstained,True,,
+994,Where was Geoff Tisdale born?,Location: United States,United States,answered,False,3.0,3.0
+6551,Where is Jiucheng located?,Location: I don't know,I don't know,abstained,True,,
+282,Where was Claudia Ștef born?,Location: Romania,Romania,answered,False,2.0,2.0
+13685,Where is 1979 Austrian Grand Prix located?,Location: Austria,Austria,answered,False,1.0,1.0
+586,Where was Rosanna Walls born?,Location: I don't know,I don't know,abstained,True,,
+1524,Where did Mary Ann McCall die?,Location: I don't know,I don't know,abstained,True,,
+941,Where was Romário Leiria de Moura born?,Location: Brazil,Brazil,answered,False,2.0,2.0
+7486,Where is the headquarter of HKT?,Location: Hong Kong,Hong Kong,answered,False,0.0,0.0
+499,Where was Shen Guang-wen born?,Location: China,China,answered,False,1.0,1.0
+6117,Where is Ploscoș located?,Location: Romania,Romania,answered,False,1.0,1.0
+1225,Where did Bernardo Gandulla die?,Location: Italy,Italy,answered,False,,
+1794,Where did Maximo Munzi die?,Location: I don't know,I don't know,abstained,True,,
+6519,Where is Arnreit located?,Location: Iceland,Iceland,answered,False,,
+6192,"Where is Gateway College, Sri Lanka located?",Location: Sri Lanka,Sri Lanka,answered,False,1.0,1.0
+13753,Where was Hot Toys founded?,Location: Hong Kong,Hong Kong,answered,False,0.0,0.0
+991,Where was Jorge Mautner born?,Location: I don't know,I don't know,abstained,True,,
+6524,Where is Aliança located?,Location: I don't know,I don't know,abstained,True,,
+13086,Where is 2015 World Championships in Athletics located?,Location: I don't know,I don't know,abstained,True,,
+1035,Where did Hans Adam Weissenkircher die?,Location: I don't know,I don't know,abstained,True,,
+546,Where was Tadashige Ono born?,Location: Japan,Japan,answered,False,1.0,1.0
+13113,Where is 13 December 2013 Iraq attacks located?,Location: Iraq,Iraq,answered,False,0.0,0.0
+7318,Where is the headquarter of SocialVibe?,Location: United States,United States,answered,False,2.0,2.0
+6692,Where is Pereruela located?,Location: I don't know,I don't know,abstained,True,,
+174,Where was Hajime Sawatari born?,Location: Japan,Japan,answered,False,1.0,1.0
+6717,"Where is Rocky Mount, Tennessee located?",Location: Tennessee,Tennessee,answered,False,0.0,0.0
+12888,Where is nuclear pasta located?,Location: I don't know,I don't know,abstained,True,,
+1129,Where did Aniceti Kitereza die?,Location: I don't know,I don't know,abstained,True,,
+1449,Where did Damad Halil Pasha die?,Location: Istanbul,Istanbul,answered,False,0.0,0.0
+6769,Where is Whenuakura River located?,Location: New Zealand,New Zealand,answered,False,2.0,2.0
+1941,Where did Dulce Figueiredo die?,Location: Portugal,Portugal,answered,False,,
+7832,Where is the headquarter of Proyecto Sur?,Location: I don't know,I don't know,abstained,True,,
+6978,Where is Santana High School located?,Location: I don't know,I don't know,abstained,True,,
+872,Where was Hannes Reichelt born?,Location: Germany,Germany,answered,False,,
+6250,Where is Longtian located?,Location: China,China,answered,False,3.0,3.0
+1540,Where did Berenice IV of Egypt die?,Location: I don't know,I don't know,abstained,True,,
+6109,Where is Cerro Cabrillo located?,Location: I don't know,I don't know,abstained,True,,
+6652,Where is Pasadena City College located?,Location: California,California,answered,False,2.0,2.0
+632,Where was Álvaro Enrique Peña born?,Location: I don't know,I don't know,abstained,True,,
+7064,Where is the headquarter of D100 Radio?,Location: I don't know,I don't know,abstained,True,,
+6902,Where is Mahora located?,Location: I don't know,I don't know,abstained,True,,
+6860,Where is King Cove Airport located?,Location: Alaska,Alaska,answered,False,0.0,0.0
+7699,Where is the headquarter of Southeast University?,Location: Nanjing,Nanjing,answered,False,0.0,0.0
+108,Where was Nora Armani born?,Location: I don't know,I don't know,abstained,True,,
+150,Where was Sa Chen born?,Location: I don't know,I don't know,abstained,True,,
+880,Where was Tatsuya Hiruta born?,Location: Japan,Japan,answered,False,2.0,2.0
+6338,"Where is Wenceslau Braz, Minas Gerais located?",Location: Brazil,Brazil,answered,False,1.0,1.0
+1669,Where did Rene Bond die?,Location: I don't know,I don't know,abstained,True,,
+912,Where was Hu Huanyong born?,Location: Zhejiang,Zhejiang,answered,False,,
+7424,Where is the headquarter of Ankai?,Location: I don't know,I don't know,abstained,True,,
+12951,Where is Las Palmas de Gran Canaria International Film Festival located?,Location: Spain,Spain,answered,False,2.0,2.0
+7211,Where is the headquarter of Globacom?,Location: Nigeria,Nigeria,answered,False,1.0,1.0
+838,Where was Ken Sueda born?,Location: United States,United States,answered,False,,
+13465,Where is 21 April 2004 Basra bombings located?,Location: Iraq,Iraq,answered,False,2.0,2.0
+6677,Where is Figueres railway station located?,Location: Spain,Spain,answered,False,2.0,2.0
+6276,Where is Sai located?,Location: I don't know,I don't know,abstained,True,,
+6874,Where is Məhəmmədli located?,Location: Azerbaijan,Azerbaijan,answered,False,1.0,1.0
+12810,Where is Kuhl & Leyton located?,Location: United States,United States,answered,False,,
+1038,Where did Stafford L. Warren die?,Location: I don't know,I don't know,abstained,True,,
+1721,Where did John I of Aragon die?,Location: I don't know,I don't know,abstained,True,,
+6571,Where is Urubamba District located?,Location: Peru,Peru,answered,False,2.0,2.0
+1788,Where did Shūsei Nakamura die?,Location: Japan,Japan,answered,False,1.0,1.0
+7963,Where is the headquarter of Dayton Superior?,Location: United States,United States,answered,False,,
+180,Where was Mohamed Bentiba born?,Location: Algeria,Algeria,answered,False,1.0,1.0
+7345,Where is the headquarter of Grêmio Esportivo Glória?,Location: Brazil,Brazil,answered,False,2.0,2.0
+7336,Where is the headquarter of National Movement for the Liberation of Azawad?,Location: I don't know,I don't know,abstained,True,,
+1606,Where did Sayyid Ajjal Shams al-Din Omar die?,Location: I don't know,I don't know,abstained,True,,
+12994,Where is Altar frontal from La Seu d'Urgell or of The Apostles located?,Location: Spain,Spain,answered,False,2.0,2.0
+7885,Where is the headquarter of Tokyopop?,Location: I don't know,I don't know,abstained,True,,
+7279,Where is the headquarter of MySocialCloud?,Location: I don't know,I don't know,abstained,True,,
+6627,Where is Makamba located?,Location: I don't know,I don't know,abstained,True,,
+6272,Where is Mazhang District located?,Location: China,China,answered,False,2.0,2.0
+596,Where was Kenshi Hirokane born?,Location: Japan,Japan,answered,False,2.0,2.0
+7676,Where is the headquarter of Osaka International College?,Location: Japan,Japan,answered,False,2.0,2.0
+13562,Where is 1922 British Mount Everest Expedition located?,Location: I don't know,I don't know,abstained,True,,
+13068,Where is Cathedral of St. Vincent de Paul located?,Location: United States,United States,answered,False,,
+471,Where was Tomomi Morita born?,Location: Japan,Japan,answered,False,1.0,1.0
+7202,Where is the headquarter of The Asylum?,Location: United States,United States,answered,False,2.0,2.0
+142,Where was Guy Gabaldon born?,Location: I don't know,I don't know,abstained,True,,
+97,Where was César Belli born?,Location: I don't know,I don't know,abstained,True,,
+6774,Where is Miyamura Station located?,Location: Japan,Japan,answered,False,2.0,2.0
+7339,Where is the headquarter of Siirtspor?,Location: Turkey,Turkey,answered,False,1.0,1.0
+48,Where was Leung Ka-lau born?,Location: I don't know,I don't know,abstained,True,,
+1359,Where did Bill Pratney die?,Location: I don't know,I don't know,abstained,True,,
+12782,Where is 1948 Cairo bombings located?,Location: Egypt,Egypt,answered,False,1.0,1.0
+7461,Where is the headquarter of Botswana Telecommunications Corporation?,Location: Gaborone,Gaborone,answered,False,0.0,0.0
+6644,Where is Wadi Yaroun located?,Location: Israel,Israel,answered,False,,
+540,Where was Philip Hollick born?,Location: I don't know,I don't know,abstained,True,,
+7698,Where is the headquarter of Danubio F.C.?,Location: Italy,Italy,answered,False,,
+6441,Where is Olombrada located?,Location: I don't know,I don't know,abstained,True,,
+6159,Where is Kissousa located?,Location: I don't know,I don't know,abstained,True,,
+1722,Where did Ángel Leyes die?,Location: I don't know,I don't know,abstained,True,,
+7438,Where is the headquarter of Anna Lindh Euro-Mediterranean Foundation for the Dialogue Between Cultures?,Location: Sweden,Sweden,answered,False,,
+6722,Where is Treaty of Seville located?,Location: Spain,Spain,answered,False,2.0,2.0
+13015,Where is Tochigi patricide case located?,Location: Japan,Japan,answered,False,2.0,2.0
+6403,Where is 228 Peace Memorial Park located?,Location: Taiwan,Taiwan,answered,False,1.0,1.0
+7752,Where is the headquarter of Defensa y Justicia?,Location: Argentina,Argentina,answered,False,2.0,2.0
+7439,Where is the headquarter of OmniPeace?,Location: I don't know,I don't know,abstained,True,,
+1173,Where did Ibn Yunus die?,Location: Egypt,Egypt,answered,False,1.0,1.0
+7621,Where is the headquarter of Northwest Minzu University?,Location: I don't know,I don't know,abstained,True,,
+1137,Where did William Ganz die?,Location: I don't know,I don't know,abstained,True,,
+316,Where was Leon Dănăilă born?,Location: Romania,Romania,answered,False,2.0,2.0
+531,Where was Griffin Frazen born?,Location: United States,United States,answered,False,2.0,2.0
+205,"Where was Leopold V, Archduke of Austria born?",Location: I don't know,I don't know,abstained,True,,
+7485,Where is the headquarter of Dacia?,Location: I don't know,I don't know,abstained,True,,
+1797,Where did Bill Manhoff die?,Location: I don't know,I don't know,abstained,True,,
+13716,Where was Nite City founded?,Location: I don't know,I don't know,abstained,True,,
+1665,Where did José Maldonado González die?,Location: I don't know,I don't know,abstained,True,,
+6666,Where is Afghanistan Football Federation stadium located?,Location: Afghanistan,Afghanistan,answered,False,1.0,1.0
+7304,Where is the headquarter of Fish Information and Services?,Location: I don't know,I don't know,abstained,True,,
+67,Where was Josep Riera i Aragó born?,Location: Spain,Spain,answered,False,2.0,2.0
+1110,Where did Francisco Casavella die?,Location: I don't know,I don't know,abstained,True,,
+723,Where was Shinya Sato born?,Location: Japan,Japan,answered,False,2.0,2.0
+6467,Where is Port Said Stadium located?,Location: Egypt,Egypt,answered,False,1.0,1.0
+6227,Where is Fındıqlı located?,Location: Turkey,Turkey,answered,False,,
+7105,Where is the headquarter of YRF Entertainment?,Location: China,China,answered,False,,
+6420,Where is Postal River located?,Location: Alaska,Alaska,answered,False,,
+7085,Where is the headquarter of Ministry of Foreign Affairs?,Location: Beijing,Beijing,answered,False,,
+927,Where was Zhang Guangjian born?,Location: I don't know,I don't know,abstained,True,,
+7275,Where is the headquarter of AIX Records?,Location: I don't know,I don't know,abstained,True,,
+873,Where was Francisco Cornejo born?,Location: I don't know,I don't know,abstained,True,,
+13619,Where is 2011 Spanish Grand Prix located?,Location: Spain,Spain,answered,False,2.0,2.0
+7166,Where is the headquarter of Vakhsh Qurghonteppa?,Location: Tajikistan,Tajikistan,answered,False,1.0,1.0
+12823,Where is Battle of Musa Qala located?,Location: Afghanistan,Afghanistan,answered,False,2.0,2.0
+7787,Where is the headquarter of 10th Division?,Location: I don't know,I don't know,abstained,True,,
+1975,Where did Arno Frey die?,Location: I don't know,I don't know,abstained,True,,
+126,Where was Miriam Escofet born?,Location: Spain,Spain,answered,False,2.0,2.0
+13081,Where is Battle of Piribebuy located?,Location: Uruguay,Uruguay,answered,False,,
+7803,Where is the headquarter of Gernika Club?,Location: Spain,Spain,answered,False,2.0,2.0
+7890,Where is the headquarter of Bit Managers?,Location: I don't know,I don't know,abstained,True,,
+1872,Where did Frank Ferguson die?,Location: I don't know,I don't know,abstained,True,,
+7760,Where is the headquarter of Shonan Bellmare?,Location: Japan,Japan,answered,False,2.0,2.0
+6749,Where is California State Route 166 located?,Location: California,California,answered,False,0.0,0.0
+13811,Where was Sixx:A.M. founded?,Location: United States,United States,answered,False,2.0,2.0
+6264,Where is Huancavelica located?,Location: Peru,Peru,answered,False,0.0,0.0
+6938,Where is Cahuac District located?,Location: Peru,Peru,answered,False,2.0,2.0
+7673,Where is the headquarter of World Victory Road?,Location: United States,United States,answered,False,,
+7397,Where is the headquarter of 20th Century Fox Records?,Location: I don't know,I don't know,abstained,True,,
+353,Where was Adoniran Barbosa born?,Location: Brazil,Brazil,answered,False,2.0,2.0
+7072,Where is the headquarter of Mitsui Group?,"Location: Tokyo, Japan","Tokyo, Japan",answered,False,0.0,0.0
+1808,Where did Ichiro Nakagawa die?,Location: I don't know,I don't know,abstained,True,,
+280,Where was Alejandro Ferguson born?,Location: I don't know,I don't know,abstained,True,,
+1563,Where did Leo Rajendram Antony die?,Location: I don't know,I don't know,abstained,True,,
+1134,Where did Pigneau de Behaine die?,Location: I don't know,I don't know,abstained,True,,
+7444,Where is the headquarter of YiNongDai?,Location: China,China,answered,False,1.0,1.0
+13659,Where is Fukuoka International Marathon located?,Location: Japan,Japan,answered,False,2.0,2.0
+13256,Where is Miss World 2012 located?,Location: I don't know,I don't know,abstained,True,,
+570,Where was Déborah Rodríguez born?,Location: I don't know,I don't know,abstained,True,,
+7584,Where is the headquarter of Kyoto Animation?,Location: Japan,Japan,answered,False,2.0,2.0
+101,Where was Luan Bo born?,Location: I don't know,I don't know,abstained,True,,
+7581,Where is the headquarter of FC Machida Zelvia?,Location: Japan,Japan,answered,False,2.0,2.0
+460,Where was Rabah Kadre born?,Location: Algeria,Algeria,answered,False,0.0,0.0
+334,Where was Junichi Usui born?,Location: Japan,Japan,answered,False,1.0,1.0
+1535,Where did Rafael Dieste die?,Location: Uruguay,Uruguay,answered,False,,
+1862,Where did Ramón Monzant die?,Location: Spain,Spain,answered,False,,
+6907,Where is Castillo de Bujalance located?,Location: Spain,Spain,answered,False,3.0,3.0
+302,Where was Gualberto Fabricio de Vagad born?,Location: I don't know,I don't know,abstained,True,,
+12806,Where is The Epiphany located?,Location: I don't know,I don't know,abstained,True,,
+13102,Where is Live in Japan located?,Location: I don't know,I don't know,abstained,True,,
+437,Where was Gonzalo Rodríguez born?,Location: I don't know,I don't know,abstained,True,,
+7666,Where is the headquarter of Aoni Production?,Location: Japan,Japan,answered,False,0.0,0.0
+7917,"Where is the headquarter of Scarab Productions, Inc.?",Location: United States,United States,answered,False,2.0,2.0
+387,Where was Jeffrey Friedman born?,Location: United States,United States,answered,False,2.0,2.0
+13280,Where is Duhok International Film Festival located?,Location: Iraq,Iraq,answered,False,2.0,2.0
+13534,Where is Battle of Lake Poyang located?,Location: China,China,answered,False,2.0,2.0
+13634,Where is 1987 Spanish Grand Prix located?,Location: Spain,Spain,answered,False,2.0,2.0
+7106,Where is the headquarter of Logan Brothers?,Location: I don't know,I don't know,abstained,True,,
+781,Where was Nati Abascal born?,Location: I don't know,I don't know,abstained,True,,
+13096,Where is Ankara DSİ S.K. located?,Location: Turkey,Turkey,answered,False,2.0,2.0
+7184,Where is the headquarter of Fatih University?,Location: Turkey,Turkey,answered,False,1.0,1.0
+1853,Where did Dorothy Kirsten die?,Location: I don't know,I don't know,abstained,True,,
+7446,Where is the headquarter of Operário Futebol Clube?,Location: Brazil,Brazil,answered,False,2.0,2.0
+7021,Where is the headquarter of TAAG Angola Airlines?,Location: Angola,Angola,answered,False,1.0,1.0
+6466,Where is Mount Hasan located?,Location: Turkey,Turkey,answered,False,1.0,1.0
+13489,Where is Speed skating at the 2012 Winter Youth Olympics – Girls' 500 metres located?,Location: I don't know,I don't know,abstained,True,,
+1870,Where did Charles Lavigerie die?,Location: Algeria,Algeria,answered,False,1.0,1.0
+12834,Where is Battle of Talavera located?,Location: Spain,Spain,answered,False,2.0,2.0
+7684,Where is the headquarter of Bunsei University of Art?,Location: Japan,Japan,answered,False,2.0,2.0
+13378,Where is PIA Flight 705 located?,Location: I don't know,I don't know,abstained,True,,
+13594,Where is Flaoui located?,Location: Tunisia,Tunisia,answered,False,,
+13046,Where is Shriekfest located?,Location: I don't know,I don't know,abstained,True,,
+1768,Where did Arnold Karplus die?,Location: I don't know,I don't know,abstained,True,,
+6209,Where is Rebollar located?,Location: Mexico,Mexico,answered,False,,
+7528,Where is the headquarter of The Strongest?,Location: Bolivia,Bolivia,answered,False,1.0,1.0
+6437,Where is Brumado located?,Location: Brazil,Brazil,answered,False,1.0,1.0
+6464,Where is Kalbajar District located?,Location: Azerbaijan,Azerbaijan,answered,False,0.0,0.0
+13249,Where is Qattara Depression Project located?,Location: Egypt,Egypt,answered,False,0.0,0.0
+6541,Where is Sankt Koloman located?,Location: Austria,Austria,answered,False,2.0,2.0
+1507,Where did José Patricio Guggiari die?,Location: I don't know,I don't know,abstained,True,,
+1161,Where did Arthur Letts die?,Location: I don't know,I don't know,abstained,True,,
+73,Where was Bruno Carvalho born?,Location: Portugal,Portugal,answered,False,,
+13498,Where is Festival on Wheels located?,Location: India,India,answered,False,,
+1499,Where did Mohamed Boudiaf die?,Location: Algeria,Algeria,answered,False,1.0,1.0
+1453,Where did George Jessel die?,Location: New York City,New York City,answered,False,,
+13335,Where is 1962 Open Championship located?,Location: Scotland,Scotland,answered,False,1.0,1.0
+6932,Where is Hofkirchen im Mühlkreis located?,Location: Austria,Austria,answered,False,1.0,1.0
+8,Where was Fenwick W. English born?,Location: United States,United States,answered,False,2.0,2.0
+6330,Where is Nerima-kasugachō Station located?,Location: Japan,Japan,answered,False,2.0,2.0

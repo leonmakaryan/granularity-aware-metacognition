@@ -1,0 +1,576 @@
+{
+  "checked": 63,
+  "stale": 3,
+  "rows": [
+    {
+      "artifact": "conflict_1p5b_dates_sft_s0.json",
+      "adapter": "dates_sft_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 12:12",
+      "json_mtime": "2026-08-12 14:38",
+      "csv_mtime": "2026-08-12 14:38",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "conflict_1p5b_joint_s0w2.json",
+      "adapter": "joint_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 15:12",
+      "json_mtime": "2026-08-12 14:44",
+      "csv_mtime": "2026-08-12 14:44",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "conflict_1p5b_sft_v2_loc.json",
+      "adapter": "sft_v2_loc",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 10:26",
+      "json_mtime": "2026-08-12 14:51",
+      "csv_mtime": "2026-08-12 14:51",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "conflict_7b_dates_sft_7b_s0w2.json",
+      "adapter": "dates_sft_7b_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-08 14:24",
+      "json_mtime": "2026-08-12 16:35",
+      "csv_mtime": "2026-08-12 16:35",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "conflict_7b_joint_7b_s0w2.json",
+      "adapter": "joint_7b_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 16:32",
+      "json_mtime": "2026-08-12 16:43",
+      "csv_mtime": "2026-08-12 16:43",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "conflict_7b_sft_loc_7b_t2_s0.json",
+      "adapter": "sft_loc_7b_t2_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 14:48",
+      "json_mtime": "2026-08-12 16:53",
+      "csv_mtime": "2026-08-12 16:53",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "dates_sft_eval_7b_s0w2.json",
+      "adapter": "dates_sft_7b_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-08 14:24",
+      "json_mtime": "2026-07-08 14:28",
+      "csv_mtime": "2026-07-08 14:28",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "dates_sft_eval_7b_s1w2.json",
+      "adapter": "dates_sft_7b_s1w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 18:43",
+      "json_mtime": "2026-07-29 18:46",
+      "csv_mtime": "2026-07-08 15:13",
+      "verdict": "STALE CSV",
+      "csv_older_by_hours": 507.5
+    },
+    {
+      "artifact": "dates_sft_eval_7b_s2w2.json",
+      "adapter": "dates_sft_7b_s2w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 19:22",
+      "json_mtime": "2026-07-29 19:26",
+      "csv_mtime": "2026-07-08 15:50",
+      "verdict": "STALE CSV",
+      "csv_older_by_hours": 507.5
+    },
+    {
+      "artifact": "dates_sft_eval_7b_s3w2.json",
+      "adapter": "dates_sft_7b_s3w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 20:02",
+      "json_mtime": "2026-07-29 20:05",
+      "csv_mtime": "2026-07-08 16:28",
+      "verdict": "STALE CSV",
+      "csv_older_by_hours": 507.6
+    },
+    {
+      "artifact": "dates_sft_eval_s0.json",
+      "adapter": "dates_sft_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 12:12",
+      "json_mtime": "2026-07-07 12:14",
+      "csv_mtime": "2026-07-07 12:14",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "dates_sft_eval_s1w2.json",
+      "adapter": "dates_sft_s1w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 12:55",
+      "json_mtime": "2026-07-07 12:57",
+      "csv_mtime": "2026-07-07 12:57",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "dates_sft_eval_s2w2.json",
+      "adapter": "dates_sft_s2w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 13:10",
+      "json_mtime": "2026-07-07 13:12",
+      "csv_mtime": "2026-07-07 13:12",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "dates_sft_eval_s3w2.json",
+      "adapter": "dates_sft_s3w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 13:25",
+      "json_mtime": "2026-07-07 13:27",
+      "csv_mtime": "2026-07-07 13:27",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "entity_1p5b_dates_sft_s0.json",
+      "adapter": "dates_sft_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 12:12",
+      "json_mtime": "2026-08-12 16:26",
+      "csv_mtime": "2026-08-12 16:26",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "entity_1p5b_joint_s0w2.json",
+      "adapter": "joint_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 15:12",
+      "json_mtime": "2026-08-12 16:29",
+      "csv_mtime": "2026-08-12 16:29",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "entity_1p5b_sft_v2_loc.json",
+      "adapter": "sft_v2_loc",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 10:26",
+      "json_mtime": "2026-08-12 16:33",
+      "csv_mtime": "2026-08-12 16:33",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "entity_7b_dates_sft_7b_s0w2.json",
+      "adapter": "dates_sft_7b_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-08 14:24",
+      "json_mtime": "2026-08-12 20:50",
+      "csv_mtime": "2026-08-12 20:50",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "entity_7b_joint_7b_t2_s0.json",
+      "adapter": "joint_7b_t2_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 18:00",
+      "json_mtime": "2026-08-12 20:54",
+      "csv_mtime": "2026-08-12 20:54",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "entity_7b_sft_loc_7b_t2_s0.json",
+      "adapter": "sft_loc_7b_t2_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 14:48",
+      "json_mtime": "2026-08-12 20:58",
+      "csv_mtime": "2026-08-12 20:58",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "generalization_dpo.json",
+      "adapter": "dpo",
+      "adapter_found": true,
+      "adapter_mtime": "2026-06-15 20:21",
+      "json_mtime": "2026-06-15 20:22",
+      "csv_mtime": "-",
+      "verdict": "no csv"
+    },
+    {
+      "artifact": "generalization_dpo2.json",
+      "adapter": "dpo2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-06-15 20:25",
+      "json_mtime": "2026-06-15 20:26",
+      "csv_mtime": "-",
+      "verdict": "no csv"
+    },
+    {
+      "artifact": "generalization_sft.json",
+      "adapter": "sft",
+      "adapter_found": true,
+      "adapter_mtime": "2026-06-15 19:56",
+      "json_mtime": "2026-06-15 20:03",
+      "csv_mtime": "-",
+      "verdict": "no csv"
+    },
+    {
+      "artifact": "generalization_sft_bal.json",
+      "adapter": "sft_bal",
+      "adapter_found": true,
+      "adapter_mtime": "2026-06-15 20:14",
+      "json_mtime": "2026-06-15 20:15",
+      "csv_mtime": "-",
+      "verdict": "no csv"
+    },
+    {
+      "artifact": "joint_7b_s0w2.json",
+      "adapter": "joint_7b_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 16:32",
+      "json_mtime": "2026-07-29 16:32",
+      "csv_mtime": "-",
+      "verdict": "no csv"
+    },
+    {
+      "artifact": "joint_7b_t2_s0.json",
+      "adapter": "joint_7b_t2_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 18:00",
+      "json_mtime": "2026-08-12 18:00",
+      "csv_mtime": "-",
+      "verdict": "no csv"
+    },
+    {
+      "artifact": "joint_7b_t2_s1.json",
+      "adapter": "joint_7b_t2_s1",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 19:15",
+      "json_mtime": "2026-08-12 19:15",
+      "csv_mtime": "-",
+      "verdict": "no csv"
+    },
+    {
+      "artifact": "joint_7b_t2_s2.json",
+      "adapter": "joint_7b_t2_s2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 20:28",
+      "json_mtime": "2026-08-12 20:28",
+      "csv_mtime": "-",
+      "verdict": "no csv"
+    },
+    {
+      "artifact": "joint_s0w2.json",
+      "adapter": "joint_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 15:12",
+      "json_mtime": "2026-07-29 15:12",
+      "csv_mtime": "-",
+      "verdict": "no csv"
+    },
+    {
+      "artifact": "transfer_1p5b_dates_sft_s0_on_dates.json",
+      "adapter": "dates_sft_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 12:12",
+      "json_mtime": "2026-07-29 14:47",
+      "csv_mtime": "2026-07-29 14:47",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_1p5b_dates_sft_s0_on_locations.json",
+      "adapter": "dates_sft_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 12:12",
+      "json_mtime": "2026-07-29 14:39",
+      "csv_mtime": "2026-07-29 14:39",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_1p5b_dates_sft_s1w2_on_locations.json",
+      "adapter": "dates_sft_s1w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 12:55",
+      "json_mtime": "2026-07-29 15:17",
+      "csv_mtime": "2026-07-29 15:17",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_1p5b_dates_sft_s2w2_on_locations.json",
+      "adapter": "dates_sft_s2w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 13:10",
+      "json_mtime": "2026-07-29 15:18",
+      "csv_mtime": "2026-07-29 15:18",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_1p5b_dates_sft_s3w2_on_locations.json",
+      "adapter": "dates_sft_s3w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 13:25",
+      "json_mtime": "2026-07-29 15:19",
+      "csv_mtime": "2026-07-29 15:19",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_1p5b_joint_s0w2_on_dates.json",
+      "adapter": "joint_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 15:12",
+      "json_mtime": "2026-07-29 15:15",
+      "csv_mtime": "2026-07-29 15:15",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_1p5b_joint_s0w2_on_locations.json",
+      "adapter": "joint_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 15:12",
+      "json_mtime": "2026-07-29 15:13",
+      "csv_mtime": "2026-07-29 15:13",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_1p5b_sft_v2_loc_on_dates.json",
+      "adapter": "sft_v2_loc",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 10:26",
+      "json_mtime": "2026-07-29 14:41",
+      "csv_mtime": "2026-07-29 14:41",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_1p5b_sft_v2_loc_on_locations.json",
+      "adapter": "sft_v2_loc",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-07 10:26",
+      "json_mtime": "2026-07-29 14:44",
+      "csv_mtime": "2026-07-29 14:44",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_dates_sft_7b_s0w2_on_dates.json",
+      "adapter": "dates_sft_7b_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-08 14:24",
+      "json_mtime": "2026-07-29 14:54",
+      "csv_mtime": "2026-07-29 14:54",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_dates_sft_7b_s0w2_on_locations.json",
+      "adapter": "dates_sft_7b_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-08 14:24",
+      "json_mtime": "2026-07-29 14:38",
+      "csv_mtime": "2026-07-29 14:38",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_dates_sft_7b_s1w2_on_locations.json",
+      "adapter": "dates_sft_7b_s1w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 18:43",
+      "json_mtime": "2026-07-29 18:48",
+      "csv_mtime": "2026-07-29 18:48",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_dates_sft_7b_s2w2_on_locations.json",
+      "adapter": "dates_sft_7b_s2w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 19:22",
+      "json_mtime": "2026-07-29 19:27",
+      "csv_mtime": "2026-07-29 19:27",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_dates_sft_7b_s3w2_on_locations.json",
+      "adapter": "dates_sft_7b_s3w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 20:02",
+      "json_mtime": "2026-07-29 20:07",
+      "csv_mtime": "2026-07-29 20:07",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_joint_7b_s0w2_on_dates.json",
+      "adapter": "joint_7b_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 16:32",
+      "json_mtime": "2026-07-29 16:37",
+      "csv_mtime": "2026-07-29 16:37",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_joint_7b_s0w2_on_locations.json",
+      "adapter": "joint_7b_s0w2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 16:32",
+      "json_mtime": "2026-07-29 16:33",
+      "csv_mtime": "2026-07-29 16:33",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_joint_7b_t2_s0_on_dates.json",
+      "adapter": "joint_7b_t2_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 18:00",
+      "json_mtime": "2026-08-12 18:07",
+      "csv_mtime": "2026-08-12 18:07",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_joint_7b_t2_s0_on_locations.json",
+      "adapter": "joint_7b_t2_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 18:00",
+      "json_mtime": "2026-08-12 18:04",
+      "csv_mtime": "2026-08-12 18:04",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_joint_7b_t2_s1_on_dates.json",
+      "adapter": "joint_7b_t2_s1",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 19:15",
+      "json_mtime": "2026-08-12 19:21",
+      "csv_mtime": "2026-08-12 19:21",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_joint_7b_t2_s1_on_locations.json",
+      "adapter": "joint_7b_t2_s1",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 19:15",
+      "json_mtime": "2026-08-12 19:17",
+      "csv_mtime": "2026-08-12 19:17",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_joint_7b_t2_s2_on_dates.json",
+      "adapter": "joint_7b_t2_s2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 20:28",
+      "json_mtime": "2026-08-12 20:33",
+      "csv_mtime": "2026-08-12 20:33",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_joint_7b_t2_s2_on_locations.json",
+      "adapter": "joint_7b_t2_s2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 20:28",
+      "json_mtime": "2026-08-12 20:30",
+      "csv_mtime": "2026-08-12 20:30",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_sft_8b_on_dates.json",
+      "adapter": "sft_8b",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-01 14:56",
+      "json_mtime": "2026-07-29 14:41",
+      "csv_mtime": "2026-07-29 14:41",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_sft_8b_on_locations.json",
+      "adapter": "sft_8b",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-01 14:56",
+      "json_mtime": "2026-07-29 14:50",
+      "csv_mtime": "2026-07-29 14:50",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_sft_loc_7b_t2_s0_on_dates.json",
+      "adapter": "sft_loc_7b_t2_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 14:48",
+      "json_mtime": "2026-08-12 14:53",
+      "csv_mtime": "2026-08-12 14:53",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_sft_loc_7b_t2_s0_on_locations.json",
+      "adapter": "sft_loc_7b_t2_s0",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 14:48",
+      "json_mtime": "2026-08-12 14:50",
+      "csv_mtime": "2026-08-12 14:50",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_sft_loc_7b_t2_s1_on_dates.json",
+      "adapter": "sft_loc_7b_t2_s1",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 15:27",
+      "json_mtime": "2026-08-12 15:32",
+      "csv_mtime": "2026-08-12 15:32",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_sft_loc_7b_t2_s1_on_locations.json",
+      "adapter": "sft_loc_7b_t2_s1",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 15:27",
+      "json_mtime": "2026-08-12 15:29",
+      "csv_mtime": "2026-08-12 15:29",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_sft_loc_7b_t2_s2_on_dates.json",
+      "adapter": "sft_loc_7b_t2_s2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 16:06",
+      "json_mtime": "2026-08-12 16:12",
+      "csv_mtime": "2026-08-12 16:12",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_sft_loc_7b_t2_s2_on_locations.json",
+      "adapter": "sft_loc_7b_t2_s2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-08-12 16:06",
+      "json_mtime": "2026-08-12 16:08",
+      "csv_mtime": "2026-08-12 16:08",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_sft_loc_7b_v2_on_dates.json",
+      "adapter": "sft_loc_7b_v2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 17:11",
+      "json_mtime": "2026-07-29 17:16",
+      "csv_mtime": "2026-07-29 17:16",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_sft_loc_7b_v2_on_locations.json",
+      "adapter": "sft_loc_7b_v2",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-29 17:11",
+      "json_mtime": "2026-07-29 17:13",
+      "csv_mtime": "2026-07-29 17:13",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_sft_surgical_8b_on_dates.json",
+      "adapter": "sft_surgical_8b",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-01 15:20",
+      "json_mtime": "2026-07-29 14:49",
+      "csv_mtime": "2026-07-29 14:49",
+      "verdict": "ok"
+    },
+    {
+      "artifact": "transfer_7b_sft_surgical_8b_on_locations.json",
+      "adapter": "sft_surgical_8b",
+      "adapter_found": true,
+      "adapter_mtime": "2026-07-01 15:20",
+      "json_mtime": "2026-07-29 14:55",
+      "csv_mtime": "2026-07-29 14:55",
+      "verdict": "ok"
+    }
+  ]
+}

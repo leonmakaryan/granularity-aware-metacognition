@@ -1,0 +1,88 @@
+{
+  "created": "2026-09-09",
+  "corrected_scoring": true,
+  "default_model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "locations": {
+    "dataset": "lukasellinger/granola-eq",
+    "relations": [
+      "P131",
+      "P19",
+      "P20",
+      "P276",
+      "P159",
+      "P740"
+    ],
+    "resolved_revision": "afa18652857e319172b0f8f49d5ca0cf99bf74cc",
+    "audit_revision": "afa18652857e319172b0f8f49d5ca0cf99bf74cc",
+    "n": 3187,
+    "splits": {
+      "train": 2884,
+      "test": 303
+    },
+    "per_relation": {
+      "P131/test": 61,
+      "P131/train": 452,
+      "P159/test": 67,
+      "P159/train": 496,
+      "P19/test": 64,
+      "P19/train": 635,
+      "P20/test": 49,
+      "P20/train": 650,
+      "P276/test": 55,
+      "P276/train": 585,
+      "P740/test": 7,
+      "P740/train": 66
+    },
+    "level_patterns_by_depth": {
+      "2": [
+        1.0,
+        4.0
+      ],
+      "3": [
+        1.0,
+        2.5,
+        4.0
+      ],
+      "4": [
+        1.0,
+        2.0,
+        3.0,
+        4.0
+      ]
+    },
+    "depth_pattern_violations": [],
+    "depth_reconstruction_valid": true,
+    "export": "phase2_results/provenance/locations.jsonl",
+    "export_sha256": "d9d9daf81c2f4e6e88c92be3d69dee58c15ac31c3dbdf47e5e5e74cfcc4d26c1"
+  },
+  "dates": {
+    "source": "persons_metadata.jsonl",
+    "source_sha256": "b4f17adda4a66976029d24e829076247e008015c46838604cb0d9670d001b634",
+    "split_seed": 0,
+    "test_frac": 0.15,
+    "n": 3227,
+    "splits": {
+      "train": 2724,
+      "test": 503
+    },
+    "gold_levels": {
+      "DAY": 2572,
+      "YEAR": 594,
+      "MONTH": 23,
+      "CENTURY": 24,
+      "DECADE": 14
+    },
+    "person_level_split_clean": true,
+    "export": "phase2_results/provenance/dates.jsonl",
+    "export_sha256": "a90be30e61a26221a043c72c054fc4b4683295a68abe5162874625133e0ebd75"
+  },
+  "code_sha256": {
+    "src/data.py": "77bfecadfaa78806735d60ea5121fb232dd2bdde288644a44d4840d842089932",
+    "src/dates.py": "bfca137d9070c8f197912f0e88aba719843d59ec6b08ab9fa4661f9db0020478",
+    "src/text.py": "16df12003938a536293771019c99525d8313b2a1ea60fd4795f1940762251540",
+    "src/eval.py": "18b513ae9fc34d8a541ba8c0bff6f6004fc6b4fb603481c3b1733c9af3c175b3",
+    "src/config.py": "68853807ab1125d54c0ba16bb026b7d0de41b54302f67da877959f4fae6591d2",
+    "src/capability.py": "3bcdd302c122ef80c4a1ef3354f04c523ff6e1f4076fab860ecdc94a92458d78",
+    "src/prompt.py": "c97d053b2464e76221c85f6ffebcdafaabc442c73fd5427559fcd35b93dae8c2"
+  }
+}

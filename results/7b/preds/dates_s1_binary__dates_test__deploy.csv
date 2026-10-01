@@ -1,0 +1,506 @@
+qid,unit,relation,question,raw,kind,text,correct,level,score,has_support,support,category,exact
+Q100937_birth,Q100937,,When was Fred Astaire born?,Date: 1899,answered,1899,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q100937_death,Q100937,,When did Fred Astaire die?,"Date: June 22, 1987",answered,"June 22, 1987",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q101054_birth,Q101054,,When was Baháʼu'lláh born?,Date: 1817,answered,1817,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q101054_death,Q101054,,When did Baháʼu'lláh die?,Date: 1892,answered,1892,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q102323_birth,Q102323,,When was Snorri Sturluson born?,Date: 1179,answered,1179,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q102323_death,Q102323,,When did Snorri Sturluson die?,Date: 1241,answered,1241,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q102585_birth,Q102585,,When was Johann Gottlieb Fichte born?,Date: 1762,answered,1762,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q102585_death,Q102585,,When did Johann Gottlieb Fichte die?,Date: 1804,answered,1804,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q104049_birth,Q104049,,When was Sidney Poitier born?,Date: 1927,answered,1927,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q104049_death,Q104049,,When did Sidney Poitier die?,"Date: February 5, 2022",answered,"February 5, 2022",False,,-1.0,True,2.0,wrong_despite_support,0.0
+Q104190_birth,Q104190,,When was Robert Walpole born?,Date: 1676,answered,1676,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q104190_death,Q104190,,When did Robert Walpole die?,Date: 1745,answered,1745,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q1047_birth,Q1047,,When was Jawaharlal Nehru born?,Date: 1889,answered,1889,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q1047_death,Q1047,,When did Jawaharlal Nehru die?,Date: 1964,answered,1964,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q1048_birth,Q1048,,When was Julius Caesar born?,Date: 100 BC,answered,100 BC,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q1048_death,Q1048,,When did Julius Caesar die?,Date: 44 BCE,answered,44 BCE,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q104919_birth,Q104919,,When was Gabriel Fauré born?,Date: 1845,answered,1845,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q104919_death,Q104919,,When did Gabriel Fauré die?,Date: 1924,answered,1924,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q107473_birth,Q107473,,When was Karl Barth born?,Date: 1886,answered,1886,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q107473_death,Q107473,,When did Karl Barth die?,Date: 1968,answered,1968,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q11641_birth,Q11641,,When was Grace Hopper born?,"Date: December 9, 1906",answered,"December 9, 1906",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q11641_death,Q11641,,When did Grace Hopper die?,"Date: October 1, 1992",answered,"October 1, 1992",False,,-1.0,True,2.0,wrong_despite_support,0.0
+Q1203_birth,Q1203,,When was John Lennon born?,"Date: October 9, 1940",answered,"October 9, 1940",True,0.0,1.0,True,2.0,correct_finer_than_support,0.0
+Q1203_death,Q1203,,When did John Lennon die?,"Date: December 8, 1980",answered,"December 8, 1980",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q1231345_birth,Q1231345,,When was Paul Kagame born?,Date: 1957,answered,1957,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q123867_birth,Q123867,,When was Marquis de Sade born?,Date: 1742,answered,1742,False,,-0.5393459267796299,True,2.0,wrong_despite_support,0.0
+Q123867_death,Q123867,,When did Marquis de Sade die?,Date: 1814,answered,1814,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q125121_birth,Q125121,,When was Aretha Franklin born?,Date: 1942,answered,1942,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q125121_death,Q125121,,When did Aretha Franklin die?,"Date: August 16, 2018",answered,"August 16, 2018",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q125249_birth,Q125249,,When was William James born?,Date: 1842,answered,1842,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q125249_death,Q125249,,When did William James die?,Date: I don't know,abstained,I don't know,False,,0.0,True,0.0,abstained_despite_support,0.0
+Q1268_birth,Q1268,,When was Frédéric Chopin born?,"Date: February 22, 1810",answered,"February 22, 1810",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q1268_death,Q1268,,When did Frédéric Chopin die?,Date: 1849,answered,1849,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q127318_birth,Q127318,,When was George III born?,Date: 1738,answered,1738,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q127318_death,Q127318,,When did George III die?,Date: 1820,answered,1820,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q128460_birth,Q128460,,When was Charles Perrault born?,Date: 1628,answered,1628,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q128460_death,Q128460,,When did Charles Perrault die?,Date: 1688,answered,1688,False,,-0.5393459267796299,True,,answered_without_support_wrong,0.0
+Q128746_birth,Q128746,,When was Irving Berlin born?,"Date: May 11, 1888",answered,"May 11, 1888",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q128746_death,Q128746,,When did Irving Berlin die?,"Date: September 22, 1989",answered,"September 22, 1989",True,0.0,1.0,True,1.0,correct_finer_than_support,0.0
+Q129006_birth,Q129006,,When was Clement Attlee born?,Date: 1883,answered,1883,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q129006_death,Q129006,,When did Clement Attlee die?,Date: 1967,answered,1967,True,2.0,0.5393459267796299,True,1.0,correct_coarser_than_support,0.0
+Q129772_birth,Q129772,,When was Xenophon born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q129772_death,Q129772,,When did Xenophon die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q130734_birth,Q130734,,When was Nicholas I of Russia born?,Date: 1796,answered,1796,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q130734_death,Q130734,,When did Nicholas I of Russia die?,Date: 1855,answered,1855,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q130752_birth,Q130752,,When was Elizabeth of Russia born?,"Date: April 29, 1709",answered,"April 29, 1709",False,,-1.0,True,2.0,wrong_despite_support,0.0
+Q130752_death,Q130752,,When did Elizabeth of Russia die?,Date: 1796,answered,1796,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q131333_birth,Q131333,,When was George Eliot born?,Date: 1819,answered,1819,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q131333_death,Q131333,,When did George Eliot die?,Date: 1880,answered,1880,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q13230_birth,Q13230,,When was Ferdinand de Saussure born?,Date: 1857,answered,1857,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q13230_death,Q13230,,When did Ferdinand de Saussure die?,Date: 1953,answered,1953,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q132345_birth,Q132345,,When was Shinzo Abe born?,Date: 1954,answered,1954,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q132345_death,Q132345,,When did Shinzo Abe die?,"Date: July 8, 2022",answered,"July 8, 2022",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q133054_birth,Q133054,,When was Sylvia Plath born?,Date: 1932,answered,1932,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q133054_death,Q133054,,When did Sylvia Plath die?,Date: 1963,answered,1963,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q133544_birth,Q133544,,When was John Logie Baird born?,Date: 1888,answered,1888,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q133544_death,Q133544,,When did John Logie Baird die?,Date: 1946,answered,1946,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q1403_birth,Q1403,,When was Luigi Pirandello born?,Date: 1867,answered,1867,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q1403_death,Q1403,,When did Luigi Pirandello die?,Date: 1936,answered,1936,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q1423_birth,Q1423,,When was Domitian born?,Date: 15,answered,15,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q1423_death,Q1423,,When did Domitian die?,Date: 96,answered,96,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q144565_birth,Q144565,,When was Tughril I born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q144565_death,Q144565,,When did Tughril I die?,Date: 1063,answered,1063,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q15031_birth,Q15031,,When was Xi Jinping born?,Date: 1953,answered,1953,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q150611_birth,Q150611,,"When was Ferdinand I, Holy Roman Emperor born?",Date: 1496,answered,1496,False,,-0.5393459267796299,True,,answered_without_support_wrong,0.0
+Q150611_death,Q150611,,"When did Ferdinand I, Holy Roman Emperor die?",Date: 1564,answered,1564,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q150712_birth,Q150712,,When was Charles the Fat born?,Date: 839,answered,839,False,,-0.5393459267796299,True,,answered_without_support_wrong,0.0
+Q150712_death,Q150712,,When did Charles the Fat die?,Date: 888,answered,888,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q150910_birth,Q150910,,When was Charles Algernon Parsons born?,Date: 1854,answered,1854,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q150910_death,Q150910,,When did Charles Algernon Parsons die?,Date: 1931,answered,1931,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q1512_birth,Q1512,,When was Robert Louis Stevenson born?,"Date: November 13, 1850",answered,"November 13, 1850",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q1512_death,Q1512,,When did Robert Louis Stevenson die?,"Date: December 3, 1894",answered,"December 3, 1894",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q151414_birth,Q151414,,When was George C. Marshall born?,Date: 1880,answered,1880,True,2.0,0.5393459267796299,True,1.0,correct_coarser_than_support,0.0
+Q151414_death,Q151414,,When did George C. Marshall die?,Date: 1959,answered,1959,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q1514_birth,Q1514,,When was Janis Joplin born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q1514_death,Q1514,,When did Janis Joplin die?,Date: 1970,answered,1970,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q151509_birth,Q151509,,When was Ibn Saud born?,Date: 1865,answered,1865,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q151509_death,Q151509,,When did Ibn Saud die?,Date: 1953,answered,1953,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q151564_birth,Q151564,,When was Frederick Sanger born?,Date: 1918,answered,1918,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q151564_death,Q151564,,When did Frederick Sanger die?,Date: 2013,answered,2013,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q151929_birth,Q151929,,When was Eduard Shevardnadze born?,Date: 1928,answered,1928,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q151929_death,Q151929,,When did Eduard Shevardnadze die?,Date: 2014,answered,2014,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q152043_birth,Q152043,,When was Mstislav Rostropovich born?,Date: 1927,answered,1927,True,2.0,0.5393459267796299,True,1.0,correct_coarser_than_support,0.0
+Q152043_death,Q152043,,When did Mstislav Rostropovich die?,Date: 1997,answered,1997,False,,-0.5393459267796299,True,,answered_without_support_wrong,0.0
+Q152265_birth,Q152265,,When was Mohammad Zahir Shah born?,Date: 1914,answered,1914,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q152265_death,Q152265,,When did Mohammad Zahir Shah die?,Date: 2007,answered,2007,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q152272_birth,Q152272,,When was Georges Méliès born?,Date: 1861,answered,1861,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q152272_death,Q152272,,When did Georges Méliès die?,Date: 1938,answered,1938,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q152325_birth,Q152325,,When was Isoroku Yamamoto born?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q152325_death,Q152325,,When did Isoroku Yamamoto die?,"Date: April 18, 1943",answered,"April 18, 1943",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q152474_birth,Q152474,,When was Rafael Trujillo born?,Date: 1891,answered,1891,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q152474_death,Q152474,,When did Rafael Trujillo die?,Date: 1961,answered,1961,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q152513_birth,Q152513,,When was Henry Wadsworth Longfellow born?,Date: 1807,answered,1807,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q152513_death,Q152513,,When did Henry Wadsworth Longfellow die?,Date: 1882,answered,1882,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q154545_birth,Q154545,,When was Léopold Sédar Senghor born?,Date: 1906,answered,1906,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q154545_death,Q154545,,When did Léopold Sédar Senghor die?,Date: 2001,answered,2001,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q154770_birth,Q154770,,When was Arnold Schoenberg born?,"Date: September 13, 1874",answered,"September 13, 1874",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q154770_death,Q154770,,When did Arnold Schoenberg die?,Date: 1951,answered,1951,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q156193_birth,Q156193,,When was Pierre Boulez born?,Date: 1925,answered,1925,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q156193_death,Q156193,,When did Pierre Boulez die?,Date: 2016,answered,2016,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q156774_birth,Q156774,,When was Pedro II of Brazil born?,Date: 1825,answered,1825,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q156774_death,Q156774,,When did Pedro II of Brazil die?,Date: 1891,answered,1891,True,2.0,0.5393459267796299,True,1.0,correct_coarser_than_support,0.0
+Q160460_birth,Q160460,,When was Al-Farabi born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q160460_death,Q160460,,When did Al-Farabi die?,Date: 11th century,answered,11th century,False,,-0.17978197559321,True,,answered_without_support_wrong,0.0
+Q160538_birth,Q160538,,When was Gian Lorenzo Bernini born?,Date: 1598,answered,1598,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q160538_death,Q160538,,When did Gian Lorenzo Bernini die?,Date: 1680,answered,1680,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q16574_birth,Q16574,,When was Chiang Kai-shek born?,Date: 1887,answered,1887,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q16574_death,Q16574,,When did Chiang Kai-shek die?,"Date: April 5, 1975",answered,"April 5, 1975",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q166092_birth,Q166092,,"When was Camillo Benso, Count of Cavour born?",Date: 1810,answered,1810,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q166092_death,Q166092,,"When did Camillo Benso, Count of Cavour die?",Date: 1861,answered,1861,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q167852_birth,Q167852,,When was Jabir ibn Hayyan born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q167852_death,Q167852,,When did Jabir ibn Hayyan die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q16977_birth,Q16977,,When was Deng Xiaoping born?,Date: 1904,answered,1904,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q16977_death,Q16977,,When did Deng Xiaoping die?,Date: February 1997,answered,February 1997,True,1.0,0.7333632632172139,True,1.0,exact_support_match,1.0
+Q170509_birth,Q170509,,When was Henry James born?,Date: 1843,answered,1843,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q170509_death,Q170509,,When did Henry James die?,"Date: February 28, 1916",answered,"February 28, 1916",True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q171500_birth,Q171500,,When was Haile Gebrselassie born?,"Date: October 29, 1973",answered,"October 29, 1973",False,,-1.0,True,2.0,wrong_despite_support,0.0
+Q171684_birth,Q171684,,When was Syngman Rhee born?,Date: 1875,answered,1875,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q171684_death,Q171684,,When did Syngman Rhee die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q172048_birth,Q172048,,When was Terence born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q172048_death,Q172048,,When did Terence die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q172353_birth,Q172353,,When was Pyrrhus of Epirus born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q172353_death,Q172353,,When did Pyrrhus of Epirus die?,Date: 272 BCE,answered,272 BCE,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q172505_birth,Q172505,,When was Astor Piazzolla born?,Date: 1921,answered,1921,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q172505_death,Q172505,,When did Astor Piazzolla die?,Date: 2006,answered,2006,False,,-0.5393459267796299,True,0.0,wrong_despite_support,0.0
+Q172840_birth,Q172840,,When was Murray Gell-Mann born?,Date: 1929,answered,1929,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q172840_death,Q172840,,When did Murray Gell-Mann die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q173893_birth,Q173893,,When was John Wycliffe born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q173893_death,Q173893,,When did John Wycliffe die?,Date: 1384,answered,1384,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q174152_birth,Q174152,,When was Premchand born?,Date: 1880,answered,1880,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q174152_death,Q174152,,When did Premchand die?,Date: 1936,answered,1936,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q174791_birth,Q174791,,When was Mahmud II born?,Date: 1785,answered,1785,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q174791_death,Q174791,,When did Mahmud II die?,Date: 1839,answered,1839,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q1771067_birth,Q1771067,,When was Muthuswami Dikshitar born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q1771067_death,Q1771067,,When did Muthuswami Dikshitar die?,Date: 1835,answered,1835,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q178953_birth,Q178953,,When was Vercingetorix born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q178953_death,Q178953,,When did Vercingetorix die?,Date: 46 BCE,answered,46 BCE,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q179051_birth,Q179051,,When was Kareem Abdul-Jabbar born?,"Date: April 16, 1947",answered,"April 16, 1947",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q179277_birth,Q179277,,When was Giovanni Pierluigi da Palestrina born?,Date: 1525,answered,1525,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q179277_death,Q179277,,When did Giovanni Pierluigi da Palestrina die?,Date: 1594,answered,1594,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q180819_birth,Q180819,,When was Lev Vygotsky born?,Date: November 1896,answered,November 1896,True,1.0,0.7333632632172139,True,4.0,correct_finer_than_support,0.0
+Q180819_death,Q180819,,When did Lev Vygotsky die?,Date: 1934,answered,1934,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q181369_birth,Q181369,,When was Yang Chen-Ning born?,Date: 1922,answered,1922,True,2.0,0.5393459267796299,True,1.0,correct_coarser_than_support,0.0
+Q181369_death,Q181369,,When did Yang Chen-Ning die?,Date: I don't know,abstained,I don't know,False,,0.0,True,4.0,abstained_despite_support,0.0
+Q182031_birth,Q182031,,When was Jack Kilby born?,Date: 1928,answered,1928,False,,-0.5393459267796299,True,2.0,wrong_despite_support,0.0
+Q182031_death,Q182031,,When did Jack Kilby die?,Date: 2005,answered,2005,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q182046_birth,Q182046,,When was Leon Battista Alberti born?,Date: 1404,answered,1404,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q182046_death,Q182046,,When did Leon Battista Alberti die?,Date: 1404,answered,1404,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q182546_birth,Q182546,,When was Robert H. Goddard born?,Date: 1882,answered,1882,True,2.0,0.5393459267796299,True,4.0,correct_finer_than_support,0.0
+Q182546_death,Q182546,,When did Robert H. Goddard die?,Date: 1945,answered,1945,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q182781_birth,Q182781,,When was Muhammad Ali of Egypt born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q182781_death,Q182781,,When did Muhammad Ali of Egypt die?,Date: 1935,answered,1935,False,,-0.5393459267796299,True,,answered_without_support_wrong,0.0
+Q183679_birth,Q183679,,When was Tsung-Dao Lee born?,"Date: September 23, 1926",answered,"September 23, 1926",False,,-1.0,True,2.0,wrong_despite_support,0.0
+Q183679_death,Q183679,,When did Tsung-Dao Lee die?,Date: I don't know,abstained,I don't know,False,,0.0,True,4.0,abstained_despite_support,0.0
+Q187982_birth,Q187982,,When was Alcibiades born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q187982_death,Q187982,,When did Alcibiades die?,Date: 404 BCE,answered,404 BCE,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q187998_birth,Q187998,,When was Cesare Borgia born?,Date: 1475,answered,1475,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q187998_death,Q187998,,When did Cesare Borgia die?,Date: 1507,answered,1507,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q188943_birth,Q188943,,When was Yaroslav the Wise born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q188943_death,Q188943,,When did Yaroslav the Wise die?,Date: 1054,answered,1054,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q188969_birth,Q188969,,When was B. B. King born?,Date: 1925,answered,1925,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q188969_death,Q188969,,When did B. B. King die?,Date: 2015,answered,2015,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q190089_birth,Q190089,,When was Duns Scotus born?,Date: 1265,answered,1265,False,,-0.5393459267796299,True,3.0,wrong_despite_support,0.0
+Q190089_death,Q190089,,When did Duns Scotus die?,Date: 1308,answered,1308,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q191734_birth,Q191734,,When was Gregory of Nyssa born?,Date: 335,answered,335,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q191734_death,Q191734,,When did Gregory of Nyssa die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q19185_birth,Q19185,,When was George Bernard Shaw born?,Date: 1856,answered,1856,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q19185_death,Q19185,,When did George Bernard Shaw die?,Date: 1950,answered,1950,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q192496_birth,Q192496,,When was Robert Fulton born?,Date: 1765,answered,1765,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q192496_death,Q192496,,When did Robert Fulton die?,Date: 1815,answered,1815,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q193368_birth,Q193368,,When was Ted Turner born?,"Date: June 19, 1938",answered,"June 19, 1938",False,,-1.0,True,2.0,wrong_despite_support,0.0
+Q193368_death,Q193368,,When did Ted Turner die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q193857_birth,Q193857,,When was Ben Jonson born?,Date: 1572,answered,1572,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q193857_death,Q193857,,When did Ben Jonson die?,Date: 1637,answered,1637,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q19837_birth,Q19837,,When was Steve Jobs born?,"Date: February 24, 1955",answered,"February 24, 1955",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q19837_death,Q19837,,When did Steve Jobs die?,"Date: October 5, 2011",answered,"October 5, 2011",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q19943_birth,Q19943,,When was Juan Carlos I born?,Date: 1938,answered,1938,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q200131_birth,Q200131,,When was Antônio Carlos Jobim born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q200131_death,Q200131,,When did Antônio Carlos Jobim die?,Date: 1994,answered,1994,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q203401_birth,Q203401,,When was Edward Hopper born?,"Date: July 22, 1882",answered,"July 22, 1882",False,,-1.0,True,1.0,wrong_despite_support,0.0
+Q203401_death,Q203401,,When did Edward Hopper die?,Date: 1967,answered,1967,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q203643_birth,Q203643,,When was James McNeill Whistler born?,Date: 1834,answered,1834,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q203643_death,Q203643,,When did James McNeill Whistler die?,Date: 1895,answered,1895,False,,-0.5393459267796299,True,0.0,wrong_despite_support,0.0
+Q2044389_birth,Q2044389,,When was Tyagaraja born?,Date: 1767,answered,1767,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q2044389_death,Q2044389,,When did Tyagaraja die?,Date: 1839,answered,1839,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q210735_birth,Q210735,,When was Tomás de Torquemada born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q210735_death,Q210735,,When did Tomás de Torquemada die?,Date: 1498,answered,1498,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q213550_birth,Q213550,,When was Billy Graham born?,Date: 1918,answered,1918,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q213550_death,Q213550,,When did Billy Graham die?,"Date: February 21, 2018",answered,"February 21, 2018",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q216466_birth,Q216466,,When was Alejo Carpentier born?,Date: 1898,answered,1898,False,,-0.5393459267796299,True,,answered_without_support_wrong,0.0
+Q216466_death,Q216466,,When did Alejo Carpentier die?,Date: 1980,answered,1980,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q221048_birth,Q221048,,When was Jackie Robinson born?,"Date: January 31, 1919",answered,"January 31, 1919",True,0.0,1.0,True,2.0,correct_finer_than_support,0.0
+Q221048_death,Q221048,,When did Jackie Robinson die?,"Date: October 24, 1972",answered,"October 24, 1972",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q222227_birth,Q222227,,When was Kūkai born?,Date: 774,answered,774,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q222227_death,Q222227,,When did Kūkai die?,Date: 835,answered,835,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q229990_birth,Q229990,,When was Agnès Varda born?,Date: 1928,answered,1928,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q229990_death,Q229990,,When did Agnès Varda die?,Date: 2023,answered,2023,False,,-0.5393459267796299,True,1.0,wrong_despite_support,0.0
+Q23434_birth,Q23434,,When was Ernest Hemingway born?,"Date: July 21, 1899",answered,"July 21, 1899",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q23434_death,Q23434,,When did Ernest Hemingway die?,"Date: July 2, 1961",answered,"July 2, 1961",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q241248_birth,Q241248,,When was Orhan Pamuk born?,Date: 1952,answered,1952,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q244007_birth,Q244007,,When was Tamar I born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q244007_death,Q244007,,When did Tamar I die?,Date: 27 December 332 BCE,answered,27 December 332 BCE,False,,-1.0,True,,answered_without_support_wrong,0.0
+Q2518_birth,Q2518,,When was Helmut Kohl born?,Date: 1930,answered,1930,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q2518_death,Q2518,,When did Helmut Kohl die?,Date: 2019,answered,2019,False,,-0.5393459267796299,True,1.0,wrong_despite_support,0.0
+Q255_birth,Q255,,When was Ludwig van Beethoven born?,"Date: December 17, 1770",answered,"December 17, 1770",True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q255_death,Q255,,When did Ludwig van Beethoven die?,Date: 1827,answered,1827,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q2607_birth,Q2607,,When was Erich Honecker born?,Date: 1912,answered,1912,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q2607_death,Q2607,,When did Erich Honecker die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q2685_birth,Q2685,,When was Arnold Schwarzenegger born?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q271884_birth,Q271884,,When was Norman Rockwell born?,Date: 1894,answered,1894,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q271884_death,Q271884,,When did Norman Rockwell die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q272566_birth,Q272566,,When was Aubrey Beardsley born?,Date: 1872,answered,1872,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q272566_death,Q272566,,When did Aubrey Beardsley die?,Date: 1921,answered,1921,False,,-0.5393459267796299,True,2.0,wrong_despite_support,0.0
+Q274334_birth,Q274334,,When was Svetlana Alexievich born?,Date: 1948,answered,1948,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q27645_birth,Q27645,,When was Mikhail Bakunin born?,Date: 1814,answered,1814,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q27645_death,Q27645,,When did Mikhail Bakunin die?,Date: 1876,answered,1876,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q2831_birth,Q2831,,When was Michael Jackson born?,"Date: August 29, 1958",answered,"August 29, 1958",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q2831_death,Q2831,,When did Michael Jackson die?,"Date: June 25, 2009",answered,"June 25, 2009",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q28988_birth,Q28988,,When was Ānanda born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q28988_death,Q28988,,When did Ānanda die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q29193_birth,Q29193,,When was Peter Gustav Lejeune Dirichlet born?,Date: 1805,answered,1805,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q29193_death,Q29193,,When did Peter Gustav Lejeune Dirichlet die?,Date: 5 May 1859,answered,5 May 1859,True,0.0,1.0,True,,answered_without_support_correct,0.0
+Q298678_birth,Q298678,,When was Muhammad Ahmad born?,Date: 1844,answered,1844,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q298678_death,Q298678,,When did Muhammad Ahmad die?,Date: 1885,answered,1885,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q298933_birth,Q298933,,When was Edward Drinker Cope born?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q298933_death,Q298933,,When did Edward Drinker Cope die?,Date: 1897,answered,1897,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q302835_birth,Q302835,,When was Nasir al-Din al-Tusi born?,Date: 1201,answered,1201,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q302835_death,Q302835,,When did Nasir al-Din al-Tusi die?,Date: 1274,answered,1274,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q309765_birth,Q309765,,When was Edward Thorndike born?,Date: 1886,answered,1886,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q309765_death,Q309765,,When did Edward Thorndike die?,Date: 1949,answered,1949,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q309850_birth,Q309850,,When was Will Eisner born?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q309850_death,Q309850,,When did Will Eisner die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q310741_birth,Q310741,,When was Gordon Allport born?,Date: 1897,answered,1897,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q310741_death,Q310741,,When did Gordon Allport die?,Date: 1996,answered,1996,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q310794_birth,Q310794,,When was Karl Pearson born?,Date: 1857,answered,1857,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q310794_death,Q310794,,When did Karl Pearson die?,Date: 1936,answered,1936,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q310821_birth,Q310821,,When was Rabbi Akiva born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q310821_death,Q310821,,When did Rabbi Akiva die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q311145_birth,Q311145,,When was Machado de Assis born?,"Date: October 21, 1839",answered,"October 21, 1839",True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q311145_death,Q311145,,When did Machado de Assis die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q312551_birth,Q312551,,When was Kabir born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q312551_death,Q312551,,When did Kabir die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q312555_birth,Q312555,,When was Bal Gangadhar Tilak born?,Date: 1856,answered,1856,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q312555_death,Q312555,,When did Bal Gangadhar Tilak die?,Date: 1920,answered,1920,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q313256_birth,Q313256,,When was Bob Fosse born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q313256_death,Q313256,,When did Bob Fosse die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q313868_birth,Q313868,,When was Fela Kuti born?,Date: 1938,answered,1938,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q313868_death,Q313868,,When did Fela Kuti die?,Date: 1997,answered,1997,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q313931_birth,Q313931,,When was Albert Ellis born?,Date: 1913,answered,1913,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q313931_death,Q313931,,When did Albert Ellis die?,"Date: September 3, 2007",answered,"September 3, 2007",False,,-1.0,True,2.0,wrong_despite_support,0.0
+Q315659_birth,Q315659,,When was Yohannes IV born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q315659_death,Q315659,,When did Yohannes IV die?,Date: 1889,answered,1889,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q316945_birth,Q316945,,When was Michiel de Ruyter born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q316945_death,Q316945,,When did Michiel de Ruyter die?,Date: 1676,answered,1676,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q319062_birth,Q319062,,When was Baal Shem Tov born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q319062_death,Q319062,,When did Baal Shem Tov die?,Date: 1760,answered,1760,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q334923_birth,Q334923,,When was Abu Bakr born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q334923_death,Q334923,,When did Abu Bakr die?,Date: 632,answered,632,False,,-0.5393459267796299,True,3.0,wrong_despite_support,0.0
+Q33550_birth,Q33550,,When was Frederick the Great born?,Date: 1712,answered,1712,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q33550_death,Q33550,,When did Frederick the Great die?,Date: 1786,answered,1786,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q33977_birth,Q33977,,When was Jules Verne born?,Date: 1828,answered,1828,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q33977_death,Q33977,,When did Jules Verne die?,Date: 1905,answered,1905,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q34428_birth,Q34428,,When was Philip II of France born?,Date: 1165,answered,1165,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q34428_death,Q34428,,When did Philip II of France die?,Date: 1165,answered,1165,False,,-0.5393459267796299,True,,answered_without_support_wrong,0.0
+Q34787_birth,Q34787,,When was Friedrich Engels born?,Date: 1820,answered,1820,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q34787_death,Q34787,,When did Friedrich Engels die?,Date: 1895,answered,1895,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q352_birth,Q352,,When was Adolf Hitler born?,Date: 1889,answered,1889,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q352_death,Q352,,When did Adolf Hitler die?,Date: 1945,answered,1945,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q354863_birth,Q354863,,When was Lee de Forest born?,Date: 1873,answered,1873,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q354863_death,Q354863,,When did Lee de Forest die?,Date: 1961,answered,1961,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q35610_birth,Q35610,,When was Arthur Conan Doyle born?,"Date: May 22, 1859",answered,"May 22, 1859",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q35610_death,Q35610,,When did Arthur Conan Doyle die?,Date: 1930,answered,1930,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q35802_birth,Q35802,,When was Baruch Spinoza born?,Date: 1632,answered,1632,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q35802_death,Q35802,,When did Baruch Spinoza die?,Date: 1677,answered,1677,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q36107_birth,Q36107,,When was Muhammad Ali born?,"Date: January 17, 1942",answered,"January 17, 1942",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q36107_death,Q36107,,When did Muhammad Ali die?,"Date: June 3, 2016",answered,"June 3, 2016",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q364187_birth,Q364187,,When was Frederick Law Olmsted born?,"Date: April 26, 1822",answered,"April 26, 1822",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q364187_death,Q364187,,When did Frederick Law Olmsted die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q36450_birth,Q36450,,When was Catherine the Great born?,Date: 1729,answered,1729,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q36450_death,Q36450,,When did Catherine the Great die?,Date: 1796,answered,1796,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q36591_birth,Q36591,,When was Vladimir Nabokov born?,Date: 1899,answered,1899,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q36591_death,Q36591,,When did Vladimir Nabokov die?,"Date: July 2, 1977",answered,"July 2, 1977",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q368_birth,Q368,,When was Augusto Pinochet born?,Date: 1915,answered,1915,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q368_death,Q368,,When did Augusto Pinochet die?,Date: 2006,answered,2006,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q37060_birth,Q37060,,When was José Saramago born?,Date: 1922,answered,1922,True,2.0,0.5393459267796299,True,1.0,correct_coarser_than_support,0.0
+Q37060_death,Q37060,,When did José Saramago die?,Date: 2010,answered,2010,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q37103_birth,Q37103,,When was Florence Nightingale born?,Date: 1820,answered,1820,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q37103_death,Q37103,,When did Florence Nightingale die?,Date: 1910,answered,1910,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q37388_birth,Q37388,,When was Francis Bacon born?,Date: 1561,answered,1561,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q37388_death,Q37388,,When did Francis Bacon die?,Date: 1626,answered,1626,True,2.0,0.5393459267796299,True,1.0,correct_coarser_than_support,0.0
+Q37463_birth,Q37463,,When was Pierre Curie born?,Date: 1859,answered,1859,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q37463_death,Q37463,,When did Pierre Curie die?,Date: 1906,answered,1906,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q37562_birth,Q37562,,When was Donatello born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q37562_death,Q37562,,When did Donatello die?,Date: 1466,answered,1466,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q378564_birth,Q378564,,When was Wang Xizhi born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q378564_death,Q378564,,When did Wang Xizhi die?,Date: 353-406,answered,353-406,False,,-0.5393459267796299,True,,answered_without_support_wrong,0.0
+Q379580_birth,Q379580,,When was John Muir born?,Date: 1838,answered,1838,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q379580_death,Q379580,,When did John Muir die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q38203_birth,Q38203,,When was Helen Keller born?,"Date: June 27, 1880",answered,"June 27, 1880",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q38203_death,Q38203,,When did Helen Keller die?,"Date: June 1, 1968",answered,"June 1, 1968",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q38370_birth,Q38370,,When was Henry VIII born?,Date: 1491,answered,1491,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q38370_death,Q38370,,When did Henry VIII die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q39607_birth,Q39607,,When was Antoine Lavoisier born?,Date: 1743,answered,1743,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q39607_death,Q39607,,When did Antoine Lavoisier die?,Date: 1794,answered,1794,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q40224_birth,Q40224,,When was Carl Benz born?,Date: 1844,answered,1844,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q40224_death,Q40224,,When did Carl Benz die?,"Date: August 4, 1929",answered,"August 4, 1929",False,,-1.0,True,2.0,wrong_despite_support,0.0
+Q4061_birth,Q4061,,When was Woody Guthrie born?,"Date: July 14, 1912",answered,"July 14, 1912",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q4061_death,Q4061,,When did Woody Guthrie die?,Date: I don't know,abstained,I don't know,False,,0.0,True,0.0,abstained_despite_support,0.0
+Q40946_birth,Q40946,,When was Daniel Defoe born?,Date: 1660,answered,1660,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q40946_death,Q40946,,When did Daniel Defoe die?,Date: 1731,answered,1731,True,2.0,0.5393459267796299,True,1.0,correct_coarser_than_support,0.0
+Q410_birth,Q410,,When was Carl Sagan born?,"Date: November 9, 1934",answered,"November 9, 1934",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q410_death,Q410,,When did Carl Sagan die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q41406_birth,Q41406,,When was Edvard Munch born?,Date: 1863,answered,1863,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q41406_death,Q41406,,When did Edvard Munch die?,Date: 1944,answered,1944,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q41523_birth,Q41523,,When was Plutarch born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q41523_death,Q41523,,When did Plutarch die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q42034_birth,Q42034,,When was Khadija bint Khuwaylid born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q42034_death,Q42034,,When did Khadija bint Khuwaylid die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q42063_birth,Q42063,,When was Xuanzang born?,Date: 602,answered,602,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q42063_death,Q42063,,When did Xuanzang die?,Date: 664,answered,664,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q42544_birth,Q42544,,When was Thomas More born?,Date: 1478,answered,1478,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q42544_death,Q42544,,When did Thomas More die?,Date: 1535,answered,1535,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q43476_birth,Q43476,,When was Amedeo Avogadro born?,Date: 1776,answered,1776,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q43476_death,Q43476,,When did Amedeo Avogadro die?,Date: 1856,answered,1856,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q43499_birth,Q43499,,When was Erasmus born?,Date: 1469,answered,1469,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q43499_death,Q43499,,When did Erasmus die?,Date: 1536,answered,1536,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q43915_birth,Q43915,,When was Otto the Great born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q43915_death,Q43915,,When did Otto the Great die?,Date: 973,answered,973,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q43974_birth,Q43974,,When was Louis the Pious born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q43974_death,Q43974,,When did Louis the Pious die?,Date: 840,answered,840,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q44007_birth,Q44007,,When was Paul Klee born?,Date: 1879,answered,1879,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q44007_death,Q44007,,When did Paul Klee die?,Date: 1940,answered,1940,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q44054_birth,Q44054,,When was Franz Marc born?,Date: 1880,answered,1880,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q44054_death,Q44054,,When did Franz Marc die?,Date: 1916,answered,1916,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q44122_birth,Q44122,,When was Django Reinhardt born?,Date: 1910,answered,1910,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q44122_death,Q44122,,When did Django Reinhardt die?,Date: 1953,answered,1953,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q44131_birth,Q44131,,When was Werner Herzog born?,Date: 1942,answered,1942,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q44228_death,Q44228,,When did Leonidas I die?,Date: 480 BCE,answered,480 BCE,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q44248_birth,Q44248,,When was Jerome born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q44248_death,Q44248,,When did Jerome die?,Date: 420,answered,420,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q44279_birth,Q44279,,When was Oliver Cromwell born?,Date: 1599,answered,1599,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q44279_death,Q44279,,When did Oliver Cromwell die?,Date: 1658,answered,1658,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q44593_birth,Q44593,,When was V. S. Naipaul born?,Date: 1932,answered,1932,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q44593_death,Q44593,,When did V. S. Naipaul die?,Date: 2018,answered,2018,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q45546_birth,Q45546,,When was William Wordsworth born?,Date: 1770,answered,1770,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q45546_death,Q45546,,When did William Wordsworth die?,Date: 1850,answered,1850,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q45662_birth,Q45662,,When was Klemens von Metternich born?,Date: 1773,answered,1773,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q45662_death,Q45662,,When did Klemens von Metternich die?,Date: 1859,answered,1859,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q45682_birth,Q45682,,When was Jean Sibelius born?,Date: 1865,answered,1865,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q45682_death,Q45682,,When did Jean Sibelius die?,Date: 1957,answered,1957,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q46096_birth,Q46096,,When was Felix Mendelssohn born?,Date: 1809,answered,1809,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q46096_death,Q46096,,When did Felix Mendelssohn die?,Date: 1847,answered,1847,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q46696_birth,Q46696,,When was Theodosius I born?,Date: 347,answered,347,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q46696_death,Q46696,,When did Theodosius I die?,Date: 395,answered,395,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q47152_birth,Q47152,,When was Mary Shelley born?,Date: 1797,answered,1797,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q47152_death,Q47152,,When did Mary Shelley die?,Date: 1851,answered,1851,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q47434_birth,Q47434,,When was Edmond Halley born?,Date: 1656,answered,1656,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q47434_death,Q47434,,When did Edmond Halley die?,Date: 1742,answered,1742,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q47674_birth,Q47674,,When was Amerigo Vespucci born?,Date: 1454,answered,1454,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q47674_death,Q47674,,When did Amerigo Vespucci die?,Date: 1512,answered,1512,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q48231_birth,Q48231,,When was Idi Amin born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q48231_death,Q48231,,When did Idi Amin die?,"Date: 1980s
+
+Given that Idi Amin died in 1980, it falls within the 1980",answered,1980s,False,,-0.35956395118642,True,1.0,wrong_despite_support,0.0
+Q483672_birth,Q483672,,When was Ali Abdullah Saleh born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q483672_death,Q483672,,When did Ali Abdullah Saleh die?,Date: 2012,answered,2012,False,,-0.5393459267796299,True,3.0,wrong_despite_support,0.0
+Q484141_birth,Q484141,,When was Muhammad Iqbal born?,Date: 1877,answered,1877,False,,-0.5393459267796299,True,3.0,wrong_despite_support,0.0
+Q484141_death,Q484141,,When did Muhammad Iqbal die?,Date: 1938,answered,1938,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q484265_birth,Q484265,,When was Andrew Carnegie born?,"Date: November 25, 1835",answered,"November 25, 1835",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q484265_death,Q484265,,When did Andrew Carnegie die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q484359_birth,Q484359,,When was Seonjo of Joseon born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q484359_death,Q484359,,When did Seonjo of Joseon die?,Date: 1623,answered,1623,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q50713_birth,Q50713,,When was Jean Renoir born?,Date: 1894,answered,1894,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q50713_death,Q50713,,When did Jean Renoir die?,Date: 1979,answered,1979,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q512_birth,Q512,,When was Vladimir Vysotsky born?,"Date: June 25, 1938",answered,"June 25, 1938",False,,-1.0,True,2.0,wrong_despite_support,0.0
+Q512_death,Q512,,When did Vladimir Vysotsky die?,Date: 1980,answered,1980,True,2.0,0.5393459267796299,True,1.0,correct_coarser_than_support,0.0
+Q51552_birth,Q51552,,When was Roman Polanski born?,Date: 1933,answered,1933,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q51673_birth,Q51673,,When was Mark Antony born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q51673_death,Q51673,,When did Mark Antony die?,Date: 43 BCE,answered,43 BCE,False,,-0.5393459267796299,True,2.0,wrong_despite_support,0.0
+Q52937_birth,Q52937,,"When was Christina, Queen of Sweden born?",Date: 1626,answered,1626,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q52937_death,Q52937,,"When did Christina, Queen of Sweden die?",Date: 1689,answered,1689,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q544387_birth,Q544387,,When was Ray Charles born?,"Date: September 23, 1930",answered,"September 23, 1930",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q544387_death,Q544387,,When did Ray Charles die?,Date: 2004,answered,2004,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q55431_birth,Q55431,,When was Wong Kar-wai born?,Date: 1962,answered,1962,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q55433_birth,Q55433,,When was Michelangelo Antonioni born?,Date: 1912,answered,1912,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q55433_death,Q55433,,When did Michelangelo Antonioni die?,Date: 2007,answered,2007,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q55767_birth,Q55767,,When was Astrid Lindgren born?,Date: 1907,answered,1907,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q55767_death,Q55767,,When did Astrid Lindgren die?,Date: 2002,answered,2002,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q5597_birth,Q5597,,When was Raphael born?,"Date: March 30, 1483",answered,"March 30, 1483",False,,-1.0,True,1.0,wrong_despite_support,0.0
+Q5597_death,Q5597,,When did Raphael die?,Date: 1520,answered,1520,True,2.0,0.5393459267796299,True,1.0,correct_coarser_than_support,0.0
+Q5600_birth,Q5600,,When was Mimar Sinan born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q5600_death,Q5600,,When did Mimar Sinan die?,Date: 1588,answered,1588,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q5608_birth,Q5608,,When was Eminem born?,Date: 1972,answered,1972,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q5685_birth,Q5685,,When was Anton Chekhov born?,Date: 1860,answered,1860,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q5685_death,Q5685,,When did Anton Chekhov die?,Date: 1904,answered,1904,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q57075_birth,Q57075,,When was Fritz Haber born?,Date: 1868,answered,1868,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q57075_death,Q57075,,When did Fritz Haber die?,Date: 1934,answered,1934,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q57423_birth,Q57423,,When was John Jacob Astor born?,Date: 1763,answered,1763,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q57423_death,Q57423,,When did John Jacob Astor die?,Date: 1848,answered,1848,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q58720_birth,Q58720,,When was Mikhail Lomonosov born?,Date: 1711,answered,1711,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q58720_death,Q58720,,When did Mikhail Lomonosov die?,Date: 1765,answered,1765,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q590_birth,Q590,,When was Luís de Camões born?,Date: 1524,answered,1524,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q590_death,Q590,,When did Luís de Camões die?,Date: 1580,answered,1580,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q5921_birth,Q5921,,When was Chuck Berry born?,"Date: May 18, 1926",answered,"May 18, 1926",False,,-1.0,True,0.0,wrong_despite_support,0.0
+Q5921_death,Q5921,,When did Chuck Berry die?,"Date: March 18, 2017",answered,"March 18, 2017",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q60052_birth,Q60052,,When was Gustav Kirchhoff born?,Date: 1824,answered,1824,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q60052_death,Q60052,,When did Gustav Kirchhoff die?,Date: 1887,answered,1887,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q60887_birth,Q60887,,When was Jeremy Bentham born?,Date: 1748,answered,1748,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q60887_death,Q60887,,When did Jeremy Bentham die?,Date: 1832,answered,1832,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q627784_birth,Q627784,,When was Yu the Great born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q627784_death,Q627784,,When did Yu the Great die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q65989_birth,Q65989,,When was Wolfgang Pauli born?,"Date: April 25, 1900",answered,"April 25, 1900",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q65989_death,Q65989,,When did Wolfgang Pauli die?,"Date: December 15, 1958",answered,"December 15, 1958",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q663001_birth,Q663001,,When was D. S. Senanayake born?,Date: 1884,answered,1884,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q663001_death,Q663001,,When did D. S. Senanayake die?,Date: 1952,answered,1952,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q6882_birth,Q6882,,When was James Joyce born?,"Date: February 2, 1882",answered,"February 2, 1882",True,0.0,1.0,True,2.0,correct_finer_than_support,0.0
+Q6882_death,Q6882,,When did James Joyce die?,Date: 1941,answered,1941,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q7099_birth,Q7099,,When was Emmy Noether born?,Date: 1882,answered,1882,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q7099_death,Q7099,,When did Emmy Noether die?,"Date: April 14, 1935",answered,"April 14, 1935",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q7210_birth,Q7210,,When was Emperor Gaozu of Han born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q7210_death,Q7210,,When did Emperor Gaozu of Han die?,Date: 195 BCE,answered,195 BCE,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q7225_birth,Q7225,,When was Emperor Wu of Han born?,Date: 156 BCE,answered,156 BCE,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q7225_death,Q7225,,When did Emperor Wu of Han die?,Date: 139 BCE,answered,139 BCE,False,,-0.5393459267796299,True,,answered_without_support_wrong,0.0
+Q72267_birth,Q72267,,When was Cecil B. DeMille born?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q72267_death,Q72267,,When did Cecil B. DeMille die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q7251_birth,Q7251,,When was Alan Turing born?,Date: 23 June 1912,answered,23 June 1912,True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q7251_death,Q7251,,When did Alan Turing die?,"Date: June 7, 1954",answered,"June 7, 1954",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q72614_birth,Q72614,,When was Jack L. Warner born?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q72614_death,Q72614,,When did Jack L. Warner die?,Date: 1978,answered,1978,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q7349_birth,Q7349,,When was Joseph Haydn born?,Date: 1732,answered,1732,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q7349_death,Q7349,,When did Joseph Haydn die?,Date: 1809,answered,1809,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q7374_birth,Q7374,,When was Alfred Hitchcock born?,"Date: May 13, 1899",answered,"May 13, 1899",False,,-1.0,True,2.0,wrong_despite_support,0.0
+Q7374_death,Q7374,,When did Alfred Hitchcock die?,"Date: April 29, 1980",answered,"April 29, 1980",True,0.0,1.0,True,2.0,correct_finer_than_support,0.0
+Q75786_birth,Q75786,,When was Eduard Bernstein born?,Date: 1850,answered,1850,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q75786_death,Q75786,,When did Eduard Bernstein die?,Date: 1916,answered,1916,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q75814_birth,Q75814,,When was Wilhelm Wundt born?,Date: 1832,answered,1832,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q75814_death,Q75814,,When did Wilhelm Wundt die?,Date: 1920,answered,1920,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q76430_birth,Q76430,,When was Carl von Clausewitz born?,Date: 1780,answered,1780,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q76430_death,Q76430,,When did Carl von Clausewitz die?,Date: 1831,answered,1831,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q76857_birth,Q76857,,When was Franz Boas born?,"Date: April 24, 1858",answered,"April 24, 1858",False,,-1.0,True,2.0,wrong_despite_support,0.0
+Q76857_death,Q76857,,When did Franz Boas die?,"Date: December 21, 1942",answered,"December 21, 1942",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q76948_birth,Q76948,,When was Caroline Herschel born?,Date: 1750,answered,1750,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q76948_death,Q76948,,When did Caroline Herschel die?,Date: 1848,answered,1848,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q7771_birth,Q7771,,When was Louis Philippe I born?,Date: 1773,answered,1773,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q7771_death,Q7771,,When did Louis Philippe I die?,Date: 1850,answered,1850,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q7836_birth,Q7836,,When was René Magritte born?,Date: 1898,answered,1898,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q7836_death,Q7836,,When did René Magritte die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q78485_birth,Q78485,,When was Anna Freud born?,Date: 1895,answered,1895,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q78485_death,Q78485,,When did Anna Freud die?,Date: 1982,answered,1982,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q79822_birth,Q79822,,When was Adam Mickiewicz born?,Date: 1798,answered,1798,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q79822_death,Q79822,,When did Adam Mickiewicz die?,Date: 1855,answered,1855,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q80596_birth,Q80596,,When was Arthur Miller born?,Date: 1915,answered,1915,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q80596_death,Q80596,,When did Arthur Miller die?,Date: 2005,answered,2005,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q80956_birth,Q80956,,When was Svante Arrhenius born?,Date: 1859,answered,1859,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q80956_death,Q80956,,When did Svante Arrhenius die?,Date: 1927,answered,1927,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q81082_birth,Q81082,,When was Henri Poincaré born?,Date: 1854,answered,1854,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q81082_death,Q81082,,When did Henri Poincaré die?,"Date: July 17, 1912",answered,"July 17, 1912",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q81960_birth,Q81960,,When was Robert Burns born?,Date: 1759,answered,1759,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q81960_death,Q81960,,When did Robert Burns die?,Date: 1796,answered,1796,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q82006_birth,Q82006,,When was Benjamin Disraeli born?,Date: 1804,answered,1804,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q82006_death,Q82006,,When did Benjamin Disraeli die?,Date: 1881,answered,1881,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q82840_birth,Q82840,,When was Alvar Aalto born?,Date: 1898,answered,1898,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q82840_death,Q82840,,When did Alvar Aalto die?,Date: 1976,answered,1976,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q83100_birth,Q83100,,When was Osman I born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q83100_death,Q83100,,When did Osman I die?,Date: 1389,answered,1389,False,,-0.5393459267796299,True,4.0,wrong_despite_support,0.0
+Q83235_birth,Q83235,,"When was Horatio Nelson, 1st Viscount Nelson born?",Date: 18 May 1758,answered,18 May 1758,False,,-1.0,True,2.0,wrong_despite_support,0.0
+Q83235_death,Q83235,,"When did Horatio Nelson, 1st Viscount Nelson die?",Date: 1805,answered,1805,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q83410_birth,Q83410,,When was Cary Grant born?,Date: 1895,answered,1895,False,,-0.5393459267796299,True,,answered_without_support_wrong,0.0
+Q83410_death,Q83410,,When did Cary Grant die?,Date: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+Q83672_birth,Q83672,,When was Shah Jahan born?,Date: 1592,answered,1592,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q83672_death,Q83672,,When did Shah Jahan die?,Date: 1666,answered,1666,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q8462_birth,Q8462,,When was Timur born?,Date: 1336,answered,1336,True,2.0,0.5393459267796299,True,,answered_without_support_correct,0.0
+Q8462_death,Q8462,,When did Timur die?,Date: 1405,answered,1405,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q8479_birth,Q8479,,When was Peter the Great born?,Date: 1672,answered,1672,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q8479_death,Q8479,,When did Peter the Great die?,Date: 1725,answered,1725,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q855_birth,Q855,,When was Joseph Stalin born?,Date: 1878,answered,1878,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q855_death,Q855,,When did Joseph Stalin die?,"Date: March 5, 1953",answered,"March 5, 1953",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q8589_birth,Q8589,,When was Ashoka born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q8589_death,Q8589,,When did Ashoka die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q868_birth,Q868,,When was Aristotle born?,Date: 384 BCE,answered,384 BCE,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q868_death,Q868,,When did Aristotle die?,Date: 322 BCE,answered,322 BCE,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q8743_birth,Q8743,,When was Thomas Edison born?,"Date: February 11, 1847",answered,"February 11, 1847",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q8743_death,Q8743,,When did Thomas Edison die?,"Date: October 18, 1931",answered,"October 18, 1931",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q8963_birth,Q8963,,When was Johannes Kepler born?,Date: 1571,answered,1571,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q8963_death,Q8963,,When did Johannes Kepler die?,Date: 1630,answered,1630,True,2.0,0.5393459267796299,True,4.0,correct_finer_than_support,0.0
+Q9021_birth,Q9021,,When was Max Planck born?,Date: 1858,answered,1858,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q9021_death,Q9021,,When did Max Planck die?,"Date: October 4, 1947",answered,"October 4, 1947",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q9045_birth,Q9045,,When was Chanakya born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q9045_death,Q9045,,When did Chanakya die?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q9047_birth,Q9047,,When was Gottfried Wilhelm Leibniz born?,Date: 1646,answered,1646,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q9047_death,Q9047,,When did Gottfried Wilhelm Leibniz die?,Date: 1716,answered,1716,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q9161_birth,Q9161,,When was Josip Broz Tito born?,Date: 1892,answered,1892,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q9161_death,Q9161,,When did Josip Broz Tito die?,Date: 1980,answered,1980,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q9317_birth,Q9317,,When was John Maynard Keynes born?,Date: 1883,answered,1883,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q9317_death,Q9317,,When did John Maynard Keynes die?,Date: 1946,answered,1946,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q9364_birth,Q9364,,When was Jean-Paul Sartre born?,Date: 1905,answered,1905,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q9364_death,Q9364,,When did Jean-Paul Sartre die?,Date: 1980,answered,1980,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q937_birth,Q937,,When was Albert Einstein born?,Date: 1879,answered,1879,True,2.0,0.5393459267796299,True,0.0,correct_coarser_than_support,0.0
+Q937_death,Q937,,When did Albert Einstein die?,"Date: April 18, 1955",answered,"April 18, 1955",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q9387_birth,Q9387,,When was Max Weber born?,"Date: April 21, 1864",answered,"April 21, 1864",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q9387_death,Q9387,,When did Max Weber die?,Date: 1920,answered,1920,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q9546_birth,Q9546,,When was Al-Ghazali born?,Date: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+Q9546_death,Q9546,,When did Al-Ghazali die?,Date: 1111,answered,1111,True,2.0,0.5393459267796299,True,2.0,exact_support_match,1.0
+Q9588_birth,Q9588,,When was Richard Nixon born?,"Date: January 9, 1913",answered,"January 9, 1913",True,0.0,1.0,True,0.0,exact_support_match,1.0
+Q9588_death,Q9588,,When did Richard Nixon die?,"Date: April 22, 1994",answered,"April 22, 1994",True,0.0,1.0,True,0.0,exact_support_match,1.0

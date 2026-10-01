@@ -1,0 +1,282 @@
+qid,unit,relation,question,raw,kind,text,correct,level,score,has_support,support,category,exact
+0,0,P19,Where was Luke Prokopec born?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+1009,1009,P20,Where did Hippolyte Mège-Mouriès die?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1028,1028,P20,Where did Renat Nelli die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1058,1058,P20,Where did Gabriel Andral die?,Location: Paris,answered,Paris,True,0.0,1.0,True,0.0,exact_support_match,1.0
+1075,1075,P20,Where did William J. Diehl die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1090,1090,P20,Where did Michel Carlini die?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1095,1095,P20,Where did Anton Graff die?,Location: Germany,answered,Germany,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1113,1113,P20,Where did Steve Rubell die?,Location: New York City,answered,New York City,True,0.0,1.0,True,0.0,exact_support_match,1.0
+1132,1132,P20,Where did Babe Young die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1168,1168,P20,Where did Steamer Flanagan die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1199,1199,P20,Where did Jean-Baptiste Descamps die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1217,1217,P20,Where did Horatio C. Burchard die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+123,123,P19,Where was Jason Niblett born?,Location: United Kingdom,answered,United Kingdom,False,,-0.2726586102719033,True,,answered_without_support_wrong,0.0
+1230,1230,P20,Where did Achille Mauzan die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1232,1232,P20,Where did Al Hirt die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1241,1241,P20,Where did Jeannette Thurber die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1271,1271,P20,Where did Hermann Lebert die?,Location: Germany,answered,Germany,False,,-0.321236559139785,True,,answered_without_support_wrong,0.0
+12731,12731,P276,Where is Battle of Asiago located?,Location: Italy,answered,Italy,True,2.0,0.25,True,2.0,exact_support_match,1.0
+12744,12744,P276,Where is .EDU Film Festival located?,Location: United States,answered,United States,True,3.0,0.25,True,3.0,exact_support_match,1.0
+12770,12770,P276,Where is Palazzo Balbi located?,Location: Italy,answered,Italy,True,2.0,0.25,True,2.0,exact_support_match,1.0
+12791,12791,P276,Where is Battle of Dogger Bank located?,Location: North Sea,answered,North Sea,True,1.0,0.625,True,1.0,exact_support_match,1.0
+12805,12805,P276,Where is Scheemda railway station located?,Location: Netherlands,answered,Netherlands,True,2.0,0.25,True,2.0,exact_support_match,1.0
+12807,12807,P276,Where is Coprates Chasma located?,Location: Mars,answered,Mars,True,1.0,0.625,True,1.0,exact_support_match,1.0
+12828,12828,P276,Where is 1900 U.S. Open located?,Location: Merion Golf Club,answered,Merion Golf Club,False,,-0.625,True,,answered_without_support_wrong,0.0
+12840,12840,P276,Where is Treaty of Corbeil located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+12870,12870,P276,Where is 2001 FA Cup Final located?,Location: Wembley Stadium,answered,Wembley Stadium,False,,-0.625,True,,answered_without_support_wrong,0.0
+12878,12878,P276,Where is Driving School located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+12885,12885,P276,Where is Saint Bernard Church located?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+12896,12896,P276,Where is Mount Street Gardens located?,Location: Ireland,answered,Ireland,False,,-0.4196428571428571,True,,answered_without_support_wrong,0.0
+12899,12899,P276,Where is Secchi located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+129,129,P19,Where was Michele Zagaria born?,Location: Italy,answered,Italy,True,3.0,0.25,True,3.0,exact_support_match,1.0
+1290,1290,P20,Where did Jens Holmboe die?,Location: Norway,answered,Norway,True,1.0,0.625,True,1.0,exact_support_match,1.0
+12909,12909,P276,Where is Maritime Museum Rotterdam located?,Location: Rotterdam,answered,Rotterdam,True,0.0,1.0,True,0.0,exact_support_match,1.0
+1292,1292,P20,Where did Moe Dalitz die?,"Location: Cleveland, Ohio, United States",answered,"Cleveland, Ohio, United States",False,,-1.0,True,3.0,wrong_despite_support,0.0
+12949,12949,P276,Where is Magere Brug located?,Location: Amsterdam,answered,Amsterdam,True,0.0,1.0,True,0.0,exact_support_match,1.0
+12967,12967,P276,Where is 1961 Monaco Grand Prix located?,Location: Monaco,answered,Monaco,True,1.0,0.625,True,1.0,exact_support_match,1.0
+12971,12971,P276,Where is Bollhusgränd located?,Location: Stockholm,answered,Stockholm,True,1.0,0.625,True,1.0,exact_support_match,1.0
+12973,12973,P276,Where is Eurovision Song Contest 1998 located?,Location: Sweden,answered,Sweden,False,,-0.36475409836065575,True,,answered_without_support_wrong,0.0
+12974,12974,P276,Where is Palais de la Découverte located?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1298,1298,P20,Where did Cangrande II della Scala die?,Location: Italy,answered,Italy,True,2.0,0.25,True,2.0,exact_support_match,1.0
+13003,13003,P276,Where is Bataafs Lyceum located?,Location: Netherlands,answered,Netherlands,True,2.0,0.25,True,2.0,exact_support_match,1.0
+13016,13016,P276,Where is Disco Demolition Night located?,Location: United States,answered,United States,True,3.0,0.25,True,3.0,exact_support_match,1.0
+13018,13018,P276,Where is Movement for the Independence of Sicily located?,Location: Italy,answered,Italy,True,1.0,0.25,True,1.0,exact_support_match,1.0
+13026,13026,P276,Where is Siege of Warsaw located?,Location: Poland,answered,Poland,True,1.0,0.625,True,1.0,exact_support_match,1.0
+13037,13037,P276,Where is 7th European Film Awards located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13051,13051,P276,Where is Salmon River Falls located?,Location: New York,answered,New York,True,0.0,1.0,True,0.0,exact_support_match,1.0
+13062,13062,P276,Where is The Entombment located?,Location: Vatican City,answered,Vatican City,False,,-0.4375,True,,answered_without_support_wrong,0.0
+13085,13085,P276,Where is Huygens located?,Location: Titan,answered,Titan,False,,-0.625,True,,answered_without_support_wrong,0.0
+13122,13122,P276,Where is Boston Cyberarts Festival located?,Location: United States,answered,United States,True,2.0,0.25,True,2.0,exact_support_match,1.0
+13178,13178,P276,Where is Kipini located?,Location: Kenya,answered,Kenya,False,,-0.25,True,,answered_without_support_wrong,0.0
+13188,13188,P276,Where is Queen's Head located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13193,13193,P276,Where is Capuan Venus located?,"Location: Naples, Italy",answered,"Naples, Italy",True,1.0,0.625,True,1.0,exact_support_match,1.0
+13209,13209,P276,Where is Restauranten located?,Location: Sweden,answered,Sweden,True,3.0,0.25,True,3.0,exact_support_match,1.0
+13222,13222,P276,Where is 2015 World Archery Championships located?,"Location: Nanjing, China",answered,"Nanjing, China",False,,-1.0,True,,answered_without_support_wrong,0.0
+13242,13242,P276,"Where is Holy Trinity Cathedral, Port-au-Prince located?",Location: Haiti,answered,Haiti,True,1.0,0.75,True,1.0,exact_support_match,1.0
+13285,13285,P276,Where is Siege of Pavia located?,Location: Italy,answered,Italy,True,2.0,0.25,True,2.0,exact_support_match,1.0
+13294,13294,P276,Where is Tuba City Airport located?,Location: Arizona,answered,Arizona,True,2.0,0.5,True,2.0,exact_support_match,1.0
+13295,13295,P276,Where is 2004 Ryder Cup located?,Location: United States,answered,United States,True,2.0,0.25,True,,answered_without_support_correct,0.0
+13318,13318,P276,Where is Knott Rigg located?,Location: England,answered,England,True,1.0,0.625,True,1.0,exact_support_match,1.0
+13340,13340,P276,Where is 1995 World Championships in Athletics located?,"Location: Helsinki, Finland",answered,"Helsinki, Finland",False,,-0.8928571428571428,True,,answered_without_support_wrong,0.0
+13364,13364,P276,Where is NatFilm Festival located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13404,13404,P276,Where is Eglantine Table located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1343,1343,P20,Where did Albert Fraenkel die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13438,13438,P276,Where is House of the Faun located?,Location: Italy,answered,Italy,True,2.0,0.25,True,2.0,exact_support_match,1.0
+13479,13479,P276,Where is Lamentation over the Dead Christ with Saints located?,Location: Vatican City,answered,Vatican City,False,,-0.4375,True,,answered_without_support_wrong,0.0
+13513,13513,P276,Where is Kalsbeek College located?,Location: South Africa,answered,South Africa,False,,-0.25,True,,answered_without_support_wrong,0.0
+13524,13524,P276,Where is Legh Old Hall located?,Location: England,answered,England,True,2.0,0.5,True,2.0,exact_support_match,1.0
+13528,13528,P276,Where is Clydebank Blitz located?,Location: Scotland,answered,Scotland,True,2.0,0.5,True,2.0,exact_support_match,1.0
+13532,13532,P276,Where is 2014 L'Open Emeraude Solaire de Saint-Malo located?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+13558,13558,P276,Where is The Torment of Saint Anthony located?,Location: Louvre Museum,answered,Louvre Museum,False,,-0.625,True,,answered_without_support_wrong,0.0
+13561,13561,P276,Where is Håkanstorp located?,Location: Sweden,answered,Sweden,True,3.0,0.25,True,3.0,exact_support_match,1.0
+13578,13578,P276,Where is Biarritz Film Festival located?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+13581,13581,P276,Where is European Fantastic Film Festivals Federation located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13584,13584,P276,Where is Swalmen railway station located?,Location: Germany,answered,Germany,False,,-0.321236559139785,True,,answered_without_support_wrong,0.0
+13674,13674,P276,Where is 40 Bank Street located?,Location: Canada,answered,Canada,False,,-0.25,True,,answered_without_support_wrong,0.0
+13687,13687,P276,Where is Il Cinema Ritrovato located?,"Location: Bologna, Italy",answered,"Bologna, Italy",True,0.0,1.0,True,0.0,exact_support_match,1.0
+13693,13693,P276,Where is 2009 AFL Grand Final located?,Location: Sydney Olympic Park,answered,Sydney Olympic Park,False,,-0.9090909090909092,True,,answered_without_support_wrong,0.0
+13730,13730,P740,Where was Catoan founded?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13769,13769,P740,Where was Circulus founded?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13788,13788,P740,Where was MxPx founded?,Location: United States,answered,United States,True,3.0,0.25,True,3.0,exact_support_match,1.0
+1379,1379,P20,Where did Kostas Giannidis die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1380,1380,P20,Where did Matthew Pratt die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13800,13800,P740,Where was Kreator founded?,Location: Germany,answered,Germany,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1414,1414,P20,Where did Frederick V of Denmark die?,Location: Lübeck,answered,Lübeck,False,,-0.625,True,,answered_without_support_wrong,0.0
+1454,1454,P20,Where did Michael Stapleton die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1463,1463,P20,Where did Giuseppe Felice Tosi die?,Location: Italy,answered,Italy,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1468,1468,P20,Where did Sonny Parker die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1502,1502,P20,Where did Victoria Vinton die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1543,1543,P20,Where did Wilhelm Hennis die?,Location: Germany,answered,Germany,True,2.0,0.25,True,,answered_without_support_correct,0.0
+155,155,P19,Where was Érik Orsenna born?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1565,1565,P20,Where did Frederick Deacon die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+157,157,P19,Where was Luisa Corna born?,Location: Italy,answered,Italy,True,3.0,0.25,True,3.0,exact_support_match,1.0
+1575,1575,P20,Where did Gianluigi Savoldi die?,Location: Italy,answered,Italy,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1579,1579,P20,Where did Wilhelm Weygandt die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1582,1582,P20,Where did Berend Wilhelm Feddersen die?,Location: Germany,answered,Germany,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1596,1596,P20,Where did Louis Joseph Marchand die?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+161,161,P19,Where was André Savard born?,Location: Canada,answered,Canada,False,,-0.25,True,,answered_without_support_wrong,0.0
+1618,1618,P20,Where did Aleksander Raczyński die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1626,1626,P20,Where did Rudolf Louis die?,Location: London,answered,London,False,,-0.8433333333333333,True,,answered_without_support_wrong,0.0
+1649,1649,P20,Where did Lathrop Brown die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1662,1662,P20,Where did Jesse Price die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1684,1684,P20,Where did Clymer Wright die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1696,1696,P20,Where did Harry Nice die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1715,1715,P20,Where did John R. Dellenback die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1724,1724,P20,Where did George Bechtel die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+173,173,P19,Where was John Freely born?,Location: Turkey,answered,Turkey,False,,-0.4609375,True,,answered_without_support_wrong,0.0
+1732,1732,P20,Where did Roy Olmstead die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1734,1734,P20,Where did Karel de Nerée tot Babberich die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1742,1742,P20,Where did Solomon Mogilevsky die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1745,1745,P20,Where did Johnny Watts die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1761,1761,P20,Where did Nicodemus Tessin the Elder die?,Location: Sweden,answered,Sweden,True,1.0,0.625,True,1.0,exact_support_match,1.0
+1762,1762,P20,Where did Conrad Wilhelm Hase die?,Location: Germany,answered,Germany,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1774,1774,P20,Where did Imre Harangi die?,Location: I don't know,abstained,I don't know,False,,0.0,True,1.0,abstained_despite_support,0.0
+1776,1776,P20,Where did Samuel Daskam die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1786,1786,P20,Where did Hyacinthe Rigaud die?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1811,1811,P20,Where did Helmuth Prieß die?,Location: Germany,answered,Germany,True,2.0,0.25,True,2.0,exact_support_match,1.0
+182,182,P19,Where was George Dikeoulakos born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1834,1834,P20,Where did Philippe van Lansberge die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1858,1858,P20,Where did Harold Wethey die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1898,1898,P20,Where did Augustinus Olomucensis die?,"Location: Olomouc, Czech Republic",answered,"Olomouc, Czech Republic",True,0.0,1.0,True,0.0,exact_support_match,1.0
+1924,1924,P20,Where did Kersti Merilaas die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1926,1926,P20,Where did Rogier Verbeek die?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+1953,1953,P20,Where did Leonard Quilty die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1971,1971,P20,Where did Krste Misirkov die?,Location: Poland,answered,Poland,False,,-0.35505319148936165,True,,answered_without_support_wrong,0.0
+1981,1981,P20,Where did Iliff David Richardson die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+211,211,P19,Where was Camille Sée born?,Location: France,answered,France,True,3.0,0.25,True,3.0,exact_support_match,1.0
+241,241,P19,Where was Ivo Iaconi born?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+249,249,P19,Where was Paul Frommelt born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+253,253,P19,Where was Domingo Eyzaguirre born?,Location: Chile,answered,Chile,True,3.0,0.25,True,3.0,exact_support_match,1.0
+255,255,P19,Where was Dick Last born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+275,275,P19,Where was Nadav Guedj born?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+285,285,P19,Where was Gábor Dayka born?,Location: Hungary,answered,Hungary,True,2.0,0.25,True,2.0,exact_support_match,1.0
+291,291,P19,Where was Radovan Jelašić born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+294,294,P19,Where was Bryan Stephens born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+297,297,P19,Where was Joe Davison born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+313,313,P19,Where was John C. Burch born?,Location: United States,answered,United States,True,2.0,0.25,True,2.0,exact_support_match,1.0
+321,321,P19,Where was Philippe Chéry born?,Location: Haiti,answered,Haiti,False,,-0.75,True,,answered_without_support_wrong,0.0
+356,356,P19,Where was Stuart Airey born?,Location: United Kingdom,answered,United Kingdom,False,,-0.2726586102719033,True,,answered_without_support_wrong,0.0
+357,357,P19,Where was Charles Downing born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+431,431,P19,Where was Yanet Bermoy born?,Location: Haiti,answered,Haiti,False,,-0.75,True,,answered_without_support_wrong,0.0
+434,434,P19,Where was Money Johnson born?,Location: United States,answered,United States,True,3.0,0.25,True,3.0,exact_support_match,1.0
+487,487,P19,Where was Félix Saurí Vivas born?,Location: Spain,answered,Spain,False,,-0.25,True,,answered_without_support_wrong,0.0
+49,49,P19,Where was Willem Marinus Dudok born?,Location: The Netherlands,answered,Netherlands,True,2.0,0.25,True,2.0,exact_support_match,1.0
+512,512,P19,Where was Luís Alimbrot born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+538,538,P19,Where was Michel Levie born?,Location: France,answered,France,False,,-0.2765858208955224,True,,answered_without_support_wrong,0.0
+557,557,P19,Where was Kateřina Baďurová born?,Location: Czech Republic,answered,Czech Republic,True,1.0,0.625,True,1.0,exact_support_match,1.0
+599,599,P19,Where was Peter Hunt born?,Location: Australia,answered,Australia,False,,-0.25,True,,answered_without_support_wrong,0.0
+6048,6048,P131,Where is Wormsley Park located?,"Location: Buckinghamshire, England",answered,"Buckinghamshire, England",True,1.0,0.75,True,1.0,exact_support_match,1.0
+6129,6129,P131,Where is Elvebakken located?,Location: Norway,answered,Norway,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6131,6131,P131,"Where is Mokronos, Łobez County located?",Location: Poland,answered,Poland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+614,614,P19,Where was Jean-Christophe Ravier born?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6144,6144,P131,Where is Saint-Philippe-du-Seignal located?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6167,6167,P131,Where is economy of Swansea located?,Location: Wales,answered,Wales,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6177,6177,P131,"Where is Huta, Złotów County located?",Location: Poland,answered,Poland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6195,6195,P131,Where is Birkebeineren Ski Stadium located?,Location: Norway,answered,Norway,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6206,6206,P131,Where is Lithgow located?,Location: Australia,answered,Australia,True,1.0,0.25,True,1.0,exact_support_match,1.0
+6218,6218,P131,Where is Marynowo located?,Location: Poland,answered,Poland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6232,6232,P131,Where is Martinique's 4th constituency located?,Location: Martinique,answered,Martinique,True,0.0,1.0,True,0.0,exact_support_match,1.0
+6240,6240,P131,"Where is Kraishte, Dobrich Province located?",Location: Bulgaria,answered,Bulgaria,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6259,6259,P131,Where is Olustee located?,Location: Florida,answered,Florida,False,,-0.5271739130434783,True,,answered_without_support_wrong,0.0
+6265,6265,P131,Where is East Orange School District located?,Location: New Jersey,answered,New Jersey,True,0.0,1.0,True,0.0,exact_support_match,1.0
+6269,6269,P131,Where is Chatignonville located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6270,6270,P131,Where is Southwest High School located?,Location: Minnesota,answered,Minnesota,True,2.0,0.5,True,2.0,exact_support_match,1.0
+6294,6294,P131,Where is Southampton Township located?,Location: New Jersey,answered,New Jersey,True,1.0,0.625,True,1.0,exact_support_match,1.0
+6296,6296,P131,Where is Wantirna located?,Location: Australia,answered,Australia,True,3.0,0.25,True,3.0,exact_support_match,1.0
+6299,6299,P131,Where is Tarrant Gunville located?,Location: Texas,answered,Texas,False,,-0.5824468085106383,True,,answered_without_support_wrong,0.0
+6326,6326,P131,Where is Porthall located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6337,6337,P131,Where is Trebartha located?,"Location: Cornwall, England",answered,"Cornwall, England",True,0.0,1.0,True,0.0,exact_support_match,1.0
+6340,6340,P131,Where is La Chapelle-d'Aligné located?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+636,636,P19,Where was Marco Paulo Paiva Rocha born?,Location: Brazil,answered,Brazil,False,,-0.3303571428571429,True,,answered_without_support_wrong,0.0
+6378,6378,P131,Where is Bredtvet located?,Location: Norway,answered,Norway,True,2.0,0.25,True,2.0,exact_support_match,1.0
+638,638,P19,Where was Richard Holm born?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+6382,6382,P131,Where is Adams National Historical Park located?,Location: Massachusetts,answered,Massachusetts,True,2.0,0.5,True,2.0,exact_support_match,1.0
+6385,6385,P131,Where is Nelsonville located?,Location: Ohio,answered,Ohio,False,,-0.8125,True,,answered_without_support_wrong,0.0
+6426,6426,P131,Where is Hyde Park located?,Location: London,answered,London,False,,-0.8433333333333333,True,,answered_without_support_wrong,0.0
+6433,6433,P131,Where is Baker Hotel located?,Location: Brisbane,answered,Brisbane,False,,-1.0,True,,answered_without_support_wrong,0.0
+6469,6469,P131,Where is Beach City located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6482,6482,P131,Where is Kikorze located?,Location: Poland,answered,Poland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6488,6488,P131,Where is Contres located?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+649,649,P19,Where was Edith Houghton born?,Location: United States,answered,United States,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6494,6494,P131,Where is Willington Worthenbury located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+652,652,P19,Where was Giulio Giacinto Avellino born?,Location: Italy,answered,Italy,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6525,6525,P131,Where is Larue located?,Location: Kentucky,answered,Kentucky,False,,-0.5416666666666666,True,,answered_without_support_wrong,0.0
+6570,6570,P131,Where is Lac de Morgins located?,Location: Switzerland,answered,Switzerland,True,1.0,0.625,True,1.0,exact_support_match,1.0
+6588,6588,P131,Where is Roquestéron located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+66,66,P19,Where was Joris Ponse born?,Location: Netherlands,answered,Netherlands,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6619,6619,P131,Where is Barr Township located?,"Location: Pennsylvania, United States",answered,"Pennsylvania, United States",False,,-0.6053921568627451,True,2.0,wrong_despite_support,0.0
+6620,6620,P131,Where is Pier 63 located?,Location: New York City,answered,New York City,True,1.0,0.75,True,1.0,exact_support_match,1.0
+6635,6635,P131,Where is Mazurowice located?,Location: Poland,answered,Poland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6665,6665,P131,Where is Xermaménil located?,Location: France,answered,France,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6730,6730,P131,Where is Wohlenschwil located?,Location: Switzerland,answered,Switzerland,True,1.0,0.25,True,1.0,exact_support_match,1.0
+6734,6734,P131,Where is La Salle-les-Alpes located?,Location: France,answered,France,True,2.0,0.5,True,2.0,exact_support_match,1.0
+6747,6747,P131,Where is Podolsze located?,Location: Poland,answered,Poland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6757,6757,P131,Where is Barsauli located?,Location: India,answered,India,False,,-0.25,True,,answered_without_support_wrong,0.0
+676,676,P19,Where was G. Edward Bradley born?,Location: United States,answered,United States,True,3.0,0.25,True,3.0,exact_support_match,1.0
+6794,6794,P131,Where is Hickory located?,Location: North Carolina,answered,North Carolina,False,,-0.6666666666666666,True,,answered_without_support_wrong,0.0
+6798,6798,P131,Where is Futani located?,Location: Japan,answered,Japan,False,,-0.4326923076923077,True,,answered_without_support_wrong,0.0
+6811,6811,P131,Where is Radley railway station located?,"Location: Oxfordshire, England",answered,"Oxfordshire, England",True,2.0,0.5,True,2.0,exact_support_match,1.0
+6836,6836,P131,Where is Oneida Lake located?,Location: New York,answered,New York,True,0.0,1.0,True,0.0,exact_support_match,1.0
+6848,6848,P131,Where is Parthenope University of Naples located?,Location: Naples,answered,Naples,True,0.0,1.0,True,0.0,exact_support_match,1.0
+689,689,P19,"Where was John Coleridge, 1st Baron Coleridge born?",Location: England,answered,England,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6909,6909,P131,Where is San Juan Cieneguilla located?,Location: Mexico,answered,Mexico,True,1.0,0.25,True,,answered_without_support_correct,0.0
+6911,6911,P131,"Where is Hai, Lviv Oblast located?",Location: Ukraine,answered,Ukraine,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6915,6915,P131,Where is Canossa Castle located?,Location: Italy,answered,Italy,True,3.0,0.25,True,3.0,exact_support_match,1.0
+6939,6939,P131,Where is Oberwintersbach located?,Location: Germany,answered,Germany,True,1.0,0.625,True,1.0,exact_support_match,1.0
+6941,6941,P131,Where is Naples Manor located?,Location: United States,answered,United States,True,2.0,0.25,True,,answered_without_support_correct,0.0
+6944,6944,P131,Where is Fortezza of Rethymno located?,Location: Greece,answered,Greece,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6946,6946,P131,Where is Panola located?,Location: Mississippi,answered,Mississippi,False,,-0.55,True,,answered_without_support_wrong,0.0
+6961,6961,P131,"Where is Cobham, Surry County, Virginia located?",Location: United States,answered,United States,True,1.0,0.625,True,1.0,exact_support_match,1.0
+6975,6975,P131,Where is Colmar-Berg railway station located?,Location: Luxembourg,answered,Luxembourg,True,1.0,0.625,True,1.0,exact_support_match,1.0
+6984,6984,P131,"Where is Kuczków, Kutno County located?",Location: Poland,answered,Poland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6988,6988,P131,Where is Miejsce Piastowe located?,Location: Poland,answered,Poland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6997,6997,P159,Where is the headquarter of Esterline?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+7011,7011,P159,Where is the headquarter of SEB Group?,Location: Stockholm,answered,Stockholm,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7057,7057,P159,Where is the headquarter of Gulf Oil?,Location: United States,answered,United States,True,3.0,0.25,True,3.0,exact_support_match,1.0
+7061,7061,P159,Where is the headquarter of Nordic Council?,Location: Denmark,answered,Denmark,True,1.0,0.625,True,1.0,exact_support_match,1.0
+710,710,P19,Where was Eric Carter born?,Location: United States,answered,United States,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7101,7101,P159,Where is the headquarter of Lycoris?,Location: China,answered,China,False,,-0.36458333333333337,True,,answered_without_support_wrong,0.0
+7102,7102,P159,Where is the headquarter of FK Neftchi Farg'ona?,Location: Uzbekistan,answered,Uzbekistan,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7110,7110,P159,Where is the headquarter of Mitchell Construction?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+7111,7111,P159,Where is the headquarter of Hendrick Manufacturing Company?,Location: Michigan,answered,Michigan,False,,-0.5535714285714286,True,3.0,wrong_despite_support,0.0
+7113,7113,P159,Where is the headquarter of A.S.D. Castel di Sangro Calcio?,Location: Italy,answered,Italy,True,2.0,0.25,True,2.0,exact_support_match,1.0
+715,715,P19,Where was Claudia Tenney born?,Location: United States,answered,United States,True,3.0,0.25,True,3.0,exact_support_match,1.0
+7160,7160,P159,Where is the headquarter of Polish Central Archives of Historical Records?,Location: Poland,answered,Poland,True,1.0,0.625,True,0.0,correct_coarser_than_support,0.0
+72,72,P19,Where was George Foreman born?,Location: Texas,answered,Texas,True,2.0,0.5,True,2.0,exact_support_match,1.0
+7219,7219,P159,Where is the headquarter of Planet Mu?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+728,728,P19,Where was Gustav Winkler born?,Location: Germany,answered,Germany,False,,-0.321236559139785,True,,answered_without_support_wrong,0.0
+7305,7305,P159,Where is the headquarter of Kellogg School of Management?,Location: United States,answered,United States,True,3.0,0.25,True,3.0,exact_support_match,1.0
+7307,7307,P159,Where is the headquarter of The Bon-Ton?,Location: Pennsylvania,answered,Pennsylvania,True,1.0,0.625,True,1.0,exact_support_match,1.0
+731,731,P19,Where was Alain Ferté born?,Location: France,answered,France,True,3.0,0.25,True,3.0,exact_support_match,1.0
+7312,7312,P159,Where is the headquarter of Al-Muharraq SC?,Location: Bahrain,answered,Bahrain,True,1.0,0.25,True,1.0,exact_support_match,1.0
+7355,7355,P159,Where is the headquarter of 920th Rescue Wing?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7365,7365,P159,Where is the headquarter of Club Náutico de Ponce?,Location: Puerto Rico,answered,Puerto Rico,True,1.0,0.75,True,1.0,exact_support_match,1.0
+7466,7466,P159,Where is the headquarter of Scarborough F.C.?,Location: England,answered,England,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7470,7470,P159,Where is the headquarter of Albtal-Verkehrs-Gesellschaft?,Location: Germany,answered,Germany,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7474,7474,P159,Where is the headquarter of King Street Sounds?,Location: United States,answered,United States,True,2.0,0.25,True,2.0,exact_support_match,1.0
+749,749,P19,Where was Jock Morgan born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7516,7516,P159,Where is the headquarter of Swiss Transportation Safety Investigation Board?,Location: Switzerland,answered,Switzerland,True,1.0,0.625,True,1.0,exact_support_match,1.0
+752,752,P19,Where was Magdalena Mielcarz born?,Location: Poland,answered,Poland,True,1.0,0.625,True,1.0,exact_support_match,1.0
+7523,7523,P159,Where is the headquarter of Liberal National Party of Queensland?,Location: Brisbane,answered,Brisbane,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7539,7539,P159,Where is the headquarter of Credit Mutuel?,Location: France,answered,France,False,,-0.2765858208955224,True,,answered_without_support_wrong,0.0
+7543,7543,P159,Where is the headquarter of Ryder?,Location: United States,answered,United States,True,3.0,0.25,True,3.0,exact_support_match,1.0
+7551,7551,P159,Where is the headquarter of Bitburger brewery?,Location: Germany,answered,Germany,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7571,7571,P159,Where is the headquarter of Kombiverkehr?,Location: Germany,answered,Germany,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7572,7572,P159,Where is the headquarter of The Ritz Cinema?,Location: London,answered,London,False,,-0.8433333333333333,True,,answered_without_support_wrong,0.0
+7577,7577,P159,Where is the headquarter of Leeds Federated Housing Association?,Location: United Kingdom,answered,United Kingdom,True,3.0,0.25,True,3.0,exact_support_match,1.0
+7590,7590,P159,Where is the headquarter of SC Concordia von 1907?,Location: Germany,answered,Germany,True,1.0,0.625,True,1.0,exact_support_match,1.0
+7649,7649,P159,Where is the headquarter of Mind Sports Organisation?,Location: London,answered,London,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7655,7655,P159,Where is the headquarter of Travelers Aid Family Services of Boston?,Location: Boston,answered,Boston,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7682,7682,P159,Where is the headquarter of John Aird & Co.?,Location: United Kingdom,answered,United Kingdom,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7691,7691,P159,Where is the headquarter of Hunter Douglas?,Location: Netherlands,answered,Netherlands,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7695,7695,P159,Where is the headquarter of Floriana F.C.?,Location: Malta,answered,Malta,True,1.0,0.25,True,1.0,exact_support_match,1.0
+7732,7732,P159,Where is the headquarter of Health First Europe?,Location: Netherlands,answered,Netherlands,False,,-0.26864035087719296,True,,answered_without_support_wrong,0.0
+7736,7736,P159,Where is the headquarter of Unilever Australasia?,Location: Australia,answered,Australia,True,2.0,0.25,True,0.0,correct_coarser_than_support,0.0
+7738,7738,P159,Where is the headquarter of Bollack Netter and Co?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7742,7742,P159,Where is the headquarter of Bilingual Review Press?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7777,7777,P159,Where is the headquarter of Secqueville-Hoyau?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7806,7806,P159,Where is the headquarter of Lightning Fish?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7815,7815,P159,Where is the headquarter of Bärenreiter?,Location: Germany,answered,Germany,True,2.0,0.25,True,2.0,exact_support_match,1.0
+782,782,P19,Where was Panagiotis Kanellopoulos born?,Location: Greece,answered,Greece,True,1.0,0.625,True,1.0,exact_support_match,1.0
+7820,7820,P159,Where is the headquarter of Steel Dynamics?,"Location: Indianapolis, Indiana",answered,"Indianapolis, Indiana",False,,-0.9375,True,2.0,wrong_despite_support,0.0
+7821,7821,P159,"Where is the headquarter of White, Smith & Company?",Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7833,7833,P159,Where is the headquarter of PYOSA?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7834,7834,P159,Where is the headquarter of Lionhead Studios?,Location: United Kingdom,answered,United Kingdom,False,,-0.2726586102719033,True,,answered_without_support_wrong,0.0
+7868,7868,P159,Where is the headquarter of Huppenkothen Baumaschinen?,Location: Germany,answered,Germany,True,2.0,0.25,True,2.0,exact_support_match,1.0
+789,789,P19,Where was Balázs Major born?,Location: Hungary,answered,Hungary,True,1.0,0.625,True,1.0,exact_support_match,1.0
+7907,7907,P159,Where is the headquarter of Arkansas Tech University?,Location: Russellville,answered,Russellville,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7922,7922,P159,Where is the headquarter of Italian Football Federation?,Location: Italy,answered,Italy,True,2.0,0.25,True,2.0,exact_support_match,1.0
+835,835,P19,Where was Treg Brown born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+855,855,P19,Where was Natale Masera born?,Location: Italy,answered,Italy,True,3.0,0.25,True,3.0,exact_support_match,1.0
+861,861,P19,Where was Giorgio Sommer born?,Location: Italy,answered,Italy,False,,-0.30123873873873874,True,,answered_without_support_wrong,0.0
+862,862,P19,Where was Karl vom Stein zum Altenstein born?,Location: Germany,answered,Germany,True,2.0,0.25,True,2.0,exact_support_match,1.0
+868,868,P19,Where was Ralf Speth born?,Location: Germany,answered,Germany,True,2.0,0.25,True,2.0,exact_support_match,1.0
+914,914,P19,Where was Ricardo Ciciliano born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+929,929,P19,Where was Daniel Sargent born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+932,932,P19,Where was Jobst of Limburg born?,Location: Limburg,answered,Limburg,False,,-0.575,True,,answered_without_support_wrong,0.0
+956,956,P19,Where was Peter Mathews born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+958,958,P19,Where was Louis-Jean-Nicolas Lejoille born?,Location: France,answered,France,True,3.0,0.25,True,3.0,exact_support_match,1.0
+960,960,P19,Where was Silje Nergaard born?,Location: Norway,answered,Norway,True,3.0,0.25,True,3.0,exact_support_match,1.0
+973,973,P19,Where was Ann Z. Caracristi born?,Location: United States,answered,United States,True,3.0,0.25,True,,answered_without_support_correct,0.0
+974,974,P19,Where was José Felipe Puelles born?,Location: Spain,answered,Spain,False,,-0.25,True,,answered_without_support_wrong,0.0

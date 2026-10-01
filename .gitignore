@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+
+# LoRA adapters are too large for git; results/ARTIFACTS.sha256 lists their checksums
+results/*/adapters
+
+# run markers, logs and smoke runs of scripts/run.sh
+results/*/done/
+results/logs/
+results/smoke/
+
+# written by analysis/make_tables.py
+analysis/output/

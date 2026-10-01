@@ -1,0 +1,20 @@
+{
+  "n_levels": 4,
+  "bins": [
+    -0.0,
+    0.6119491913883952,
+    0.9743147528693494
+  ],
+  "percentiles": [
+    25.0,
+    50.0,
+    75.0
+  ],
+  "n_train_total": 452,
+  "n_train_kept": 350,
+  "min_hits": 1,
+  "entropy_min": -0.0,
+  "entropy_max": 2.0794415416798357,
+  "entropy_mean": 0.6019344810001516,
+  "base_idk_rollout_rate": 0.16399336283185842
+}

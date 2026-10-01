@@ -1,0 +1,14 @@
+# Versions of the runs reported in the thesis (recorded in results/*/report_*.json).
+# Python 3.12 or newer.
+torch==2.13.0
+transformers==5.15.0
+trl==1.9.2
+peft==0.20.0
+datasets==5.0.1
+accelerate
+numpy==2.5.2
+pandas==3.0.5
+scipy
+python-dateutil
+# only for analysis/make_tables.py
+matplotlib

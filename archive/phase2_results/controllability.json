@@ -1,0 +1,20 @@
+{
+  "specific": {
+    "base_mean_gs": 50.56018511454264,
+    "trained_mean_gs": 54.59017588297526,
+    "base_idk_rate": 0.0,
+    "trained_idk_rate": 0.0
+  },
+  "country": {
+    "base_mean_gs": 64.78557895024618,
+    "trained_mean_gs": 65.39326887130737,
+    "base_idk_rate": 0.0,
+    "trained_idk_rate": 0.0
+  },
+  "vague": {
+    "base_mean_gs": 66.40525630315145,
+    "trained_mean_gs": 65.44340213139851,
+    "base_idk_rate": 0.1,
+    "trained_idk_rate": 0.1
+  }
+}

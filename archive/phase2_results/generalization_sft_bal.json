@@ -1,0 +1,348 @@
+{
+  "adapter": "sft_bal",
+  "tau": 0.5,
+  "n": 61,
+  "exact": 0.36065573770491804,
+  "off_by_one": 0.8518518518518519,
+  "ordinal_spearman": 0.20785732363995074,
+  "idk_precision": 0.4074074074074074,
+  "idk_recall": 0.6111111111111112,
+  "controllability_mean_ml": {
+    "city": 1.325,
+    "region": 1.375,
+    "country": 1.5
+  },
+  "confusion": {
+    "city": {
+      "city": 1,
+      "region": 1,
+      "country": 3,
+      "idk": 3
+    },
+    "region": {
+      "city": 3,
+      "region": 0,
+      "country": 7,
+      "idk": 1
+    },
+    "country": {
+      "city": 1,
+      "region": 1,
+      "country": 10,
+      "idk": 12
+    },
+    "idk": {
+      "city": 1,
+      "region": 0,
+      "country": 6,
+      "idk": 11
+    }
+  },
+  "rows": [
+    {
+      "qid": 6626,
+      "true": "idk",
+      "pred": "city"
+    },
+    {
+      "qid": 6985,
+      "true": "idk",
+      "pred": "idk"
+    },
+    {
+      "qid": 6931,
+      "true": "country",
+      "pred": "region"
+    },
+    {
+      "qid": 6597,
+      "true": "idk",
+      "pred": "country"
+    },
+    {
+      "qid": 6362,
+      "true": "country",
+      "pred": "idk"
+    },
+    {
+      "qid": 6251,
+      "true": "idk",
+      "pred": "idk"
+    },
+    {
+      "qid": 6151,
+      "true": "country",
+      "pred": "country"
+    },
+    {
+      "qid": 6175,
+      "true": "country",
+      "pred": "country"
+    },
+    {
+      "qid": 6239,
+      "true": "country",
+      "pred": "country"
+    },
+    {
+      "qid": 6594,
+      "true": "idk",
+      "pred": "country"
+    },
+    {
+      "qid": 6711,
+      "true": "country",
+      "pred": "idk"
+    },
+    {
+      "qid": 6926,
+      "true": "country",
+      "pred": "country"
+    },
+    {
+      "qid": 6113,
+      "true": "country",
+      "pred": "idk"
+    },
+    {
+      "qid": 6807,
+      "true": "idk",
+      "pred": "idk"
+    },
+    {
+      "qid": 6974,
+      "true": "city",
+      "pred": "city"
+    },
+    {
+      "qid": 6778,
+      "true": "region",
+      "pred": "country"
+    },
+    {
+      "qid": 6178,
+      "true": "idk",
+      "pred": "idk"
+    },
+    {
+      "qid": 6959,
+      "true": "idk",
+      "pred": "idk"
+    },
+    {
+      "qid": 6919,
+      "true": "region",
+      "pred": "country"
+    },
+    {
+      "qid": 6551,
+      "true": "country",
+      "pred": "idk"
+    },
+    {
+      "qid": 6117,
+      "true": "country",
+      "pred": "idk"
+    },
+    {
+      "qid": 6519,
+      "true": "region",
+      "pred": "idk"
+    },
+    {
+      "qid": 6192,
+      "true": "region",
+      "pred": "country"
+    },
+    {
+      "qid": 6524,
+      "true": "region",
+      "pred": "country"
+    },
+    {
+      "qid": 6692,
+      "true": "country",
+      "pred": "idk"
+    },
+    {
+      "qid": 6717,
+      "true": "city",
+      "pred": "idk"
+    },
+    {
+      "qid": 6769,
+      "true": "country",
+      "pred": "country"
+    },
+    {
+      "qid": 6978,
+      "true": "country",
+      "pred": "idk"
+    },
+    {
+      "qid": 6250,
+      "true": "country",
+      "pred": "idk"
+    },
+    {
+      "qid": 6109,
+      "true": "city",
+      "pred": "idk"
+    },
+    {
+      "qid": 6652,
+      "true": "region",
+      "pred": "city"
+    },
+    {
+      "qid": 6902,
+      "true": "idk",
+      "pred": "country"
+    },
+    {
+      "qid": 6860,
+      "true": "city",
+      "pred": "region"
+    },
+    {
+      "qid": 6338,
+      "true": "region",
+      "pred": "country"
+    },
+    {
+      "qid": 6677,
+      "true": "country",
+      "pred": "country"
+    },
+    {
+      "qid": 6276,
+      "true": "idk",
+      "pred": "idk"
+    },
+    {
+      "qid": 6874,
+      "true": "country",
+      "pred": "idk"
+    },
+    {
+      "qid": 6571,
+      "true": "region",
+      "pred": "country"
+    },
+    {
+      "qid": 6627,
+      "true": "idk",
+      "pred": "country"
+    },
+    {
+      "qid": 6272,
+      "true": "country",
+      "pred": "city"
+    },
+    {
+      "qid": 6774,
+      "true": "country",
+      "pred": "country"
+    },
+    {
+      "qid": 6644,
+      "true": "country",
+      "pred": "country"
+    },
+    {
+      "qid": 6441,
+      "true": "idk",
+      "pred": "idk"
+    },
+    {
+      "qid": 6159,
+      "true": "idk",
+      "pred": "idk"
+    },
+    {
+      "qid": 6722,
+      "true": "country",
+      "pred": "country"
+    },
+    {
+      "qid": 6403,
+      "true": "city",
+      "pred": "country"
+    },
+    {
+      "qid": 6666,
+      "true": "city",
+      "pred": "country"
+    },
+    {
+      "qid": 6467,
+      "true": "region",
+      "pred": "city"
+    },
+    {
+      "qid": 6227,
+      "true": "idk",
+      "pred": "idk"
+    },
+    {
+      "qid": 6420,
+      "true": "idk",
+      "pred": "idk"
+    },
+    {
+      "qid": 6749,
+      "true": "city",
+      "pred": "idk"
+    },
+    {
+      "qid": 6264,
+      "true": "city",
+      "pred": "country"
+    },
+    {
+      "qid": 6938,
+      "true": "country",
+      "pred": "idk"
+    },
+    {
+      "qid": 6907,
+      "true": "country",
+      "pred": "country"
+    },
+    {
+      "qid": 6466,
+      "true": "country",
+      "pred": "idk"
+    },
+    {
+      "qid": 6209,
+      "true": "idk",
+      "pred": "idk"
+    },
+    {
+      "qid": 6437,
+      "true": "region",
+      "pred": "country"
+    },
+    {
+      "qid": 6464,
+      "true": "idk",
+      "pred": "country"
+    },
+    {
+      "qid": 6541,
+      "true": "country",
+      "pred": "idk"
+    },
+    {
+      "qid": 6932,
+      "true": "idk",
+      "pred": "country"
+    },
+    {
+      "qid": 6330,
+      "true": "region",
+      "pred": "city"
+    }
+  ]
+}

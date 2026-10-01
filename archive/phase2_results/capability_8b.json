@@ -1,0 +1,219 @@
+{
+  "tau": 0.5,
+  "k": 8,
+  "depth": 4,
+  "n_total": 8,
+  "n_kept": 7,
+  "min_hits": 1,
+  "base_confident_wrong_rate": 0.171875,
+  "base_idk_rate": 0.171875,
+  "n_idk_targets": 3,
+  "questions": {
+    "1088": {
+      "qid": 1088,
+      "question": "Where did Luigi Rosa die?",
+      "hierarchy": [
+        "Rome",
+        "Lazio",
+        "Italy",
+        "Europe"
+      ],
+      "levels": [
+        1.0,
+        2.0,
+        3.0,
+        4.0
+      ],
+      "curve": [
+        0.0,
+        0.0,
+        0.875,
+        0.875
+      ],
+      "target_level": 2,
+      "target_is_idk": false,
+      "target_norm_level": 3.0,
+      "n_hits": 7,
+      "confident_wrong": 0,
+      "idk_samples": 1
+    },
+    "13000": {
+      "qid": 13000,
+      "question": "Where is Peace of Travendal located?",
+      "hierarchy": [
+        "Traventhal",
+        "Schleswig-Holstein",
+        "Germany"
+      ],
+      "levels": [
+        1.0,
+        2.5,
+        4.0
+      ],
+      "curve": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "target_level": null,
+      "target_is_idk": true,
+      "target_norm_level": null,
+      "n_hits": 0,
+      "confident_wrong": 8,
+      "idk_samples": 0
+    },
+    "1464": {
+      "qid": 1464,
+      "question": "Where did Louis-Antoine Dornel die?",
+      "hierarchy": [
+        "Paris",
+        "\u00cele-de-France",
+        "France"
+      ],
+      "levels": [
+        1.0,
+        2.5,
+        4.0
+      ],
+      "curve": [
+        0.875,
+        1.0,
+        1.0
+      ],
+      "target_level": 0,
+      "target_is_idk": false,
+      "target_norm_level": 1.0,
+      "n_hits": 8,
+      "confident_wrong": 0,
+      "idk_samples": 0
+    },
+    "7944": {
+      "qid": 7944,
+      "question": "Where is the headquarter of Houston Food Bank?",
+      "hierarchy": [
+        "Houston",
+        "Harris County",
+        "Texas",
+        "United States"
+      ],
+      "levels": [
+        1.0,
+        2.0,
+        3.0,
+        4.0
+      ],
+      "curve": [
+        0.125,
+        0.125,
+        0.625,
+        1.0
+      ],
+      "target_level": 2,
+      "target_is_idk": false,
+      "target_norm_level": 3.0,
+      "n_hits": 8,
+      "confident_wrong": 0,
+      "idk_samples": 0
+    },
+    "7793": {
+      "qid": 7793,
+      "question": "Where is the headquarter of Jackson Hewitt?",
+      "hierarchy": [
+        "Jersey City",
+        "New Jersey",
+        "United States"
+      ],
+      "levels": [
+        1.0,
+        2.5,
+        4.0
+      ],
+      "curve": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "target_level": 2,
+      "target_is_idk": false,
+      "target_norm_level": 4.0,
+      "n_hits": 8,
+      "confident_wrong": 0,
+      "idk_samples": 0
+    },
+    "407": {
+      "qid": 407,
+      "question": "Where was Katarina Frostenson born?",
+      "hierarchy": [
+        "Stockholm",
+        "Sweden",
+        "Europe"
+      ],
+      "levels": [
+        1.0,
+        2.5,
+        4.0
+      ],
+      "curve": [
+        0.0,
+        0.125,
+        0.125
+      ],
+      "target_level": null,
+      "target_is_idk": true,
+      "target_norm_level": null,
+      "n_hits": 1,
+      "confident_wrong": 3,
+      "idk_samples": 4
+    },
+    "795": {
+      "qid": 795,
+      "question": "Where was Dick Wheeler born?",
+      "hierarchy": [
+        "Keene",
+        "New Hampshire",
+        "United States"
+      ],
+      "levels": [
+        1.0,
+        2.5,
+        4.0
+      ],
+      "curve": [
+        0.0,
+        0.0,
+        0.25
+      ],
+      "target_level": null,
+      "target_is_idk": true,
+      "target_norm_level": null,
+      "n_hits": 2,
+      "confident_wrong": 0,
+      "idk_samples": 6
+    },
+    "6678": {
+      "qid": 6678,
+      "question": "Where is Saint-Laurent-Nouan located?",
+      "hierarchy": [
+        "Loir-et-Cher",
+        "Centre-Val de Loire",
+        "France"
+      ],
+      "levels": [
+        1.0,
+        2.5,
+        4.0
+      ],
+      "curve": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "target_level": 2,
+      "target_is_idk": false,
+      "target_norm_level": 4.0,
+      "n_hits": 8,
+      "confident_wrong": 0,
+      "idk_samples": 0
+    }
+  }
+}

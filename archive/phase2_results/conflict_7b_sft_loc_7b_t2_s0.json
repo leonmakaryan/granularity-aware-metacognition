@@ -1,0 +1,58 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "adapter": "sft_loc_7b_t2_s0",
+  "case_seed": 0,
+  "n_cases": 1227,
+  "fmt_fail": 24,
+  "summary": {
+    "agree:DAY": {
+      "n": 409,
+      "behaviour": {
+        "at_level": 0.7579,
+        "too_coarse": 0.2176,
+        "fmt_fail": 0.0244
+      },
+      "signed_strict": 0.8621,
+      "acc_strict": 0.9756
+    },
+    "conflict:DECADE": {
+      "n": 136,
+      "behaviour": {
+        "idk": 1.0
+      },
+      "signed_strict": 0.0,
+      "acc_strict": 0.0
+    },
+    "conflict:MONTH": {
+      "n": 137,
+      "behaviour": {
+        "over_commit": 0.1022,
+        "too_coarse": 0.1387,
+        "idk": 0.7226,
+        "fmt_fail": 0.0365
+      },
+      "signed_strict": -0.0471,
+      "acc_strict": 0.1387
+    },
+    "conflict:YEAR": {
+      "n": 136,
+      "behaviour": {
+        "at_level": 0.0588,
+        "over_commit": 0.0882,
+        "idk": 0.8529
+      },
+      "signed_strict": -0.0565,
+      "acc_strict": 0.0588
+    },
+    "none": {
+      "n": 409,
+      "behaviour": {
+        "idk": 0.1247,
+        "fmt_fail": 0.022,
+        "answered": 0.8533
+      },
+      "signed_strict": 0.2868,
+      "acc_strict": 0.6797
+    }
+  }
+}

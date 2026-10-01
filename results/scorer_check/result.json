@@ -1,0 +1,67 @@
+{
+  "n": 162,
+  "outcome_agreement": 0.9876543209876543,
+  "outcome_kappa": 0.9799032378116858,
+  "level_agreement": 1.0,
+  "level_n": 77,
+  "per_stratum": {
+    "abstain": {
+      "n": 26,
+      "outcome_agree": 1.0
+    },
+    "bce": {
+      "n": 12,
+      "outcome_agree": 1.0
+    },
+    "correct_coarser": {
+      "n": 26,
+      "outcome_agree": 1.0
+    },
+    "correct_finest": {
+      "n": 26,
+      "outcome_agree": 1.0
+    },
+    "multi_part": {
+      "n": 14,
+      "outcome_agree": 0.9285714285714286
+    },
+    "retry_parsed": {
+      "n": 12,
+      "outcome_agree": 1.0
+    },
+    "short_year": {
+      "n": 12,
+      "outcome_agree": 1.0
+    },
+    "unparseable": {
+      "n": 8,
+      "outcome_agree": 1.0
+    },
+    "wrong": {
+      "n": 26,
+      "outcome_agree": 0.9615384615384616
+    }
+  },
+  "systematic_patterns": {},
+  "passed": true,
+  "disagreements": [
+    {
+      "item": "1",
+      "stratum": "wrong",
+      "question": "When was Xenophon born?",
+      "model_output": "Date: 400s BCE",
+      "scorer_outcome": "wrong",
+      "human_outcome": "correct",
+      "notes": "'400s BCE' read as the century 499-400 BC, which contains his birth; read as the decade 409-400 BC it would be wrong"
+    },
+    {
+      "item": "45",
+      "stratum": "multi_part",
+      "question": "Where is King Cove Airport located?",
+      "model_output": "Location: King Cove, Alaska",
+      "scorer_outcome": "wrong",
+      "human_outcome": "correct",
+      "notes": "King Cove is the Alaskan town the airport serves: finer than the reference, credited at Alaska"
+    }
+  ]
+}

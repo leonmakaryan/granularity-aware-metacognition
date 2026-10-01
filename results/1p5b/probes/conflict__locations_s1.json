@@ -1,0 +1,55 @@
+{
+ "n": 1227,
+ "summary": {
+  "agree:DAY": {
+   "n": 409,
+   "behaviour": {
+    "at_level": 0.9878,
+    "at_level_wrong": 0.0073,
+    "idk": 0.0049
+   },
+   "signed_strict": 0.9804,
+   "acc_strict": 0.9878
+  },
+  "conflict:DECADE": {
+   "n": 136,
+   "behaviour": {
+    "over_commit": 0.1324,
+    "idk": 0.8676
+   },
+   "signed_strict": -0.1265,
+   "acc_strict": 0.0
+  },
+  "conflict:MONTH": {
+   "n": 137,
+   "behaviour": {
+    "at_level": 0.0511,
+    "at_level_wrong": 0.0073,
+    "over_commit": 0.4307,
+    "too_coarse": 0.0073,
+    "idk": 0.5036
+   },
+   "signed_strict": -0.3946,
+   "acc_strict": 0.0584
+  },
+  "conflict:YEAR": {
+   "n": 136,
+   "behaviour": {
+    "over_commit": 0.1029,
+    "idk": 0.8971
+   },
+   "signed_strict": -0.1029,
+   "acc_strict": 0.0
+  },
+  "none": {
+   "n": 409,
+   "behaviour": {
+    "idk": 0.2225,
+    "fmt_fail": 0.176,
+    "answered": 0.6015
+   },
+   "signed_strict": -0.1819,
+   "acc_strict": 0.2665
+  }
+ }
+}

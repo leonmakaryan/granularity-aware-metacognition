@@ -1,0 +1,26 @@
+{
+  "rule": "higher support match on the 10% train holdout, ties by signed score; fixed before the 1-epoch pilot ran",
+  "candidates": [
+    {
+      "adapter": "pilot_locations_s0",
+      "epochs": 2,
+      "support_match": 0.7580071174377224,
+      "score": 0.1428447184568755,
+      "abstain": 0.36298932384341637
+    },
+    {
+      "adapter": "pilot_locations_s0_e1",
+      "epochs": 1,
+      "support_match": 0.7473309608540926,
+      "score": 0.12017565746220363,
+      "abstain": 0.3594306049822064
+    }
+  ],
+  "chosen": {
+    "adapter": "pilot_locations_s0",
+    "epochs": 2,
+    "support_match": 0.7580071174377224,
+    "score": 0.1428447184568755,
+    "abstain": 0.36298932384341637
+  }
+}

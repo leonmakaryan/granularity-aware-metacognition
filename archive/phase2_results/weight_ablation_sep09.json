@@ -1,0 +1,141 @@
+{
+  "per_cell": {
+    "linear": {
+      "base": 0.13361831433872057,
+      "in-domain (loc) s0": 0.15539906297690087,
+      "in-domain (loc) s1": 0.15948539646168547,
+      "in-domain (loc) s2": 0.16255505974368628,
+      "transfer (dates) s0": 0.1653682358230496,
+      "transfer (dates) s1": 0.16089914193848773,
+      "transfer (dates) s2": 0.15527780524606036,
+      "transfer (dates) s3": 0.16761002915589335,
+      "joint s0": 0.1655673692392133,
+      "joint s1": 0.17212954827239393,
+      "joint s2": 0.17441106666028425
+    },
+    "log": {
+      "base": 0.1663005920650356,
+      "in-domain (loc) s0": 0.19824664312079437,
+      "in-domain (loc) s1": 0.20283584192182336,
+      "in-domain (loc) s2": 0.2079318365738267,
+      "transfer (dates) s0": 0.2068820474043139,
+      "transfer (dates) s1": 0.20330677229666436,
+      "transfer (dates) s2": 0.19616943891631988,
+      "transfer (dates) s3": 0.21065568009039096,
+      "joint s0": 0.2096816181636476,
+      "joint s1": 0.2175716254165949,
+      "joint s2": 0.22005690613350778
+    },
+    "steep": {
+      "base": 0.09542478821277835,
+      "in-domain (loc) s0": 0.09624035420633349,
+      "in-domain (loc) s1": 0.0993536560865854,
+      "in-domain (loc) s2": 0.09971324874062552,
+      "transfer (dates) s0": 0.11300014659198136,
+      "transfer (dates) s1": 0.10767065930617438,
+      "transfer (dates) s2": 0.10392463704050035,
+      "transfer (dates) s3": 0.11142856769741573,
+      "joint s0": 0.10484875084914706,
+      "joint s1": 0.10911918453797823,
+      "joint s2": 0.11055726618602447
+    },
+    "flat": {
+      "base": 0.18696233781260266,
+      "in-domain (loc) s0": 0.228160437896285,
+      "in-domain (loc) s1": 0.23313934839662967,
+      "in-domain (loc) s2": 0.2396961155290892,
+      "transfer (dates) s0": 0.23420261167700968,
+      "transfer (dates) s1": 0.23117958606676287,
+      "transfer (dates) s2": 0.22301880919635944,
+      "transfer (dates) s3": 0.23959076257009396,
+      "joint s0": 0.24040728676265424,
+      "joint s1": 0.2493655635587773,
+      "joint s2": 0.2521616231502936
+    },
+    "binary": {
+      "base": 0.297029702970297,
+      "in-domain (loc) s0": 0.3696369636963696,
+      "in-domain (loc) s1": 0.37623762376237624,
+      "in-domain (loc) s2": 0.38943894389438943,
+      "transfer (dates) s0": 0.37293729372937295,
+      "transfer (dates) s1": 0.37293729372937295,
+      "transfer (dates) s2": 0.35973597359735976,
+      "transfer (dates) s3": 0.38283828382838286,
+      "joint s0": 0.38613861386138615,
+      "joint s1": 0.39933993399339934,
+      "joint s2": 0.40264026402640263
+    }
+  },
+  "per_group": {
+    "linear": {
+      "base": 0.13361831433872057,
+      "in-domain (locations)": 0.15914650639409086,
+      "transfer (dates-trained)": 0.16228880304087276,
+      "joint": 0.1707026613906305
+    },
+    "log": {
+      "base": 0.1663005920650356,
+      "in-domain (locations)": 0.20300477387214813,
+      "transfer (dates-trained)": 0.20425348467692228,
+      "joint": 0.21577004990458343
+    },
+    "steep": {
+      "base": 0.09542478821277835,
+      "in-domain (locations)": 0.09843575301118147,
+      "transfer (dates-trained)": 0.10900600265901796,
+      "joint": 0.10817506719104993
+    },
+    "flat": {
+      "base": 0.18696233781260266,
+      "in-domain (locations)": 0.23366530060733462,
+      "transfer (dates-trained)": 0.2319979423775565,
+      "joint": 0.24731149115724171
+    },
+    "binary": {
+      "base": 0.297029702970297,
+      "in-domain (locations)": 0.37843784378437845,
+      "transfer (dates-trained)": 0.37211221122112215,
+      "joint": 0.39603960396039606
+    }
+  },
+  "rankings": {
+    "linear": [
+      "joint",
+      "transfer (dates-trained)",
+      "in-domain (locations)",
+      "base"
+    ],
+    "log": [
+      "joint",
+      "transfer (dates-trained)",
+      "in-domain (locations)",
+      "base"
+    ],
+    "steep": [
+      "transfer (dates-trained)",
+      "joint",
+      "in-domain (locations)",
+      "base"
+    ],
+    "flat": [
+      "joint",
+      "in-domain (locations)",
+      "transfer (dates-trained)",
+      "base"
+    ],
+    "binary": [
+      "joint",
+      "in-domain (locations)",
+      "transfer (dates-trained)",
+      "base"
+    ]
+  },
+  "ranking_stable": false,
+  "trained_beats_base": {
+    "linear": true,
+    "log": true,
+    "steep": true,
+    "flat": true,
+    "binary": true
+  }
+}

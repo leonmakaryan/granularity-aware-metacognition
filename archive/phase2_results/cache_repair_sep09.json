@@ -1,0 +1,2608 @@
+{
+  "targets_loc_7b_t2.json": {
+    "scale": "7B",
+    "n": 2884,
+    "changed": 109,
+    "kinds": {
+      "level->level": 109
+    },
+    "idk_before": 1391,
+    "idk_after": 1391,
+    "dist_before": {
+      "None": 1391,
+      "1": 417,
+      "0": 179,
+      "2": 730,
+      "3": 167
+    },
+    "dist_after": {
+      "None": 1391,
+      "2": 809,
+      "0": 159,
+      "1": 351,
+      "3": 174
+    },
+    "changes": [
+      {
+        "qid": "1464",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6308",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "901",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "12918",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1306",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6647",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "6716",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "7873",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6545",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "7052",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13449",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "1873",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13507",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13689",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "51",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13641",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13276",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "264",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "6088",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6813",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "12800",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "705",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6275",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13680",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1023",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "381",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "7494",
+        "old": 0,
+        "new": 2
+      },
+      {
+        "qid": "13034",
+        "old": 1,
+        "new": 3
+      },
+      {
+        "qid": "13813",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "597",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1830",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "466",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "446",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6383",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1607",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6747",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "806",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "1244",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6084",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "328",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13399",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "6379",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "1293",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "656",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1054",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1002",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1581",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1731",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1786",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "7671",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "370",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1860",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1628",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1056",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1272",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13069",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6719",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "807",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13632",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "980",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6164",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "7586",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13512",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "772",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "857",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1856",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6987",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "333",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13625",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1288",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6373",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "6899",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13160",
+        "old": 0,
+        "new": 2
+      },
+      {
+        "qid": "1087",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1281",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6389",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "6839",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "155",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6177",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1832",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13447",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6637",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1477",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6928",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "12967",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "1632",
+        "old": 0,
+        "new": 2
+      },
+      {
+        "qid": "13232",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13519",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13313",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "7949",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "13327",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "642",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13137",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6881",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "12854",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6935",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "7741",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1093",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6269",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1920",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1221",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1716",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6526",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "7838",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1009",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1313",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6053",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1362",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "275",
+        "old": 1,
+        "new": 2
+      }
+    ]
+  },
+  "capability_loc_7b.json": {
+    "scale": "7B",
+    "n": 2884,
+    "changed": 104,
+    "kinds": {
+      "level->level": 104
+    },
+    "idk_before": 1396,
+    "idk_after": 1396,
+    "dist_before": {
+      "None": 1396,
+      "1": 413,
+      "0": 173,
+      "2": 737,
+      "3": 165
+    },
+    "dist_after": {
+      "None": 1396,
+      "2": 809,
+      "0": 154,
+      "1": 352,
+      "3": 173
+    },
+    "changes": [
+      {
+        "qid": "1464",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6308",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "901",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "12918",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1306",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6647",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "6716",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "7873",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6545",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "7052",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13449",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "1873",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13507",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13689",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "51",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13641",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13276",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "264",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "6088",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6813",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "12800",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "705",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6275",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13680",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1023",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "381",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13653",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13034",
+        "old": 1,
+        "new": 3
+      },
+      {
+        "qid": "13813",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "597",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1830",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "466",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "446",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6383",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1607",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13553",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6747",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "806",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "1244",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6084",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "328",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13399",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "6379",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "1293",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "656",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1054",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1002",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1581",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1731",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1786",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "7671",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "370",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1628",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "88",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13069",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6719",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "658",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "807",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13632",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "980",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6164",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "13512",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "772",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "857",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1856",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6987",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "333",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13625",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6373",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "6899",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13160",
+        "old": 0,
+        "new": 2
+      },
+      {
+        "qid": "1087",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1281",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6389",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "6839",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "155",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6177",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1832",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13447",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6637",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1477",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6928",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "12967",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "1632",
+        "old": 0,
+        "new": 2
+      },
+      {
+        "qid": "13232",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13519",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13313",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "7949",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "13327",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "642",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13137",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6881",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "12854",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6935",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "7741",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1093",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1716",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6526",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "7838",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1009",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1313",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6053",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1362",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "275",
+        "old": 1,
+        "new": 2
+      }
+    ]
+  },
+  "targets_loc_v2.json": {
+    "scale": "1.5B",
+    "n": 2884,
+    "changed": 54,
+    "kinds": {
+      "level->level": 54
+    },
+    "idk_before": 1419,
+    "idk_after": 1419,
+    "dist_before": {
+      "2": 710,
+      "None": 1419,
+      "0": 228,
+      "1": 309,
+      "3": 218
+    },
+    "dist_after": {
+      "2": 745,
+      "None": 1419,
+      "0": 219,
+      "1": 276,
+      "3": 225
+    },
+    "changes": [
+      {
+        "qid": "901",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13162",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "12918",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6716",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "7873",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6545",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "51",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13276",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6088",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "705",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1023",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13034",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "12840",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "466",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "446",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6383",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6747",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "328",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1256",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13436",
+        "old": 0,
+        "new": 2
+      },
+      {
+        "qid": "7878",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "13142",
+        "old": 0,
+        "new": 2
+      },
+      {
+        "qid": "1731",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "7671",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "370",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1257",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "88",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "321",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "980",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13512",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "772",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "857",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "333",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6346",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6373",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "6899",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13160",
+        "old": 0,
+        "new": 2
+      },
+      {
+        "qid": "6389",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "155",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6177",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13447",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6928",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "12967",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "1632",
+        "old": 0,
+        "new": 2
+      },
+      {
+        "qid": "13232",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13313",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "7949",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "13327",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "7741",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6269",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1920",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6526",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6053",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1362",
+        "old": 1,
+        "new": 2
+      }
+    ]
+  },
+  "capability_loc_v2.json": {
+    "scale": "1.5B",
+    "n": 2884,
+    "changed": 58,
+    "kinds": {
+      "level->level": 58
+    },
+    "idk_before": 1449,
+    "idk_after": 1449,
+    "dist_before": {
+      "2": 707,
+      "None": 1449,
+      "0": 208,
+      "1": 314,
+      "3": 206
+    },
+    "dist_after": {
+      "2": 745,
+      "None": 1449,
+      "0": 201,
+      "1": 275,
+      "3": 214
+    },
+    "changes": [
+      {
+        "qid": "901",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13162",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "12918",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6716",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "7873",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6545",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "51",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13276",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6088",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "705",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "381",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13034",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "12840",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "1982",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "466",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "446",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6383",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6747",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "328",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1256",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13436",
+        "old": 0,
+        "new": 2
+      },
+      {
+        "qid": "7878",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "13142",
+        "old": 0,
+        "new": 2
+      },
+      {
+        "qid": "1731",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "7671",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1048",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "370",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1257",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1628",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "88",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1272",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "321",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "980",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6164",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "13512",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "772",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "857",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "333",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13625",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6346",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6899",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13160",
+        "old": 0,
+        "new": 2
+      },
+      {
+        "qid": "1087",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6389",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "155",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6177",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "13447",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "12967",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13232",
+        "old": 0,
+        "new": 1
+      },
+      {
+        "qid": "13313",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "7949",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "7756",
+        "old": 2,
+        "new": 3
+      },
+      {
+        "qid": "13327",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "7741",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6269",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "1920",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6526",
+        "old": 1,
+        "new": 2
+      },
+      {
+        "qid": "6053",
+        "old": 1,
+        "new": 2
+      }
+    ]
+  },
+  "dates_7b_capability.json": {
+    "scale": "7B",
+    "n": 2724,
+    "changed": 93,
+    "kinds": {
+      "IDK->level": 93
+    },
+    "idk_before": 568,
+    "idk_after": 475,
+    "dist_before": {
+      "YEAR": 1516,
+      "None": 568,
+      "CENTURY": 90,
+      "DAY": 399,
+      "DECADE": 99,
+      "MONTH": 52
+    },
+    "dist_after": {
+      "YEAR": 1592,
+      "None": 475,
+      "CENTURY": 95,
+      "DAY": 399,
+      "DECADE": 111,
+      "MONTH": 52
+    },
+    "changes": [
+      {
+        "qid": "Q314210_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q313605_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q313605_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q7071_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q33772_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q33772_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q318998_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q313324_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q313324_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q2054_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q134189_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q134189_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q8018_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q8018_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q179759_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q154938_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q44024_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q44258_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q43689_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q43706_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q43706_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q44079_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q51884_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q43954_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q43954_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q42827_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q42827_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q9458_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q39619_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q112128_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q170046_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q312299_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q294281_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q194442_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q180967_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q335293_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q335293_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q345012_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q152127_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q204077_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q189705_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q28928_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q68880_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q105105_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q1405_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q1409_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q1409_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q1413_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q1413_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q1425_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q1427_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q1430_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q1430_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q43107_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q8413_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q8413_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q207381_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q7418_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q9701_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q9701_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q9738_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q9746_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q9746_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q7471_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q334312_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q216895_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q37731_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q8467_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q181154_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q36788_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q131002_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q41866_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q41866_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q31755_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q83476_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q83476_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q170017_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q82339_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q3301_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q3044_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q3044_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q190418_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q198211_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q185476_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q314781_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q714113_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q82778_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q82778_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q197206_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q197206_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q11903_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q11826_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q8011_birth",
+        "old": null,
+        "new": "YEAR"
+      }
+    ]
+  },
+  "dates_capability.json": {
+    "scale": "1.5B",
+    "n": 2724,
+    "changed": 71,
+    "kinds": {
+      "IDK->level": 70,
+      "level->level": 1
+    },
+    "idk_before": 700,
+    "idk_after": 630,
+    "dist_before": {
+      "YEAR": 1242,
+      "CENTURY": 349,
+      "DECADE": 179,
+      "None": 700,
+      "MONTH": 108,
+      "DAY": 146
+    },
+    "dist_after": {
+      "YEAR": 1269,
+      "CENTURY": 377,
+      "DECADE": 193,
+      "None": 630,
+      "MONTH": 109,
+      "DAY": 146
+    },
+    "changes": [
+      {
+        "qid": "Q314210_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q177847_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q177847_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q7071_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q7071_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q33772_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q33772_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q318998_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q318998_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q313324_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q312954_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q43459_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q2054_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q134189_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q8018_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q179759_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q134461_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q154938_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q302_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q9200_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q9200_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q188883_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q174929_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q174929_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q170472_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q42827_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q9458_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q9458_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q4730963_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q112128_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q112128_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q170046_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q187172_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q345012_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q152127_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q204077_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q105105_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q105105_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q1413_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q1427_death",
+        "old": "YEAR",
+        "new": "MONTH"
+      },
+      {
+        "qid": "Q8413_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q8413_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q207381_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q7418_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q7418_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q9701_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q9738_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q9746_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q9746_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q7471_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q37731_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q37731_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q181154_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q36788_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q41866_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q82339_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q3044_birth",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q198211_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q198211_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q185476_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q314781_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q229235_birth",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q161853_death",
+        "old": null,
+        "new": "DECADE"
+      },
+      {
+        "qid": "Q197206_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q8778_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q11903_death",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q11359_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q11359_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q202943_birth",
+        "old": null,
+        "new": "YEAR"
+      },
+      {
+        "qid": "Q202943_death",
+        "old": null,
+        "new": "CENTURY"
+      },
+      {
+        "qid": "Q9038_birth",
+        "old": null,
+        "new": "CENTURY"
+      }
+    ]
+  }
+}

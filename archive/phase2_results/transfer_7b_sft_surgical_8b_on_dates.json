@@ -1,0 +1,23 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "adapter": "sft_surgical_8b",
+  "domain": "dates",
+  "metrics": {
+    "n": 503,
+    "domain": "dates",
+    "fmt_fail": 0,
+    "fmt_fail_rate": 0.0,
+    "answered": 427,
+    "abstained": 76,
+    "acc": 0.7852882703777336,
+    "acc_strict": 0.588469184890656,
+    "idk": 0.15109343936381708,
+    "wrong": 0.0636182902584493,
+    "info_signed": 0.4463207021354892,
+    "info_signed_strict": 0.17944078460322407,
+    "info_signed_parsed_only": 0.4463207021354892,
+    "out_level_mean": 9.728155339805825,
+    "out_level_std": 0.9723774763187746,
+    "d": 3.6253151212541352
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "adapter": "dates_sft_s1w2",
+  "domain": "locations",
+  "metrics": {
+    "n": 303,
+    "domain": "locations",
+    "fmt_fail": 0,
+    "fmt_fail_rate": 0.0,
+    "answered": 234,
+    "abstained": 69,
+    "acc": 0.5016501650165016,
+    "acc_strict": 0.4884488448844885,
+    "idk": 0.22772277227722773,
+    "wrong": 0.2706270627062706,
+    "info_signed": 0.10135256614337851,
+    "info_signed_strict": 0.09255168605536972,
+    "info_signed_parsed_only": 0.10135256614337851,
+    "out_level_mean": 2.7685440605374994,
+    "out_level_std": 1.1640220735167393,
+    "d": 2.9821208551125027
+  }
+}

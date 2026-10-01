@@ -1,0 +1,12 @@
+{
+  "n_levels": 3,
+  "bins": [
+    -0.0,
+    0.37677016125643675
+  ],
+  "n_calibration": 200,
+  "entropy_min": -0.0,
+  "entropy_max": 2.0794415416798357,
+  "entropy_mean": 0.2673687469807247,
+  "model": "Qwen/Qwen2.5-7B-Instruct"
+}

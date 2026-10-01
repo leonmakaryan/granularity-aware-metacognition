@@ -1,0 +1,649 @@
+qid,relation,question,raw,kind,text,correct,level,score
+10034,P175,Who performed Wreck on the Highway?,Answer: I don't know,abstained,I don't know,False,,0.0
+10070,P175,Who performed Raymond Langston?,Answer: I don't know,abstained,I don't know,False,,0.0
+10127,P175,Who performed Tender Kisses?,Answer: I don't know,abstained,I don't know,False,,0.0
+10129,P175,Who performed Five Get Over Excited?,Answer: I don't know,abstained,I don't know,False,,0.0
+10212,P175,Who performed Born Is The King?,Answer: I don't know,abstained,I don't know,False,,0.0
+10223,P175,Who performed Only One?,Answer: I don't know,abstained,I don't know,False,,0.0
+10264,P175,Who performed Library of Soul?,Answer: I don't know,abstained,I don't know,False,,0.0
+10278,P175,Who performed The McGarrigle Hour?,Answer: I don't know,abstained,I don't know,False,,0.0
+10293,P175,Who performed Birrkuta – Wild Honey?,Answer: I don't know,abstained,I don't know,False,,0.0
+10331,P175,Who performed Rainy Day and Day?,Answer: I don't know,abstained,I don't know,False,,0.0
+10386,P175,Who performed La Passion?,Answer: I don't know,abstained,I don't know,False,,0.0
+10432,P175,Who performed Mary Mary?,Answer: I don't know,abstained,I don't know,False,,0.0
+10461,P175,Who performed Short Circuit III?,Answer: I don't know,abstained,I don't know,False,,0.0
+10490,P175,Who performed Journey?,Answer: I don't know,abstained,I don't know,False,,0.0
+10494,P175,Who performed Best of the Geto Boys?,Answer: The Geto Boys,answered,The Geto Boys,True,0.0,1.0
+10496,P175,Who performed Buenos Aires '13?,Answer: I don't know,abstained,I don't know,False,,0.0
+10504,P175,Who performed Instant Pleasure?,Answer: I don't know,abstained,I don't know,False,,0.0
+10549,P175,Who performed Jason Isbell and The 400 Unit?,Answer: I don't know,abstained,I don't know,False,,0.0
+10575,P175,Who performed My Baby?,Answer: I don't know,abstained,I don't know,False,,0.0
+10580,P175,Who performed Puzzle People?,Answer: I don't know,abstained,I don't know,False,,0.0
+10585,P175,Who performed Farewell My Love?,Answer: I don't know,abstained,I don't know,False,,0.0
+10605,P175,Who performed The Message at the Depth?,Answer: I don't know,abstained,I don't know,False,,0.0
+10641,P175,Who performed The Rage: Original Motion Picture Soundtrack?,Answer: I don't know,abstained,I don't know,False,,0.0
+10668,P175,Who performed Loca People?,Answer: I don't know,abstained,I don't know,False,,0.0
+10669,P175,Who performed Hearts on the Line?,Answer: Heart,answered,Heart,False,,-0.25
+10690,P175,Who performed Sex Over the Phone?,Answer: I don't know,abstained,I don't know,False,,0.0
+10695,P175,Who performed The Greatest Remixes Collection?,Answer: I don't know,abstained,I don't know,False,,0.0
+10696,P175,Who performed Free Your Mind 33?,Answer: I don't know,abstained,I don't know,False,,0.0
+10807,P176,Which company is Vickers K produced by?,Answer: Vickers K engines were produced by Vickers-Armstrongs Limited.,answered,Vickers K engines were produced by Vickers-Armstrongs Limited.,True,0.0,1.0
+10810,P176,Which company is MS Mega Express Four produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10832,P176,Which company is Apple IIe Card produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10834,P176,Which company is Diamond DA20 produced by?,Answer: Diamond Aircraft Industries,answered,Diamond Aircraft Industries,True,0.0,1.0
+10843,P176,Which company is SS Prinz Adalbert produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10856,P176,Which company is Aerocar produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10865,P176,Which company is F-CK-1 Ching-kuo produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10877,P176,Which company is Boddingtons Bitter produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10890,P176,Which company is HMS Ethalion produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10898,P176,Which company is Matra Durandal produced by?,Answer: Matra,answered,Matra,True,0.0,1.0
+10899,P176,Which company is German submarine U-659 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10905,P176,Which company is German submarine U-308 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10919,P176,Which company is 7.5 cm Pak 40 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10926,P176,Which company is Hiro Type 91 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10931,P176,Which company is HMS Thorough produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10936,P176,Which company is HK4 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10942,P176,Which company is Suzuki GSV-R produced by?,Answer: Suzuki,answered,Suzuki,True,0.0,1.0
+10956,P176,Which company is MSC Geneva produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10962,P176,Which company is Colt Pocket Percussion Revolvers produced by?,Answer: Colt,answered,Colt,True,0.0,1.0
+10971,P176,Which company is HSV-2 Swift produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10974,P176,Which company is LIV (SO) Serval produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10976,P176,Which company is HMCS Chebogue produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10979,P176,Which company is SS Oriana produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10981,P176,Which company is PZL-230 Skorpion produced by?,"Answer: PZL-230 Skorpion was produced by PZL-Mielec, a Polish aircraft manufacturer.",answered,"PZL-230 Skorpion was produced by PZL-Mielec, a Polish aircraft manufacturer.",True,0.0,1.0
+10982,P176,Which company is USCGC Polar Star produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+10988,P176,Which company is ZIL-130 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11002,P176,Which company is Type 206 submarine produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11013,P176,Which company is Erie Railroad L-1 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11016,P176,Which company is ALCO RSD-7 produced by?,Answer: ALCO,answered,ALCO,False,,-0.25
+11025,P176,Which company is Atlantis PQ produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11050,P176,Which company is eRuf Model A produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11053,P176,Which company is Suzuki SV 650 produced by?,Answer: Suzuki,answered,Suzuki,True,0.0,1.0
+11055,P176,Which company is USS McKee produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11071,P176,Which company is Packard Super Eight produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11075,P176,Which company is 23 class airship produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11078,P176,Which company is Krasnopol produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11090,P176,Which company is USS Moonstone produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11092,P176,Which company is SMS Gneisenau produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11100,P176,Which company is Mechitharine produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11104,P176,Which company is Blackburn G.P. produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11134,P176,Which company is Italian destroyer Audace produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11147,P176,Which company is Suzuki Choinori produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11148,P176,Which company is USS Narragansett produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11157,P176,Which company is St. Louis–San Francisco 4003 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11162,P176,Which company is PZL M-24 Dromader Super produced by?,"Answer: PZL M-24 Dromader Super was produced by PZL Warszawa, which was a Polish aircraft manufacturer.",answered,"PZL M-24 Dromader Super was produced by PZL Warszawa, which was a Polish aircraft manufacturer.",False,,-0.25
+11187,P176,Which company is Mercedes-Benz W120 produced by?,Answer: Mercedes-Benz,answered,Mercedes-Benz,True,0.0,1.0
+11190,P176,Which company is HMS H24 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11204,P176,Which company is Pentax *ist DS produced by?,Answer: Pentax,answered,Pentax,True,0.0,1.0
+11219,P176,Which company is HMT Svana produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11225,P176,Which company is Saturn AL-31 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11228,P176,Which company is Suzuki DR-Z400 produced by?,Answer: Suzuki,answered,Suzuki,True,0.0,1.0
+11232,P176,Which company is SM UB-4 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11234,P176,Which company is PP-90 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11244,P176,Which company is Volvo B18 engine produced by?,Answer: Volvo Cars,answered,Volvo Cars,True,0.0,1.0
+11247,P176,Which company is RFA Wave Knight produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11265,P176,Which company is Noble M15 produced by?,Answer: Noble Electronics,answered,Noble Electronics,True,0.0,1.0
+11266,P176,Which company is Victor produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11276,P176,Which company is E-Jet produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11300,P176,Which company is 9A-91 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11310,P176,Which company is ALCO RSD-1 produced by?,Answer: ALCO,answered,ALCO,False,,-0.25
+11311,P176,Which company is General Electric J85 produced by?,Answer: General Electric,answered,General Electric,True,0.0,1.0
+11326,P176,Which company is SNCF X 73900 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11328,P176,Which company is HMS Hero produced by?,Answer: HMS Hero is not a product of a specific company but appears to be a name or term that could refer to various things depending on the context. Without,answered,HMS Hero is not a product of a specific company but appears to be a name or term that could refer to various things depending on the context. Without,False,,-0.25
+11332,P176,Which company is USS Frank Cable produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11347,P176,Which company is Saro A.33 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11351,P176,Which company is ALCO RSD-15 produced by?,Answer: ALCO,answered,ALCO,False,,-0.25
+11366,P176,Which company is Packard Patrician produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11369,P176,Which company is Siemens-Schuckert D.I produced by?,Answer: Siemens-Schuckert D.I was produced by the aircraft manufacturer Siemens-Schuckert Werke AG.,answered,Siemens-Schuckert D.I was produced by the aircraft manufacturer Siemens-Schuckert Werke AG.,True,0.0,1.0
+11372,P176,Which company is Aero L-59 Super Albatros produced by?,Answer: Aero Vodochody,answered,Aero Vodochody,True,0.0,1.0
+11381,P176,Which company is Pentax *ist D produced by?,Answer: Pentax,answered,Pentax,True,0.0,1.0
+11408,P176,Which company is Nomad produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11411,P176,Which company is Saab 29 Tunnan produced by?,Answer: Saab,answered,Saab,True,0.0,1.0
+11417,P176,Which company is USS Rochester produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11421,P176,Which company is HMS Alexander produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11422,P176,Which company is Lampo-class destroyer produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11441,P176,Which company is Norwegian Sky produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11448,P176,Which company is Short 360 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11453,P176,Which company is U-101-class submarine produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11475,P176,Which company is USS Niagara produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11486,P176,Which company is PKP class Ok22 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11489,P176,Which company is ALCO FA produced by?,Answer: ALCO FA was produced by American Locomotive Company (ALCO).,answered,ALCO FA was produced by American Locomotive Company (ALCO).,True,0.0,1.0
+11493,P176,Which company is MQM-42 Redhead produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11495,P176,Which company is Brennabor Juwel 8 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11503,P176,Which company is MS Stena Superfast VIII produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11517,P176,Which company is 10.5 cm Leichtgeschütz 42 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11520,P176,Which company is Suzuki GF250 produced by?,Answer: Suzuki,answered,Suzuki,True,0.0,1.0
+11521,P176,Which company is HMS Echo (H87) produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11531,P176,Which company is Caterpillar 345C L produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11548,P176,Which company is German submarine U-207 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11553,P176,Which company is Bristol 403 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11555,P176,Which company is Loire 102 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11571,P176,Which company is Dayton-Wright Racer produced by?,Answer: Dayton-Wright Aeronautical Company,answered,Dayton-Wright Aeronautical Company,True,0.0,1.0
+11573,P176,Which company is Perú Cola produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11583,P176,Which company is Brennabor Typ C produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11593,P176,Which company is TAI Keklik produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11594,P176,Which company is Agrale Marruá produced by?,Answer: Agrale,answered,Agrale,True,0.0,1.0
+11595,P176,Which company is A-Rosa Aqua produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11608,P176,Which company is Lotus Esprit produced by?,Answer: Lotus Cars,answered,Lotus Cars,True,0.0,1.0
+11611,P176,Which company is Motorola Aura produced by?,Answer: Motorola,answered,Motorola,True,0.0,1.0
+11620,P176,Which company is Lockheed MQM-105 Aquila produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11621,P176,Which company is Hudson Greater Eight produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11623,P176,Which company is C-130J Super Hercules produced by?,Answer: Lockheed Martin,answered,Lockheed Martin,True,0.0,1.0
+11632,P176,Which company is Panhard VBL produced by?,Answer: Panhard,answered,Panhard,True,0.0,1.0
+11633,P176,Which company is HMAS Tongkol produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11634,P176,Which company is HMS Wasp produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11639,P176,Which company is iPod Classic produced by?,Answer: Apple,answered,Apple,True,0.0,1.0
+11644,P176,Which company is CH 100 Mono-Z produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11654,P176,Which company is Pappy Van Winkle's Family Reserve produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11656,P176,Which company is Lotus 31 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11680,P176,Which company is VR Class Sm2 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11685,P176,Which company is HMS Gladiolus produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11687,P176,Which company is HP PhotoSmart R607 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11689,P176,Which company is Arrinera Hussarya produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11692,P176,Which company is ORP Sokół produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11701,P176,Which company is T-34 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11714,P176,Which company is BT-series tank produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11721,P176,Which company is Aviatik B.III produced by?,Answer: Aviatik,answered,Aviatik,True,0.0,1.0
+11726,P176,Which company is MSC Monterey produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11737,P176,Which company is Bofors 152 mm gun m/42 produced by?,Answer: Bofors,answered,Bofors,True,0.0,1.0
+11756,P176,Which company is German submarine U-760 produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11758,P176,Which company is German submarine U-133 (1941) produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11764,P176,Which company is Daihatsu Sonica produced by?,Answer: Daihatsu,answered,Daihatsu,True,0.0,1.0
+11770,P176,Which company is Heckler & Koch P9 produced by?,Answer: Heckler & Koch,answered,Heckler & Koch,True,0.0,1.0
+11772,P176,Which company is MV Akademik Karpinsky produced by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11797,P264,What music label is Outlawed represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11799,P264,What music label is A Death-Grip on Yesterday represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11819,P264,What music label is Relativity Suite represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11828,P264,What music label is A New Day Has Come represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11842,P264,What music label is Ricky Martin represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11851,P264,What music label is Revolutions per Minute represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11860,P264,What music label is Huron (Canadian band) represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11868,P264,What music label is Fly Through the Country represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11870,P264,What music label is Afraid represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11874,P264,What music label is The Righteous Brothers represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11892,P264,What music label is Ugetsu represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11899,P264,What music label is Jimmy Barnes represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11914,P264,What music label is Moon & the Sky represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11922,P264,What music label is My Life represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11924,P264,What music label is A Hero A Fake represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11958,P264,What music label is Marc Johnson represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11972,P264,What music label is By Divine Right represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11974,P264,What music label is Suction represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+11983,P264,What music label is Jerry Jaye represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12005,P264,What music label is Greatest Hits represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12010,P264,What music label is The Embarrassing Beginning represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12019,P264,What music label is Forgiven represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12028,P264,What music label is Placer Found represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12036,P264,What music label is Moscow Penny Ante represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12053,P264,What music label is This Is What I Do represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12071,P264,What music label is Valerie Wellington represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12075,P264,What music label is The Jelly Jam 2 represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12081,P264,What music label is Breakaway represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12094,P264,What music label is Trailer Trash Tracys represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12100,P264,What music label is Audio Adrenaline represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12103,P264,What music label is Unknown Session represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12120,P264,What music label is Nordic Quartet represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12125,P264,"What music label is Hardcore Breakout USA 1,2,3,... represented by?",Answer: I don't know,abstained,I don't know,False,,0.0
+12129,P264,What music label is Brother/Sister represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12131,P264,What music label is Brand New Lover represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12138,P264,What music label is No Me Compares Con Nadie represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12146,P264,What music label is Alabama Concerto represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12147,P264,What music label is DJ U-Neek represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12154,P264,What music label is The Seekers represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12172,P264,What music label is Em Som Maior represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12180,P264,What music label is Emotions represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12186,P264,What music label is Stephanie Dosen represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12191,P264,What music label is Shawn Colvin represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12249,P264,What music label is The Revolution represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12253,P264,What music label is Aly & Fila represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12255,P264,What music label is Righteousness and Humidity represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12257,P264,What music label is A Million Thoughts and They're All About You represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12261,P264,What music label is Paradise Discotheque represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12265,P264,What music label is Thrust represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12290,P264,What music label is Do Nothing 'til You Hear from Me represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12297,P264,What music label is Kentucky Thunder represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12306,P264,What music label is Small Town Murder Scene represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12314,P264,What music label is John R. Cash represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12319,P264,What music label is Mamasé represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12326,P264,What music label is Dulcinea represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12340,P264,What music label is Fantasy 4ever represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12344,P264,What music label is The Unveiling represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12377,P264,What music label is Matador/Da Frame 2R represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12380,P264,What music label is In Concert – Brandeis University 1963 represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12395,P264,What music label is Plague Songs represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12398,P264,What music label is Welcome to Secret Time represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12400,P264,What music label is Everyday I Love You Less and Less represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12410,P264,What music label is From the Heart represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12415,P264,What music label is Captain represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12433,P264,What music label is Something Special represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12434,P264,What music label is Barry Adamson represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12440,P264,What music label is Keď sa raz oči dohodnú represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12450,P264,What music label is Iyaz represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12468,P264,What music label is The Essential Santana represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12469,P264,What music label is Oh My God represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12472,P264,What music label is Forget What You Know represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12473,P264,What music label is Brandi Carlile represented by?,Answer: Columbia Records,answered,Columbia Records,True,0.0,1.0
+12489,P264,What music label is Morcheeba represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12526,P264,What music label is Le Vibrazioni represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12527,P264,What music label is Tash represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12535,P264,What music label is Collecting Sunlight represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12541,P264,What music label is Under the Milky Way represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12545,P264,What music label is Red Rose for Gregory represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12556,P264,What music label is Mostly Coltrane represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12557,P264,What music label is Alexander Tucker represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12576,P264,What music label is Saint Low represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12578,P264,What music label is You Are Not Alone represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12579,P264,What music label is Days of Wine and Roses and Other TV Requests represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12586,P264,What music label is S.O.N.O.G.R.A.M. represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12587,P264,What music label is Hamza Namira represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12589,P264,What music label is Third Day represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12603,P264,What music label is Down Along the Cove represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12612,P264,What music label is Z-1 represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12645,P264,What music label is Ad Astra per Aspera represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12664,P264,What music label is Bites represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12679,P264,What music label is Parting the Sea Between Brightness and Me represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12696,P264,"What music label is So Long, Astoria represented by?",Answer: I don't know,abstained,I don't know,False,,0.0
+12714,P264,What music label is Let My Children Hear Music represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12715,P264,What music label is Until I Feel Nothing represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+12726,P264,What music label is Kontraritam represented by?,Answer: I don't know,abstained,I don't know,False,,0.0
+3756,P50,Who is the author of Ryūsei no Kizuna?,Answer: I don't know,abstained,I don't know,False,,0.0
+3781,P50,Who is the author of The Big Time?,Answer: I don't know,abstained,I don't know,False,,0.0
+3783,P50,Who is the author of In Another Light?,Answer: Daphne du Maurier,answered,Daphne du Maurier,False,,-0.25
+3803,P50,Who is the author of Me and the Orgone?,Answer: I don't know,abstained,I don't know,False,,0.0
+3806,P50,Who is the author of O dia das calças roladas?,Answer: I don't know,abstained,I don't know,False,,0.0
+3816,P50,Who is the author of Henriade?,Answer: Voltaire,answered,Voltaire,True,0.0,1.0
+3822,P50,Who is the author of Sefer Hasidim?,Answer: I don't know,abstained,I don't know,False,,0.0
+3847,P50,Who is the author of Abhirami Anthadhi?,Answer: I don't know,abstained,I don't know,False,,0.0
+3865,P50,Who is the author of Winterset?,Answer: Paul禺伯格,answered,Paul禺伯格,False,,-0.25
+3871,P50,"Who is the author of The Book about Moomin, Mymble and Little My?",Answer: Tove Jansson,answered,Tove Jansson,True,0.0,1.0
+3882,P50,Who is the author of Demon Theory?,Answer: I don't know,abstained,I don't know,False,,0.0
+3888,P50,Who is the author of Royal Exile?,Answer: I don't know,abstained,I don't know,False,,0.0
+3890,P50,Who is the author of Cognitive Surplus?,Answer: Clay Shirky,answered,Clay Shirky,True,0.0,1.0
+3892,P50,Who is the author of Dharmarajyam?,Answer: I don't know,abstained,I don't know,False,,0.0
+3895,P50,Who is the author of The Actes and Deidis of the Illustre and Vallyeant Campioun Schir William Wallace?,Answer: Walter Scott,answered,Walter Scott,False,,-0.25
+3899,P50,Who is the author of Black Mischief?,Answer: D.H. Lawrence,answered,D.H. Lawrence,False,,-0.25
+3901,P50,Who is the author of MedStar II: Jedi Healer?,Answer: I don't know,abstained,I don't know,False,,0.0
+3903,P50,Who is the author of Journey to the End of the Whale?,Answer: I don't know,abstained,I don't know,False,,0.0
+3904,P50,Who is the author of Welcome to Alflolol?,Answer: I don't know,abstained,I don't know,False,,0.0
+3909,P50,Who is the author of The First Man?,Answer: Jean-Marie Gustave Le Clézio,answered,Jean-Marie Gustave Le Clézio,False,,-0.25
+3914,P50,"Who is the author of Vera; or, The Nihilists?",Answer: Fyodor Dostoevsky,answered,Fyodor Dostoevsky,False,,-0.25
+3918,P50,Who is the author of The White Company?,Answer: Arthur Conan Doyle,answered,Arthur Conan Doyle,True,0.0,1.0
+3926,P50,Who is the author of Threadsuns?,Answer: I don't know,abstained,I don't know,False,,0.0
+3932,P50,Who is the author of The Newton Letter?,Answer: I don't know,abstained,I don't know,False,,0.0
+3937,P50,Who is the author of Jommeke?,"Answer: Jommeke does not have a single author but is a series of comics created by various Belgian cartoonists under the collective pseudonym ""Johan",answered,"Jommeke does not have a single author but is a series of comics created by various Belgian cartoonists under the collective pseudonym ""Johan",True,3.0,0.25
+3943,P50,Who is the author of The Moffats?,Answer: Eleanor H. Porter,answered,Eleanor H. Porter,False,,-0.25
+3945,P50,Who is the author of Around the Moon?,Answer: Jules Verne,answered,Jules Verne,True,0.0,1.0
+3948,P50,Who is the author of The Testament of Cresseid?,Answer: Geoffrey Chaucer,answered,Geoffrey Chaucer,False,,-0.25
+3956,P50,Who is the author of The Twelve?,Answer: I don't know,abstained,I don't know,False,,0.0
+3959,P50,Who is the author of The Conscious Mind?,Answer: David Chalmers,answered,David Chalmers,True,0.0,1.0
+3961,P50,Who is the author of Dream of the Red Chamber?,Answer: Cao Xueqin,answered,Cao Xueqin,True,0.0,1.0
+3993,P50,Who is the author of Doomed Queen Anne?,Answer: I don't know,abstained,I don't know,False,,0.0
+3998,P50,Who is the author of Araby?,Answer: James Joyce,answered,James Joyce,True,0.0,1.0
+4002,P50,Who is the author of A Saucer of Loneliness?,Answer: I don't know,abstained,I don't know,False,,0.0
+4005,P50,Who is the author of Corpse Marker?,Answer: I don't know,abstained,I don't know,False,,0.0
+4027,P50,Who is the author of The Watchman?,Answer: I don't know,abstained,I don't know,False,,0.0
+4034,P50,Who is the author of Hour Game?,Answer: I don't know,abstained,I don't know,False,,0.0
+4046,P50,Who is the author of The Long Christmas Ride Home?,Answer: I don't know,abstained,I don't know,False,,0.0
+4058,P50,Who is the author of Medical Compendium in Seven Books?,Answer: Avicenna,answered,Avicenna,False,,-0.25
+4067,P50,Who is the author of Dunsinane?,Answer: I don't know,abstained,I don't know,False,,0.0
+4070,P50,Who is the author of Igrot Kodesh?,"Answer: Igrot Kodesh is a collection of letters written by Rabbi Menachem Mendel Schneerson, also known as the Lubavitcher",answered,"Igrot Kodesh is a collection of letters written by Rabbi Menachem Mendel Schneerson, also known as the Lubavitcher",True,0.0,1.0
+4080,P50,Who is the author of The Android's Dream?,Answer: Tricia Sullivan,answered,Tricia Sullivan,False,,-0.25
+4084,P50,Who is the author of The Fantastic Four?,Answer: I don't know,abstained,I don't know,False,,0.0
+4089,P50,Who is the author of The Merry Men and Other Tales and Fables?,Answer: I don't know,abstained,I don't know,False,,0.0
+4095,P50,Who is the author of A Calculus of Angels?,Answer: I don't know,abstained,I don't know,False,,0.0
+4097,P50,Who is the author of Children of Zion?,Answer: I don't know,abstained,I don't know,False,,0.0
+4102,P50,Who is the author of Honor Among Enemies?,Answer: I don't know,abstained,I don't know,False,,0.0
+4113,P50,Who is the author of One of the Family?,Answer: I don't know,abstained,I don't know,False,,0.0
+4119,P50,Who is the author of The Return of John MacNab?,Answer: I don't know,abstained,I don't know,False,,0.0
+4120,P50,Who is the author of Mermaid Melody Pichi Pichi Pitch?,Answer: I don't know,abstained,I don't know,False,,0.0
+4153,P50,Who is the author of Liezi?,Answer: I don't know,abstained,I don't know,False,,0.0
+4154,P50,Who is the author of Un gentilhomme?,Answer: I don't know,abstained,I don't know,False,,0.0
+4166,P50,Who is the author of Defence of the Seven Sacraments?,Answer: Thomas Aquinas,answered,Thomas Aquinas,False,,-0.25
+4173,P50,Who is the author of The Sheik?,Answer: Frances Scott,answered,Frances Scott,False,,-0.25
+4176,P50,Who is the author of Twenty Cases Suggestive of Reincarnation?,Answer: Ian Stevenson,answered,Ian Stevenson,True,0.0,1.0
+4181,P50,Who is the author of Grits?,Answer: I don't know,abstained,I don't know,False,,0.0
+4182,P50,Who is the author of Janissaries III: Storms of Victory?,Answer: I don't know,abstained,I don't know,False,,0.0
+4188,P50,Who is the author of The Reich Chancellery and Führerbunker Complex?,Answer: I don't know,abstained,I don't know,False,,0.0
+4189,P50,Who is the author of Pingyao Zhuan?,Answer: I don't know,abstained,I don't know,False,,0.0
+4208,P50,"Who is the author of Tom and Jerry, or Life in London?",Answer: I don't know,abstained,I don't know,False,,0.0
+4209,P50,Who is the author of Blackstone Chronicles?,Answer: I don't know,abstained,I don't know,False,,0.0
+4223,P50,Who is the author of Witch Baby?,Answer: I don't know,abstained,I don't know,False,,0.0
+4224,P50,Who is the author of Knuffle Bunny Too: A Case of Mistaken Identity?,Answer: Mo Willems,answered,Mo Willems,True,0.0,1.0
+4235,P50,Who is the author of The Green Collar Economy?,Answer: Paul Hawken,answered,Paul Hawken,False,,-0.25
+4241,P50,Who is the author of Ang Paboritong Libro ni Hudas?,Answer: I don't know,abstained,I don't know,False,,0.0
+4247,P50,Who is the author of Writing Drama?,Answer: I don't know,abstained,I don't know,False,,0.0
+4265,P50,"Who is the author of Destiny, or The Attraction of Affinities?",Answer: Edward Bulwer-Lytton,answered,Edward Bulwer-Lytton,False,,-0.25
+4270,P50,Who is the author of Bard: The Odyssey of the Irish?,Answer: I don't know,abstained,I don't know,False,,0.0
+4271,P50,Who is the author of Yakari?,Answer: I don't know,abstained,I don't know,False,,0.0
+4276,P50,Who is the author of She Returns to the Floating World?,Answer: I don't know,abstained,I don't know,False,,0.0
+4304,P50,Who is the author of The Secrets of Harry Bright?,Answer: I don't know,abstained,I don't know,False,,0.0
+4332,P50,Who is the author of Instruments of Darkness?,Answer: I don't know,abstained,I don't know,False,,0.0
+4333,P50,Who is the author of Balance of Power?,Answer: I don't know,abstained,I don't know,False,,0.0
+4339,P50,Who is the author of Watchmen?,Answer: Alan Moore,answered,Alan Moore,True,1.0,0.625
+4357,P50,Who is the author of Common Grounds?,Answer: I don't know,abstained,I don't know,False,,0.0
+4372,P50,Who is the author of A Foot in the Grave?,Answer: I don't know,abstained,I don't know,False,,0.0
+4380,P50,Who is the author of In Pharaoh's Army?,Answer: I don't know,abstained,I don't know,False,,0.0
+4383,P50,"Who is the author of Double, Double?",Answer: I don't know,abstained,I don't know,False,,0.0
+4388,P50,Who is the author of The Minstrelsy of the Scottish Border?,Answer: Walter Scott,answered,Walter Scott,True,0.0,1.0
+4398,P50,Who is the author of Culture series?,Answer: I don't know,abstained,I don't know,False,,0.0
+4427,P50,Who is the author of Thirty-Three Teeth?,Answer: I don't know,abstained,I don't know,False,,0.0
+4431,P50,Who is the author of My Life and Hard Times?,Answer: I don't know,abstained,I don't know,False,,0.0
+4442,P50,Who is the author of Félicie?,Answer: I don't know,abstained,I don't know,False,,0.0
+4462,P50,Who is the author of Fermi and Frost?,Answer: I don't know,abstained,I don't know,False,,0.0
+4471,P50,Who is the author of The Adventures of Harry Richmond?,Answer: H.G. Wells,answered,H.G. Wells,False,,-0.25
+4474,P50,Who is the author of A Year in Provence?,Answer: Peter Mayle,answered,Peter Mayle,True,0.0,1.0
+4487,P50,Who is the author of Brilliance of the Moon?,Answer: I don't know,abstained,I don't know,False,,0.0
+4504,P50,Who is the author of Hackers & Painters?,Answer: Paul Graham,answered,Paul Graham,True,0.0,1.0
+4508,P50,Who is the author of Christi Matri?,Answer: I don't know,abstained,I don't know,False,,0.0
+4527,P50,Who is the author of Whiteout: Melt?,Answer: I don't know,abstained,I don't know,False,,0.0
+4540,P50,Who is the author of Foreign Words?,Answer: I don't know,abstained,I don't know,False,,0.0
+4547,P50,Who is the author of Apollo's Song?,Answer: I don't know,abstained,I don't know,False,,0.0
+4567,P50,Who is the author of The Ram?,Answer: I don't know,abstained,I don't know,False,,0.0
+4575,P50,Who is the author of La Grève des électeurs?,Answer: I don't know,abstained,I don't know,False,,0.0
+4578,P50,Who is the author of Life and Death in Shanghai?,Answer: I don't know,abstained,I don't know,False,,0.0
+4580,P50,"Who is the author of Great Food, All Day Long?",Answer: Ann Taylor,answered,Ann Taylor,False,,-0.25
+4593,P50,Who is the author of Ruin Explorers?,Answer: I don't know,abstained,I don't know,False,,0.0
+4602,P50,Who is the author of Wintering Out?,Answer: I don't know,abstained,I don't know,False,,0.0
+4633,P50,Who is the author of Clericis laicos?,Answer: Pope Innocent IV,answered,Pope Innocent IV,True,1.0,0.625
+4636,P50,Who is the author of General Winston's Daughter?,Answer: I don't know,abstained,I don't know,False,,0.0
+4653,P50,Who is the author of The Sleep of Reason?,Answer: I don't know,abstained,I don't know,False,,0.0
+4673,P50,Who is the author of L game?,Answer: I don't know,abstained,I don't know,False,,0.0
+4704,P50,Who is the author of House of Reckoning?,Answer: I don't know,abstained,I don't know,False,,0.0
+4705,P50,Who is the author of Theriaca?,Answer: I don't know,abstained,I don't know,False,,0.0
+4731,P69,Where was Ray Marshall educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+4733,P69,Where was Julio Vallejo Ruiloba educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+4776,P69,Where was Joseph Kabila educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+4828,P69,Where was José Antonio Ramos Sucre educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+4837,P69,Where was John K. Stargel educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+4850,P69,Where was George K. Favrot educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+4858,P69,Where was Juan José Millás educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+4927,P69,Where was Aslan Gahramanly educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+4934,P69,Where was Sharon J. Merchant educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+4936,P69,Where was Ouyang Tzu educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+4941,P69,Where was Juan de Cervantes educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+4946,P69,Where was Gus Rosenberg educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+4965,P69,Where was Jenny Boully educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5009,P69,Where was Greg Henderson educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5033,P69,Where was Te Ahukaramū Charles Royal educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5059,P69,Where was Atsushi Watanabe educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5119,P69,Where was Dilsa Demirbag Sten educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5135,P69,Where was Yasushi Akutagawa educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5159,P69,Where was Tomihisa Taue educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5165,P69,Where was Amy Wynn Pastor educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5180,P69,Where was Waloddi Weibull educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5206,P69,Where was Coline-Marie Orliac educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5233,P69,Where was Mieno Eiko educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5238,P69,Where was Joe Wood educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5249,P69,Where was Joe Robert Pemagbi educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5257,P69,Where was Tarō Kimura educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5283,P69,Where was John Schickel educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5319,P69,Where was Navin Dissanayake educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5365,P69,Where was Ken Ishii educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5376,P69,Where was Charlie Carr educated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5598,P112,Who founded Porsche Automobil Holding SE?,Answer: Ferdinand Porsche,answered,Ferdinand Porsche,True,0.0,1.0
+5604,P112,Who founded Egyptian Patriotic Movement?,Answer: I don't know,abstained,I don't know,False,,0.0
+5610,P112,Who founded Raza Unida Party?,Answer: I don't know,abstained,I don't know,False,,0.0
+5625,P112,Who founded Capetian House of Anjou?,Answer: I don't know,abstained,I don't know,False,,0.0
+5626,P112,"Who founded Tetris Online, Inc.?",Answer: I don't know,abstained,I don't know,False,,0.0
+5628,P112,Who founded Zipcar?,Answer: I don't know,abstained,I don't know,False,,0.0
+5629,P112,Who founded Fiat S.p.A.?,Answer: Giovanni Agnelli,answered,Giovanni Agnelli,True,0.0,1.0
+5639,P112,Who founded Autonomy Corporation?,Answer: I don't know,abstained,I don't know,False,,0.0
+5641,P112,Who founded Josephine Leavell Allensworth?,Answer: I don't know,abstained,I don't know,False,,0.0
+5651,P112,Who founded Al-Manar?,Answer: I don't know,abstained,I don't know,False,,0.0
+5653,P112,Who founded Harcourt Butler Technical University?,Answer: I don't know,abstained,I don't know,False,,0.0
+5664,P112,Who founded Skokloster Castle?,Answer: Gustav II Adolf,answered,Gustav II Adolf,False,,-0.25
+5667,P112,Who founded XMOS?,Answer: I don't know,abstained,I don't know,False,,0.0
+5668,P112,Who founded Eric Carle Museum of Picture Book Art?,Answer: Eric Carle,answered,Eric Carle,True,0.0,1.0
+5669,P112,Who founded Cult Awareness Network?,Answer: I don't know,abstained,I don't know,False,,0.0
+5693,P112,Who founded Ares Incorporated?,Answer: I don't know,abstained,I don't know,False,,0.0
+5698,P112,Who founded Fushimi Castle?,Answer: I don't know,abstained,I don't know,False,,0.0
+5701,P112,Who founded ZF Friedrichshafen AG?,Answer: I don't know,abstained,I don't know,False,,0.0
+5704,P112,Who founded IRFE?,Answer: I don't know,abstained,I don't know,False,,0.0
+5714,P112,Who founded NBNK?,Answer: I don't know,abstained,I don't know,False,,0.0
+5737,P112,Who founded Woolwich Dockyard?,Answer: I don't know,abstained,I don't know,False,,0.0
+5750,P112,Who founded SexyMandarin?,Answer: I don't know,abstained,I don't know,False,,0.0
+5751,P112,Who founded Luftschiffbau Zeppelin?,Answer: I don't know,abstained,I don't know,False,,0.0
+5753,P112,Who founded Moulin Rouge?,Answer: Charles Zidler,answered,Charles Zidler,False,,-0.25
+5756,P112,Who founded Knoll?,Answer: I don't know,abstained,I don't know,False,,0.0
+5780,P112,Who founded Volvo?,Answer: Assar Gabrielsson and Gustaf Larson,answered,Assar Gabrielsson and Gustaf Larson,False,,-0.25
+5791,P112,Who founded United States Karate Association?,Answer: I don't know,abstained,I don't know,False,,0.0
+5798,P112,Who founded Reger-Chor?,Answer: I don't know,abstained,I don't know,False,,0.0
+5803,P112,Who founded House of Sverre?,Answer: Sverre I of Norway,answered,Sverre I of Norway,True,0.0,1.0
+5806,P112,Who founded Hallwyl Museum?,Answer: I don't know,abstained,I don't know,False,,0.0
+5812,P112,Who founded Goodyear Tire and Rubber Company?,Answer: Frank A. Seiberling,answered,Frank A. Seiberling,True,0.0,1.0
+5815,P112,Who founded Royal Swedish Opera?,Answer: I don't know,abstained,I don't know,False,,0.0
+5817,P112,Who founded Subramaniam Academy of Performing Arts?,Answer: I don't know,abstained,I don't know,False,,0.0
+5834,P112,Who founded Rolex?,Answer: Hans Wilsdorf,answered,Hans Wilsdorf,True,0.0,1.0
+5837,P112,Who founded Vatican Museums?,Answer: Pope Julius II,answered,Pope Julius II,True,0.0,1.0
+5846,P112,Who founded château d'Écouen?,Answer: I don't know,abstained,I don't know,False,,0.0
+5849,P112,Who founded HB Studio?,Answer: I don't know,abstained,I don't know,False,,0.0
+5852,P112,Who founded Opel?,Answer: Friedrich Fischer,answered,Friedrich Fischer,False,,-0.25
+5865,P112,Who founded Regius Professor of Greek?,Answer: I don't know,abstained,I don't know,False,,0.0
+5875,P112,Who founded Daniel Langlois Foundation?,Answer: Daniel Langlois,answered,Daniel Langlois,True,0.0,1.0
+5881,P112,Who founded Mary Kay?,Answer: Mary Kay Ash,answered,Mary Kay Ash,True,0.0,1.0
+5893,P112,Who founded Yucaipa Companies?,Answer: I don't know,abstained,I don't know,False,,0.0
+5894,P112,Who founded Saint Michael's Castle?,Answer: I don't know,abstained,I don't know,False,,0.0
+5899,P112,Who founded Jil Sander?,Answer: Jil Sander was founded by Jil Sander.,answered,Jil Sander was founded by Jil Sander.,True,0.0,1.0
+5911,P112,Who founded Kan'ei-ji?,Answer: I don't know,abstained,I don't know,False,,0.0
+5920,P112,Who founded JBL?,Answer: I don't know,abstained,I don't know,False,,0.0
+5924,P112,Who founded Gardner-Serpollet?,Answer: I don't know,abstained,I don't know,False,,0.0
+5937,P112,Who founded Cambridge University Press?,Answer: I don't know,abstained,I don't know,False,,0.0
+5940,P112,Who founded Regius Professor of Civil Engineering and Mechanics?,Answer: I don't know,abstained,I don't know,False,,0.0
+5949,P112,Who founded Gapminder Foundation?,"Answer: Gapminder Foundation was founded by Ulf Bossel and later primarily led by Hans Rosling, with support from Ola Rosling and Anna Ros",answered,"Gapminder Foundation was founded by Ulf Bossel and later primarily led by Hans Rosling, with support from Ola Rosling and Anna Ros",True,0.0,1.0
+5955,P112,Who founded Vaasa?,Answer: I don't know,abstained,I don't know,False,,0.0
+5956,P112,Who founded SELCO India?,Answer: Ashok Gadgil,answered,Ashok Gadgil,False,,-0.25
+5971,P112,Who founded Adyar Library?,Answer: I don't know,abstained,I don't know,False,,0.0
+5975,P112,Who founded Mutual Film Company?,Answer: I don't know,abstained,I don't know,False,,0.0
+6001,P112,Who founded Lawrance Aero Engine Company?,Answer: I don't know,abstained,I don't know,False,,0.0
+6016,P112,Who founded Bob's?,Answer: I don't know,abstained,I don't know,False,,0.0
+6018,P112,Who founded Kinner Airplane & Motor Corporation?,Answer: I don't know,abstained,I don't know,False,,0.0
+7989,P127,Who owns Oberoi Trident?,Answer: I don't know,abstained,I don't know,False,,0.0
+8002,P127,Who owns Marston Vale Line?,Answer: I don't know,abstained,I don't know,False,,0.0
+8016,P127,Who owns Metro Cash & Carry?,Answer: I don't know,abstained,I don't know,False,,0.0
+8019,P127,Who owns Bucharest Corporate Center?,Answer: I don't know,abstained,I don't know,False,,0.0
+8027,P127,Who owns Pete Maravich Assembly Center?,Answer: I don't know,abstained,I don't know,False,,0.0
+8029,P127,Who owns Spyker Castle?,Answer: I don't know,abstained,I don't know,False,,0.0
+8031,P127,Who owns Arena Sport?,Answer: I don't know,abstained,I don't know,False,,0.0
+8033,P127,Who owns CS Sovereign?,Answer: I don't know,abstained,I don't know,False,,0.0
+8034,P127,Who owns G.u.?,Answer: I don't know,abstained,I don't know,False,,0.0
+8035,P127,Who owns TeenNick?,"Answer: Nickelodeon Group, a division of ViacomCBS",answered,"Nickelodeon Group, a division of ViacomCBS",False,,-0.25
+8037,P127,Who owns MTV India?,Answer: Viacom18 Media & Entertainment Limited,answered,Viacom18 Media & Entertainment Limited,False,,-0.25
+8039,P127,Who owns Lufthansa Cargo?,Answer: Lufthansa Cargo is owned by Lufthansa Group.,answered,Lufthansa Cargo is owned by Lufthansa Group.,True,0.0,1.0
+8044,P127,Who owns PlayStation?,Answer: Sony Corporation,answered,Sony Corporation,True,1.0,0.625
+8051,P127,Who owns Village Roadshow Pictures?,Answer: Village Roadshow Pictures is owned by Village Roadshow Limited.,answered,Village Roadshow Pictures is owned by Village Roadshow Limited.,True,0.0,1.0
+8054,P127,Who owns Celtic Park?,Answer: Glasgow City Council,answered,Glasgow City Council,False,,-0.25
+8057,P127,Who owns Zap2it?,Answer: I don't know,abstained,I don't know,False,,0.0
+8058,P127,Who owns Miller Park?,Answer: I don't know,abstained,I don't know,False,,0.0
+8070,P127,Who owns Country Pure Foods?,Answer: I don't know,abstained,I don't know,False,,0.0
+8072,P127,Who owns Whitehead railway station?,Answer: I don't know,abstained,I don't know,False,,0.0
+8087,P127,Who owns u.tv?,Answer: I don't know,abstained,I don't know,False,,0.0
+8088,P127,Who owns Morupule Colliery?,Answer: I don't know,abstained,I don't know,False,,0.0
+8091,P127,Who owns Whipsnade Tree Cathedral?,Answer: I don't know,abstained,I don't know,False,,0.0
+8105,P127,Who owns National Postal Museum?,Answer: I don't know,abstained,I don't know,False,,0.0
+8107,P127,Who owns MBC Action?,Answer: I don't know,abstained,I don't know,False,,0.0
+8123,P127,Who owns Yerevan Brandy Company?,Answer: I don't know,abstained,I don't know,False,,0.0
+8127,P127,Who owns Agere Systems?,Answer: I don't know,abstained,I don't know,False,,0.0
+8132,P127,Who owns MS Bremen?,Answer: I don't know,abstained,I don't know,False,,0.0
+8133,P127,Who owns Montgomery High School?,Answer: I don't know,abstained,I don't know,False,,0.0
+8155,P127,Who owns Riddle–Pace Field?,Answer: I don't know,abstained,I don't know,False,,0.0
+8163,P127,Who owns Susquehanna?,Answer: I don't know,abstained,I don't know,False,,0.0
+8168,P127,Who owns Honsellstrasse Stadion?,Answer: I don't know,abstained,I don't know,False,,0.0
+8172,P127,Who owns The Russian Public Opinion Herald?,Answer: I don't know,abstained,I don't know,False,,0.0
+8180,P127,Who owns Vancouver Sun?,Answer: Postmedia Network Canada Inc.,answered,Postmedia Network Canada Inc.,True,0.0,1.0
+8189,P127,Who owns James J. McCann Baseball Field?,Answer: I don't know,abstained,I don't know,False,,0.0
+8196,P127,Who owns Wingspan Bank?,Answer: I don't know,abstained,I don't know,False,,0.0
+8200,P127,Who owns Histria Prince?,Answer: I don't know,abstained,I don't know,False,,0.0
+8213,P127,Who owns South Peak Estate?,Answer: I don't know,abstained,I don't know,False,,0.0
+8222,P127,Who owns Castel Nuovo?,Answer: The city of Naples,answered,The city of Naples,False,,-0.25
+8236,P127,Who owns Ntv7?,Answer: I don't know,abstained,I don't know,False,,0.0
+8242,P127,Who owns Super Écran?,Answer: I don't know,abstained,I don't know,False,,0.0
+8244,P127,Who owns Zend Technologies?,Answer: I don't know,abstained,I don't know,False,,0.0
+8277,P127,Who owns The Walt Disney Company France?,Answer: I don't know,abstained,I don't know,False,,0.0
+8278,P127,Who owns Tiger's Roar?,Answer: I don't know,abstained,I don't know,False,,0.0
+8279,P127,Who owns SS Erinpura?,Answer: I don't know,abstained,I don't know,False,,0.0
+8281,P127,Who owns Hyatt Center?,Answer: I don't know,abstained,I don't know,False,,0.0
+8285,P127,Who owns Google Patents?,Answer: I don't know,abstained,I don't know,False,,0.0
+8302,P127,Who owns MS Moondance?,Answer: I don't know,abstained,I don't know,False,,0.0
+8306,P127,Who owns Pendle Express?,Answer: I don't know,abstained,I don't know,False,,0.0
+8310,P127,Who owns Baksan hydroelectric power station?,Answer: I don't know,abstained,I don't know,False,,0.0
+8316,P127,Who owns U.S. Route 27 in Michigan?,Answer: I don't know,abstained,I don't know,False,,0.0
+8323,P127,Who owns Interstate 696?,Answer: I don't know,abstained,I don't know,False,,0.0
+8325,P127,Who owns SS Calgaric?,Answer: I don't know,abstained,I don't know,False,,0.0
+8328,P127,Who owns Colas Rail?,Answer: I don't know,abstained,I don't know,False,,0.0
+8333,P127,Who owns Irish Distillers?,Answer: Irish Distillers is owned by Pernod Ricard.,answered,Irish Distillers is owned by Pernod Ricard.,True,0.0,1.0
+8339,P127,Who owns Google Ads?,Answer: Alphabet Inc.,answered,Alphabet Inc.,True,1.0,0.25
+8343,P127,Who owns Köstritzer?,Answer: I don't know,abstained,I don't know,False,,0.0
+8344,P127,Who owns Biemesderfer Stadium?,Answer: I don't know,abstained,I don't know,False,,0.0
+8351,P127,Who owns Urawa Komaba Stadium?,Answer: I don't know,abstained,I don't know,False,,0.0
+8354,P127,Who owns Edinburgh Waverley railway station?,Answer: Network Rail,answered,Network Rail,True,0.0,1.0
+8355,P127,Who owns Credito Italiano?,Answer: I don't know,abstained,I don't know,False,,0.0
+8357,P127,Who owns Boston Dynamics?,Answer: Alphabet Inc.,answered,Alphabet Inc.,True,1.0,0.75
+8372,P127,Who owns BA CityFlyer?,Answer: I don't know,abstained,I don't know,False,,0.0
+8378,P127,Who owns MV Derbyshire?,Answer: I don't know,abstained,I don't know,False,,0.0
+8387,P127,Who owns Thorndale?,Answer: I don't know,abstained,I don't know,False,,0.0
+8398,P127,Who owns McPherson Stadium?,Answer: I don't know,abstained,I don't know,False,,0.0
+8399,P127,Who owns Kimiidera Athletic Stadium?,Answer: I don't know,abstained,I don't know,False,,0.0
+8406,P127,Who owns Stambaugh Stadium?,Answer: I don't know,abstained,I don't know,False,,0.0
+8407,P127,Who owns Randstad India?,"Answer: Randstad India is owned by Randstad Holding N.V., a Dutch multinational human resources services company.",answered,"Randstad India is owned by Randstad Holding N.V., a Dutch multinational human resources services company.",True,0.0,1.0
+8417,P127,Who owns Penn State Ice Pavilion?,Answer: I don't know,abstained,I don't know,False,,0.0
+8421,P127,Who owns The Daily Beast?,Answer: I don't know,abstained,I don't know,False,,0.0
+8429,P127,Who owns SS Florizel?,Answer: I don't know,abstained,I don't know,False,,0.0
+8455,P127,Who owns Angle Lifeboat Station?,Answer: I don't know,abstained,I don't know,False,,0.0
+8471,P127,Who owns Paris-Soir?,Answer: I don't know,abstained,I don't know,False,,0.0
+8474,P127,Who owns Disney Mobile?,Answer: I don't know,abstained,I don't know,False,,0.0
+8484,P127,Who owns Estadio Ruta de la Plata?,Answer: I don't know,abstained,I don't know,False,,0.0
+8498,P127,Who owns Florida State Road 886?,Answer: I don't know,abstained,I don't know,False,,0.0
+8501,P127,Who owns The Forum of Fargo-Moorhead?,Answer: I don't know,abstained,I don't know,False,,0.0
+8503,P127,Who owns Aruba Networks?,Answer: I don't know,abstained,I don't know,False,,0.0
+8510,P127,Who owns Google Custom Search?,Answer: Google,answered,Google,True,0.0,1.0
+8513,P127,Who owns South Western Main Line?,Answer: I don't know,abstained,I don't know,False,,0.0
+8524,P127,Who owns Yahoo!Xtra?,Answer: I don't know,abstained,I don't know,False,,0.0
+8526,P127,Who owns TV4 Guld?,Answer: I don't know,abstained,I don't know,False,,0.0
+8531,P127,Who owns Fox Footy?,Answer: I don't know,abstained,I don't know,False,,0.0
+8537,P127,Who owns MY Bob Barker?,Answer: I don't know,abstained,I don't know,False,,0.0
+8557,P127,Who owns SVT1?,Answer: Swedish Broadcasting Corporation,answered,Swedish Broadcasting Corporation,False,,-0.25
+8562,P127,Who owns Library of Birmingham?,Answer: I don't know,abstained,I don't know,False,,0.0
+8568,P127,Who owns Google Public Alerts?,Answer: I don't know,abstained,I don't know,False,,0.0
+8571,P127,Who owns The Voice TV Sweden?,Answer: I don't know,abstained,I don't know,False,,0.0
+8577,P127,Who owns JASDAQ Securities Exchange?,Answer: I don't know,abstained,I don't know,False,,0.0
+8580,P127,Who owns Nat Geo Music?,Answer: National Geographic Society,answered,National Geographic Society,False,,-0.25
+8581,P127,Who owns Palau Municipal d'Esports de Badalona?,Answer: I don't know,abstained,I don't know,False,,0.0
+8591,P127,Who owns United Artists Corporation?,Answer: I don't know,abstained,I don't know,False,,0.0
+8598,P127,Who owns Schloss Porcia?,Answer: I don't know,abstained,I don't know,False,,0.0
+8600,P127,Who owns Odakyu Group?,Answer: I don't know,abstained,I don't know,False,,0.0
+8602,P127,Who owns 2K Games?,"Answer: Take-Two Interactive Software, Inc.",answered,"Take-Two Interactive Software, Inc.",True,0.0,1.0
+8608,P127,Who owns Euroset?,Answer: I don't know,abstained,I don't know,False,,0.0
+8617,P127,Who owns Holy Mountain?,Answer: I don't know,abstained,I don't know,False,,0.0
+8624,P127,Who owns Aberdulais Falls?,Answer: I don't know,abstained,I don't know,False,,0.0
+8630,P127,Who owns iStockphoto?,Answer: Adobe Systems,answered,Adobe Systems,False,,-0.25
+8632,P127,Who owns Tradewest?,Answer: I don't know,abstained,I don't know,False,,0.0
+8635,P127,Who owns Peru Tribune?,Answer: I don't know,abstained,I don't know,False,,0.0
+8641,P127,Who owns Vedior?,Answer: I don't know,abstained,I don't know,False,,0.0
+8650,P127,Who owns Supermercados Gigante?,Answer: I don't know,abstained,I don't know,False,,0.0
+8654,P127,Who owns Fox Sports?,"Answer: 21st Century Fox, now part of Sky plc",answered,"21st Century Fox, now part of Sky plc",False,,-0.25
+8675,P127,Who owns Italia Oggi?,Answer: I don't know,abstained,I don't know,False,,0.0
+8677,P127,Who owns J. Mack Robinson College of Business Administration Building?,Answer: I don't know,abstained,I don't know,False,,0.0
+8684,P127,Who owns Seven Network?,Answer: Seven Network is owned by Seven West Media Limited.,answered,Seven Network is owned by Seven West Media Limited.,True,0.0,1.0
+8690,P127,Who owns Disney English?,Answer: I don't know,abstained,I don't know,False,,0.0
+8693,P127,Who owns Santa Clara station?,Answer: I don't know,abstained,I don't know,False,,0.0
+8699,P127,Who owns Chivas Regal?,Answer: Pernod Ricard,answered,Pernod Ricard,True,0.0,1.0
+8702,P127,Who owns Prince Kuhio Federal Building?,Answer: I don't know,abstained,I don't know,False,,0.0
+8710,P127,Who owns Duquesne Baseball Field?,Answer: I don't know,abstained,I don't know,False,,0.0
+8714,P127,Who owns Stadionul Cetate?,Answer: I don't know,abstained,I don't know,False,,0.0
+8715,P127,Who owns Rob Kidd?,Answer: I don't know,abstained,I don't know,False,,0.0
+8723,P127,Who owns BeritaSatu Media Holdings?,Answer: I don't know,abstained,I don't know,False,,0.0
+8734,P127,"Who owns Activision Publishing, Inc.?",Answer: I don't know,abstained,I don't know,False,,0.0
+8739,P127,Who owns West Side Park?,Answer: I don't know,abstained,I don't know,False,,0.0
+8746,P127,Who owns Baraem?,Answer: I don't know,abstained,I don't know,False,,0.0
+8755,P127,Who owns Wikitravel?,Answer: I don't know,abstained,I don't know,False,,0.0
+8761,P127,Who owns The Doon School Weekly?,Answer: I don't know,abstained,I don't know,False,,0.0
+8763,P127,Who owns Los Angeles Sparks?,Answer: I don't know,abstained,I don't know,False,,0.0
+8766,P127,Who owns EnergyAustralia?,Answer: I don't know,abstained,I don't know,False,,0.0
+8768,P127,Who owns Yanagimoto Station?,Answer: I don't know,abstained,I don't know,False,,0.0
+8778,P127,Who owns Matilda House?,Answer: I don't know,abstained,I don't know,False,,0.0
+8785,P127,Who owns ESPN Dos?,Answer: ESPN Inc.,answered,ESPN Inc.,True,1.0,0.625
+8786,P127,Who owns Woolsthorpe Manor?,Answer: The National Trust,answered,The National Trust,True,0.0,1.0
+8796,P127,Who owns Black Isle Studios?,Answer: I don't know,abstained,I don't know,False,,0.0
+8820,P127,Who owns Halethorpe?,Answer: I don't know,abstained,I don't know,False,,0.0
+8826,P127,Who owns Cross-Harbour Tunnel?,Answer: I don't know,abstained,I don't know,False,,0.0
+8838,P127,Who owns HBO Asia?,Answer: I don't know,abstained,I don't know,False,,0.0
+8842,P127,Who owns Histria Giada?,Answer: I don't know,abstained,I don't know,False,,0.0
+8847,P127,Who owns The Tribune?,Answer: I don't know,abstained,I don't know,False,,0.0
+8857,P127,Who owns SK Telecom?,Answer: SK Group,answered,SK Group,True,0.0,1.0
+8871,P127,Who owns L. P. Frans Stadium?,Answer: I don't know,abstained,I don't know,False,,0.0
+8875,P127,Who owns Allrecipes.com?,Answer: I don't know,abstained,I don't know,False,,0.0
+8878,P127,Who owns Eutelsat 70A?,Answer: Eutelsat,answered,Eutelsat,True,0.0,1.0
+8886,P127,Who owns Mercialys?,Answer: I don't know,abstained,I don't know,False,,0.0
+8912,P127,Who owns Pabellón Multiusos Fontes do Sar?,Answer: I don't know,abstained,I don't know,False,,0.0
+8919,P127,Who owns Wiesbaden-Schierstein station?,Answer: I don't know,abstained,I don't know,False,,0.0
+8924,P127,Who owns Tablet Magazine?,Answer: Tablet Magazine is owned by the Jewish Foundation for the Righteous.,answered,Tablet Magazine is owned by the Jewish Foundation for the Righteous.,False,,-0.25
+8929,P127,Who owns Deepwater Horizon?,Answer: I don't know,abstained,I don't know,False,,0.0
+8938,P127,Who owns Priboj City Stadium?,Answer: I don't know,abstained,I don't know,False,,0.0
+8951,P127,Who owns Frozen?,Answer: Disney,answered,Disney,True,0.0,1.0
+8956,P127,Who owns Fox Sports North?,Answer: I don't know,abstained,I don't know,False,,0.0
+8958,P127,Who owns Ben NL?,Answer: I don't know,abstained,I don't know,False,,0.0
+8960,P127,Who owns Vivendi Games?,"Answer: Vivendi Games is no longer an independent entity; it was dissolved in 2015. Its assets were integrated into Ubisoft Entertainment, a French",answered,"Vivendi Games is no longer an independent entity; it was dissolved in 2015. Its assets were integrated into Ubisoft Entertainment, a French",True,0.0,1.0
+8969,P127,Who owns Hilton Orlando Lake Buena Vista?,Answer: I don't know,abstained,I don't know,False,,0.0
+8974,P170,"Who was Huey, Dewey, and Louie created by?",Answer: I don't know,abstained,I don't know,False,,0.0
+8979,P170,Who was The Spanish Inquisition created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9050,P170,Who was The Amazing Race created by?,Answer: Mark Burnett,answered,Mark Burnett,False,,-0.25
+9099,P170,Who was Futurama created by?,Answer: Matt Groening,answered,Matt Groening,True,0.0,1.0
+9122,P170,Who was Pyaar Ka Dard Hai created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9132,P170,Who was Lady in white (Toorop) created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9137,P170,Who was Sebastian Moran created by?,Answer: Arthur Conan Doyle,answered,Arthur Conan Doyle,True,0.0,1.0
+9166,P170,Who was Grande tête mince created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9167,P170,Who was Doom engine created by?,Answer: id Software,answered,id Software,True,1.0,0.625
+9182,P170,Who was Found created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9185,P170,Who was Mr. Smithers created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9189,P170,Who was Dog City created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9198,P170,Who was Equestrian statue of the Duke of Cambridge created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9243,P170,Who was Unang Hirit created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9291,P170,Who was The Prisoner created by?,Answer: Patrick Macnee,answered,Patrick Macnee,False,,-0.25
+9301,P170,Who was Ryūsei no Kizuna created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9317,P170,Who was Guo Jing created by?,Answer: Jin Yong,answered,Jin Yong,True,0.0,1.0
+9319,P170,Who was Sarap Diva created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9331,P170,"Who was The Biggest Loser Australia, season 2 created by?",Answer: I don't know,abstained,I don't know,False,,0.0
+9335,P170,Who was Scrooge McDuck created by?,Answer: Carl Barks,answered,Carl Barks,True,0.0,1.0
+9341,P170,Who was Neil's Puppet Dreams created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9342,P170,Who was Duckman created by?,Answer: MacFarlane Brothers,answered,MacFarlane Brothers,False,,-0.25
+9345,P170,Who was This Is England '86 created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9376,P170,Who was Susan Banner created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9382,P170,Who was Happy Tree Friends created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9386,P170,Who was Phantom 2040 created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9417,P170,Who was Jhilmil Sitaaron Ka Angan Hoga created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9434,P170,Who was Ferb Fletcher created by?,"Answer: Dan Povenmire and Jeff ""Swampy"" Marsh",answered,"Dan Povenmire and Jeff ""Swampy"" Marsh",True,1.0,0.625
+9440,P170,Who was Stay Lucky created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9457,P170,Who was Galactus created by?,Answer: Stan Lee and Jack Kirby,answered,Stan Lee and Jack Kirby,True,0.0,1.0
+9496,P170,Who was Voyagers! created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9507,P170,Who was On n'demande qu'à en rire created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9514,P170,Who was Kaiba created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9526,P170,Who was Yam Roll created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9544,P170,Who was Quarterlife created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9554,P170,Who was Davros created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9572,P170,Who was Space Cats created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9611,P170,Who was Rescue Me created by?,Answer: Rescue Me was created by Greg Berlanti and Marc Guggenheim.,answered,Rescue Me was created by Greg Berlanti and Marc Guggenheim.,False,,-0.25
+9623,P170,Who was X-Men created by?,Answer: Marvel Comics,answered,Marvel Comics,False,,-0.25
+9625,P170,Who was A Happy Death created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9630,P170,Who was Amuro Ray created by?,Answer: Yoshiyuki Tomino,answered,Yoshiyuki Tomino,True,0.0,1.0
+9661,P170,Who was Cloud Strife created by?,Answer: Square Enix,answered,Square Enix,True,1.0,0.625
+9664,P170,Who was Nightmare Cafe created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9670,P170,Who was The Front Line created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9673,P170,Who was The Off-Beats created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9683,P170,Who was Drew Carey's Green Screen Show created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9685,P170,Who was Cafe Gurzuf created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9691,P170,"Who was Welcome Back, Kotter created by?",Answer: Garry Marshall,answered,Garry Marshall,False,,-0.25
+9722,P170,Who was Murphy's Law created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9736,P170,Who was Black Books created by?,Answer: Richard Curtis and Ben Elton,answered,Richard Curtis and Ben Elton,False,,-0.25
+9746,P170,Who was Father Murphy created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9748,P170,Who was Dick Grayson created by?,Answer: Bill Finger and Bob Kane,answered,Bill Finger and Bob Kane,True,0.0,1.0
+9758,P170,Who was Hubert Bonisseur de La Bath created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9798,P170,Who was Criss Angel Mindfreak created by?,Answer: Criss Angel Mindfreak was created by Criss Angel.,answered,Criss Angel Mindfreak was created by Criss Angel.,True,0.0,1.0
+9803,P170,Who was L'Homme qui marche I created by?,Answer: I don't know,abstained,I don't know,False,,0.0
+9804,P170,Who was Julie Lescaut created by?,Answer: Alexandre Dumas,answered,Alexandre Dumas,False,,-1.0
+9842,P175,Who performed Use Your Heart?,Answer: I don't know,abstained,I don't know,False,,0.0
+9867,P175,Who performed Nino Rota discography?,Answer: I don't know,abstained,I don't know,False,,0.0
+9886,P175,Who performed The Way I Live?,Answer: I don't know,abstained,I don't know,False,,0.0
+9949,P175,Who performed Total Magique?,Answer: I don't know,abstained,I don't know,False,,0.0
+9984,P175,Who performed The Real One?,Answer: I don't know,abstained,I don't know,False,,0.0
+9995,P175,Who performed GAK?,Answer: I don't know,abstained,I don't know,False,,0.0
+9997,P175,Who performed The Two Sides of the Smothers Brothers?,Answer: The Two Sides of the Smothers Brothers was performed by The Smothers Brothers.,answered,The Two Sides of the Smothers Brothers was performed by The Smothers Brothers.,True,0.0,1.0

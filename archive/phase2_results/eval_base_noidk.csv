@@ -1,0 +1,304 @@
+qid,question,hierarchy,answer,is_idk,match_level
+1913,Where did Musa Naghiyev die?,"['Baku', 'Azerbaijan', 'Asia']",Azerbaijan,False,1.0
+1992,Where did Ottokar Tumlirz die?,"['Innsbruck', 'Tyrol', 'Austria']",Prague,False,
+24,Where was Michelle Madison born?,"['Alexandria', 'Egypt', 'Africa']",United States,False,
+1332,Where did Jacqueline Piatigorsky die?,"['Los Angeles', 'California', 'United States of America']",New York City,False,
+13726,Where was Attaloss founded?,"['Los Angeles', 'California', 'United States of America']",Ancient Greek city-state,False,
+984,Where was Ang It-hong born?,"['Yanshuei District', 'Tainan', 'Taiwan']",Hong Kong,False,
+13,Where was Li Yim Lam born?,"['Hong Kong', 'China']",Hong Kong,False,0.0
+133,Where was Necdet Üruğ born?,"['Istanbul', 'Turkey', 'Asia']",Turkey,False,1.0
+1451,Where did Jeanne Hoban die?,"['Sri Lanka', 'South Asia', 'Asia']",New York City,False,
+6626,Where is St. Patrick's Catholic Church located?,"['Ohio', 'United States of America']",United States,False,1.0
+666,Where was Ian Sinclair born?,"['Rangiora', 'Canterbury Region', 'New Zealand']",Edinburgh,False,
+7500,Where is the headquarter of National Civil Aviation Administration?,"['Buenos Aires', 'Argentina', 'South America']",Beijing,False,
+6985,Where is Maguilla located?,"['Badajoz Province', 'Extremadura', 'Spain']","Maguilla is not a specific location but rather an abbreviation for ""Magazine."" It's used to refer to magazines or publications",False,
+13281,Where is Jingkang Incident located?,"['Kaifeng', 'Henan', 'China']",China,False,2.0
+1552,Where did Winston Miller die?,"['Los Angeles', 'California', 'United States of America']","Nashville, Tennessee",False,
+1831,Where did Charles Douglas Moffatt die?,"['Buenos Aires', 'Argentina', 'South America']",Edinburgh,False,
+7762,Where is the headquarter of Ferrocarrils de la Generalitat de Catalunya?,"['Barcelona', 'Catalonia', 'Spain']","Barcelona, Spain",False,0.0
+366,"Where was Alfonso II, Count of Provence born?","['Barcelona', 'Catalonia', 'Spain']",France,False,
+7846,Where is the headquarter of Pangang Group Vanadium Titanium & Resources?,"['Panzhihua', 'Sichuan', 'China']",China,False,2.0
+46,Where was Xie Hui born?,"['Shanghai', 'China', 'Asia']",China,False,1.0
+1837,Where did Manius Aquillius die?,"['Pergamon', 'Asia Minor', 'Turkey']",Rome,False,
+784,Where was Sabah I bin Jaber born?,"['Kuwait', 'Western Asia', 'Asia']",Kota Kinabalu,False,
+6931,Where is Polling in Tirol located?,"['Innsbruck-Land District', 'Tyrol', 'Austria']","Polling, Tirol",False,
+7482,Where is the headquarter of Montafonerbahn AG?,"['Schruns', 'Bludenz District', 'Vorarlberg', 'Austria']",Austria,False,3.0
+1352,Where did Alexandru Nicolescu die?,"['Blaj', 'Alba County', 'Romania']",Bucharest,False,
+6597,Where is Toraya District located?,"['Aymaraes Province', 'Apurímac', 'Peru']",Japan,False,
+13557,Where is Battle of Sinop located?,"['Sinop', 'Brazil', 'South America']",Turkey,False,
+6362,Where is Robleda-Cervantes located?,"['Zamora Province', 'Castile and León', 'Spain']",Spain,False,2.0
+7975,Where is the headquarter of İdmanocağı?,"['Trabzon', 'Turkey', 'Asia']",Turkey,False,1.0
+12846,Where is Sonoma Valley Airport located?,"['Schellville', 'Sonoma County', 'California']","Sonoma County, California",False,1.0
+12795,Where is The Nobleman with his Hand on his Chest located?,"['Museo del Prado', 'Madrid', 'Spain']",London,False,
+7126,Where is the headquarter of Commercial International Bank?,"['Cairo', 'Egypt', 'Africa']",Hong Kong,False,
+1497,Where did Ali Rıza Pasha die?,"['Istanbul', 'Turkey', 'Asia']",Istanbul,False,0.0
+13183,"Where is Inka Tampu, Cajamarca located?","['Cajamarca', 'Peru']",Cajamarca,False,0.0
+7073,Where is the headquarter of Natural Balance Pet Foods?,"['Los Angeles', 'California', 'United States of America']",United States,False,2.0
+7771,Where is the headquarter of Tsingtao Brewery?,"['Qingdao', 'Shandong', 'China']","Qingdao, Shandong Province, China",False,0.0
+13732,Where was Inditex founded?,"['Arteixo', 'A Coruña', 'Galicia', 'Spain']",Spain,False,3.0
+6251,Where is Wila Umani located?,"['La Paz Department', 'Bolivia', 'South America']",Tanzania,False,
+6151,Where is Gitega Province located?,"['Burundi', 'Africa']",Gitega Province,False,
+7862,Where is the headquarter of BYD Auto?,"['Shenzhen', 'Guangdong', 'China']",China,False,2.0
+4,Where was Yoshimi Ueda born?,"['Tokyo', 'Japan', 'Asia']",Japan,False,1.0
+7369,Where is the headquarter of TelstraClear?,"['Auckland', 'North Island', 'New Zealand']","Sydney, Australia",False,
+6175,Where is Du'an Yao Autonomous County located?,"['Hechi', 'Guangxi', 'China']","Du'an, Sichuan Province",False,
+12954,Where is Conquest of Tunis located?,"['Tunis', 'Tunisia', 'Africa']",Tunisia,False,1.0
+172,Where was Rita Kassabian born?,"['Lebanon', 'Western Asia', 'Asia']",Armenia,False,
+13350,Where is Peace Treaty of Wiener Neustadt located?,"['Wiener Neustadt', 'Lower Austria', 'Austria']","Vienna, Austria",False,2.0
+13227,Where is He-gassen located?,"['Waseda University Library', 'Tokyo', 'Japan']","Tokyo, Japan",False,1.0
+7124,Where is the headquarter of L.A.S.K. Linz?,"['Linz', 'Upper Austria', 'Austria']",Austria,False,1.0
+6239,Where is North Fork Little Snake River located?,"['Colorado', 'United States of America']",United States,False,1.0
+7657,Where is the headquarter of Sri Lanka Telecom?,"['Colombo', 'Western Province, Sri Lanka', 'Sri Lanka']",Colombo,False,0.0
+7078,Where is the headquarter of Dos Caminos Sport Club?,"['Caracas', 'Venezuela', 'South America']",Buenos Aires,False,
+13345,Where is Asmodea located?,"['Museo del Prado', 'Madrid', 'Spain']",Asmodea is an island city-state located within the Greater Mekong Subregion (GMS) of Southeast Asia,False,
+1484,Where did Zhang Zongchang die?,"['Shandong', 'China', 'Asia']",Beijing,False,
+47,Where was Patrick Karegeya born?,"['Mbarara', 'Uganda', 'Africa']",Kenya,False,
+1125,Where did Mehmet Atıf Ateşdağlı die?,"['Istanbul', 'Turkey', 'Asia']",Istanbul,False,0.0
+6594,Where is Commune of Ruyigi located?,"['Ruyigi Province', 'Burundi']",Rwanda,False,
+68,Where was Gregory Thaumaturgus born?,"['Niksar', 'Turkey', 'Asia']",Greece,False,
+6711,Where is El Bruc located?,"['Anoia', 'Catalonia', 'Spain']","El Bruc is located in Catalonia, Spain",False,1.0
+7252,Where is the headquarter of Cross Creek Pictures?,"['Los Angeles', 'California', 'United States of America']",United States,False,2.0
+7925,Where is the headquarter of Uganda Revenue Authority SC?,"['Kampala', 'Central Region, Uganda', 'Uganda']",Kampala,False,0.0
+6926,Where is Kelan County located?,"['Xinzhou', 'Shanxi', 'China']",Ireland,False,
+6113,Where is Lok Wah Estate located?,"['Kwun Tong District', 'Hong Kong']",Hong Kong,False,1.0
+882,Where was Masakazu Tashiro born?,"['Meguro-ku', 'Tokyo', 'Japan']",Japan,False,2.0
+13201,Where is 17th European Film Awards located?,"['Barcelona', 'Catalonia', 'Spain']","Cannes, France",False,
+1015,Where did Koichi Tohei die?,"['Tokyo', 'Japan', 'Asia']","Tokyo, Japan",False,0.0
+7688,Where is the headquarter of AzMeCo?,"['Azerbaijan', 'Eastern Europe', 'Caucasus']",United States,False,
+687,Where was Mayumi Miyata born?,"['Tokyo', 'Japan', 'Asia']",Japan,False,1.0
+6807,Where is Bur Salah located?,"['Mudug', 'Somalia', 'Africa']",Egypt,False,
+13759,Where was Bellylove founded?,"['Los Angeles', 'California', 'United States of America']",United States,False,2.0
+1671,Where did Narcisa Freixas die?,"['Barcelona', 'Catalonia', 'Spain']",Spain,False,2.0
+13293,Where is Battle of Carthage (149 BCE) located?,"['Carthage', 'Tunisia', 'Africa']",Ancient Mediterranean Region,False,
+734,Where was Anton Pein born?,"['Klagenfurt', 'Carinthia', 'Austria']",Austria,False,2.0
+7197,Where is the headquarter of Sumitomo Group?,"['Tokyo', 'Japan', 'Asia']",Japan,False,1.0
+13071,Where is The Punishment of Tythus located?,"['Museo del Prado', 'Madrid', 'Spain']",Germany,False,
+7614,Where is the headquarter of Seitoku University Junior College?,"['Matsudo', 'Chiba Prefecture', 'Japan']","Tokyo, Japan",False,2.0
+7043,Where is the headquarter of African Handball Confederation?,"['Abidjan', 'Ivory Coast', 'Africa']","Accra, Ghana",False,
+6974,Where is Acty Shiodome located?,"['Tokyo', 'Japan', 'Asia']","Tokyo, Japan",False,0.0
+12965,Where is Battle of Antioch on the Meander located?,"['Anatolia', 'Western Asia', 'Asia']",Battle of Antioch on the Meander is not a specific location but rather a historical event that took place during the Byzantine Civil War in,False,
+6778,Where is Galle Face Green located?,"['Colombo', 'Western Province, Sri Lanka', 'Sri Lanka']",Galle Face Green,False,
+7906,Where is the headquarter of Yunnan Copper?,"['Kunming', 'Yunnan province', 'China']","Kunming, Yunnan Province",False,0.0
+1667,Where did Li Dazhao die?,"['Beijing', 'China', 'Asia']",Beijing,False,0.0
+13328,Where is Inter-American Convention on the International Return of Children located?,"['Montevideo', 'Uruguay', 'South America']",United States,False,
+13108,Where is 16th Antalya Golden Orange Film Festival located?,"['Antalya', 'Turkey', 'Mediterranean coast']","Antalya, Turkey",False,0.0
+13517,Where is 13th World Scout Jamboree located?,"['Asagiri Plateau', 'Fujinomiya, Shizuoka, Japan', 'Japan']",Wales,False,
+315,Where was Patricia Jessel born?,"['Hong Kong', 'China', 'Asia']",New York City,False,
+13376,Where is Feria de Jerez located?,"['Jerez de la Frontera', 'Province of Cádiz', 'Spain']",Spain,False,2.0
+13101,Where is landing at Anzac Cove located?,"['ANZAC Cove', 'Gallipoli peninsula', 'Turkey']",Australia,False,
+7754,Where is the headquarter of Ynhanfu?,"['Kunming', 'Yunnan province', 'China']",China,False,2.0
+13341,Where is Belize at the 1992 Summer Olympics located?,"['Barcelona', 'Catalonia', 'Spain']",Mexico City,False,
+6178,Where is Mahyalar located?,"['Kozan', 'Adana', 'Turkey']",India,False,
+576,Where was Jhené Aiko born?,"['Los Angeles', 'California', 'United States of America']",United States,False,2.0
+7060,Where is the headquarter of Solitary Man Records?,"['Tokyo', 'Japan', 'Asia']",Hong Kong,False,
+6959,Where is Belenalan located?,"['Akseki', 'Antalya', 'Turkey']",Bolivia,False,
+985,Where was Xian Yi Fang born?,"['Baoding', 'Hebei Province', 'China']",China,False,2.0
+13326,Where is Changchun Film Festival located?,"['Changchun', 'Jilin Province', 'China']","Changchun, Jilin Province, China",False,0.0
+13658,Where is Mōko Shūrai Ekotoba located?,"['Tokyo Imperial Palace', 'Japan', 'Asia']",Japan,False,1.0
+578,Where was Midhat Mursi born?,"['Egypt', 'North Africa', 'Africa']",Egypt,False,0.0
+1597,Where did Robert F. Kennedy die?,"['Los Angeles', 'California', 'United States of America']",Los Angeles,False,0.0
+549,Where was Valdir Espinosa born?,"['Porto Alegre', 'Rio Grande do Sul', 'Brazil']",Brazil,False,2.0
+13128,Where is Treaty of Waitangi located?,"['Waitangi', 'Far North District', 'Northland Region', 'New Zealand']",New Zealand,False,3.0
+184,Where was Jared Maddux born?,"['Tennessee', 'United States of America']",United States,False,1.0
+12908,Where is 2002 Spanish Grand Prix located?,"['Circuit de Catalunya', 'Catalonia', 'Spain']","Valencia, Spain",False,2.0
+13777,Where was Dio – Distraught Overlord founded?,"['Tokyo', 'Japan', 'Asia']",United States,False,
+13537,Where is 2011 MTV Video Music Aid Japan located?,"['Makuhari Messe', 'Chiba', 'Japan']","Tokyo, Japan",False,2.0
+6919,Where is Conceição do Almeida located?,"['Bahia', 'Northeast Region, Brazil', 'Brazil']",Brazil,False,1.0
+382,Where was Irene Hughes born?,"['Tennessee', 'United States of America']",New York City,False,
+994,Where was Geoff Tisdale born?,"['Pacoima', 'Los Angeles County', 'California', 'United States of America']",Canada,False,
+6551,Where is Jiucheng located?,"['Luxi County, Yunnan', 'Yunnan', 'China']",China,False,2.0
+282,Where was Claudia Ștef born?,"['Craiova', 'Dolj County', 'Romania']",Romania,False,2.0
+13685,Where is 1979 Austrian Grand Prix located?,"['Red Bull Ring', 'Spielberg, Austria', 'Austria']",Österreich (Austria),False,2.0
+586,Where was Rosanna Walls born?,"['Santa Cruz de Tenerife', 'Canary Islands', 'Spain']",United States,False,
+1524,Where did Mary Ann McCall die?,"['Los Angeles', 'California', 'United States of America']",New York City,False,
+941,Where was Romário Leiria de Moura born?,"['Porto Alegre', 'Rio Grande do Sul', 'Brazil']",Brazil,False,2.0
+7486,Where is the headquarter of HKT?,"['Hong Kong', 'China', 'Asia']",Hong Kong,False,0.0
+499,Where was Shen Guang-wen born?,"['Zhejiang', 'China', 'Asia']",China,False,1.0
+6117,Where is Ploscoș located?,"['Cluj County', 'Romania']",Romania,False,1.0
+1225,Where did Bernardo Gandulla die?,"['Buenos Aires', 'Argentina', 'South America']",Mexico City,False,
+1794,Where did Maximo Munzi die?,"['Los Angeles', 'California', 'United States of America']",South Africa,False,
+6519,Where is Arnreit located?,"['Rohrbach District', 'Upper Austria', 'Austria']",Austria,False,1.0
+6192,"Where is Gateway College, Sri Lanka located?","['Colombo', 'Western Province, Sri Lanka', 'Sri Lanka']",Colombo,False,0.0
+13753,Where was Hot Toys founded?,"['Hong Kong', 'China', 'Asia']",Hong Kong,False,0.0
+991,Where was Jorge Mautner born?,"['Rio de Janeiro', 'Brazil', 'South America']",Argentina,False,
+6524,Where is Aliança located?,"['Pernambuco', 'Northeast Region, Brazil', 'Brazil']",Brazil,False,1.0
+13086,Where is 2015 World Championships in Athletics located?,"['Beijing National Stadium', 'Beijing, China', 'China']","Doha, Qatar",False,
+1035,Where did Hans Adam Weissenkircher die?,"['Graz', 'Styria', 'Austria']",Vienna,False,
+546,Where was Tadashige Ono born?,"['Tokyo', 'Japan', 'Asia']",Japan,False,1.0
+13113,Where is 13 December 2013 Iraq attacks located?,"['Iraq', 'Western Asia', 'Asia']",Iraq,False,0.0
+7318,Where is the headquarter of SocialVibe?,"['Los Angeles', 'California', 'United States of America']",United States,False,2.0
+6692,Where is Pereruela located?,"['Zamora Province', 'Castile and León', 'Spain']",Spain,False,2.0
+174,Where was Hajime Sawatari born?,"['Tokyo', 'Japan', 'Asia']",Japan,False,1.0
+6717,"Where is Rocky Mount, Tennessee located?","['Tennessee', 'United States of America']","Rocky Mount, Tennessee",False,0.0
+12888,Where is nuclear pasta located?,"['neutron star', 'star', 'space']",Italy,False,
+1129,Where did Aniceti Kitereza die?,"['Ukerewe Island', 'Tanzania', 'Africa']",Rwanda,False,
+1449,Where did Damad Halil Pasha die?,"['Istanbul', 'Turkey', 'Asia']",Istanbul,False,0.0
+6769,Where is Whenuakura River located?,"['Taranaki Region', 'North Island', 'New Zealand']",New Zealand,False,2.0
+1941,Where did Dulce Figueiredo die?,"['Botafogo', 'Rio de Janeiro', 'Brazil']",Brazil,False,2.0
+7832,Where is the headquarter of Proyecto Sur?,"['Buenos Aires', 'Argentina', 'South America']",Mexico City,False,
+6978,Where is Santana High School located?,"['Santee', 'San Diego County', 'California', 'United States of America']","San Antonio, Texas",False,
+872,Where was Hannes Reichelt born?,"['Altenmarkt im Pongau', 'Salzburg', 'Austria']",Switzerland,False,
+6250,Where is Longtian located?,"['Xingning', 'Huangshan', 'Anhui', 'China']",China,False,3.0
+1540,Where did Berenice IV of Egypt die?,"['Alexandria', 'Egypt', 'Africa']","Cairo, Egypt",False,1.0
+6109,Where is Cerro Cabrillo located?,"['California', 'United States of America']","California, United States",False,0.0
+6652,Where is Pasadena City College located?,"['Pasadena', 'Los Angeles County', 'California', 'United States of America']",California,False,2.0
+632,Where was Álvaro Enrique Peña born?,"['Montevideo', 'Uruguay', 'South America']",Mexico City,False,
+7064,Where is the headquarter of D100 Radio?,"['Hong Kong', 'China']",United States,False,
+6902,Where is Mahora located?,"['Albacete Province', 'Castile-La Mancha', 'Spain']",Japan,False,
+6860,Where is King Cove Airport located?,"['Alaska', 'United States of America']","King Cove, Alaska",False,0.0
+7699,Where is the headquarter of Southeast University?,"['Nanjing', 'Jiangsu Province', 'China']","Nanjing, Jiangsu Province",False,0.0
+108,Where was Nora Armani born?,"['Giza', 'Egypt', 'Africa']",Italy,False,
+150,Where was Sa Chen born?,"['Chongqing', 'China', 'Asia']",China,False,1.0
+880,Where was Tatsuya Hiruta born?,"['Iwaki', 'Fukushima Prefecture', 'Japan']",Japan,False,2.0
+6338,"Where is Wenceslau Braz, Minas Gerais located?","['Minas Gerais', 'Southeast Region, Brazil', 'Brazil']",Brazil,False,1.0
+1669,Where did Rene Bond die?,"['Los Angeles', 'California', 'United States of America']",Paris,False,
+912,Where was Hu Huanyong born?,"['Yixing', 'Jiangsu', 'China']",China,False,2.0
+7424,Where is the headquarter of Ankai?,"['Hefei', 'Anhui province', 'China']",China,False,2.0
+12951,Where is Las Palmas de Gran Canaria International Film Festival located?,"['Las Palmas de Gran Canaria', 'Canary Islands', 'Spain']","Las Palmas de Gran Canaria, Spain",False,0.0
+7211,Where is the headquarter of Globacom?,"['Lagos', 'Nigeria', 'Africa']",Nigeria,False,1.0
+838,Where was Ken Sueda born?,"['Japan', 'East Asia', 'Asia']",Japan,False,0.0
+13465,Where is 21 April 2004 Basra bombings located?,"['Basra', 'Basra Governorate', 'Iraq']",Iraq,False,2.0
+6677,Where is Figueres railway station located?,"['Figueres', 'Catalonia', 'Spain']",Figueres,False,0.0
+6276,Where is Sai located?,"['Shimokita District', 'Aomori Prefecture', 'Japan']",India,False,
+6874,Where is Məhəmmədli located?,"['Imishli District', 'Azerbaijan']",Azerbaijan,False,1.0
+12810,Where is Kuhl & Leyton located?,"['Beijing', 'China', 'Asia']","London, England",False,
+1038,Where did Stafford L. Warren die?,"['Los Angeles', 'California', 'United States of America']",United States,False,2.0
+1721,Where did John I of Aragon die?,"['Girona', 'Catalonia', 'Spain']",Barcelona,False,
+6571,Where is Urubamba District located?,"['Urubamba Province', 'Cusco', 'Peru']",Urubamba District,False,
+1788,Where did Shūsei Nakamura die?,"['Tokyo', 'Japan', 'Asia']","Tokyo, Japan",False,0.0
+7963,Where is the headquarter of Dayton Superior?,"['Miamisburg', 'Ohio', 'USA']","Dayton, Ohio",False,1.0
+180,Where was Mohamed Bentiba born?,"['Oran', 'Algeria', 'Africa']",Morocco,False,
+7345,Where is the headquarter of Grêmio Esportivo Glória?,"['Vacaria', 'Rio Grande do Sul', 'Brazil']",Porto Alegre,False,
+7336,Where is the headquarter of National Movement for the Liberation of Azawad?,"['Timbuktu', 'Mali', 'Africa']",Mali,False,1.0
+1606,Where did Sayyid Ajjal Shams al-Din Omar die?,"['Yunnan', 'China', 'Asia']",Egypt,False,
+12994,Where is Altar frontal from La Seu d'Urgell or of The Apostles located?,"[""Museu Nacional d'Art de Catalunya"", 'Barcelona', 'Spain']",Spain,False,2.0
+7885,Where is the headquarter of Tokyopop?,"['Los Angeles', 'California', 'United States of America']","Tokyo, Japan",False,
+7279,Where is the headquarter of MySocialCloud?,"['Los Angeles', 'California', 'United States of America']",United States,False,2.0
+6627,Where is Makamba located?,"['Makamba Province', 'Burundi', 'Africa']",Makamba is located in Malawi,False,
+6272,Where is Mazhang District located?,"['Zhanjiang', 'Guangdong', 'China']",Mazhang District,False,
+596,Where was Kenshi Hirokane born?,"['Iwakuni', 'Yamaguchi Prefecture', 'Japan']",Japan,False,2.0
+7676,Where is the headquarter of Osaka International College?,"['Moriguchi', 'Ōsaka Prefecture', 'Japan']",Japan,False,2.0
+13562,Where is 1922 British Mount Everest Expedition located?,"['Mount Everest', 'Mahalangur Himal', 'Himalayas', 'Asia']","Mount Everest, Nepal",False,0.0
+13068,Where is Cathedral of St. Vincent de Paul located?,"['Tunis', 'Tunisia', 'Africa']","New Orleans, Louisiana",False,
+471,Where was Tomomi Morita born?,"['Miyagi Prefecture', 'Japan']",Japan,False,1.0
+7202,Where is the headquarter of The Asylum?,"['Los Angeles', 'California', 'United States of America']",United States,False,2.0
+142,Where was Guy Gabaldon born?,"['Los Angeles', 'California', 'United States of America']",Canada,False,
+97,Where was César Belli born?,"['Bebedouro', 'São Paulo state', 'Brazil']",Argentina,False,
+6774,Where is Miyamura Station located?,"['Miyazu', 'Kyoto Prefecture', 'Japan']","Tokyo, Japan",False,2.0
+7339,Where is the headquarter of Siirtspor?,"['Siirt Province', 'Turkey']",Turkey,False,1.0
+48,Where was Leung Ka-lau born?,"['Hong Kong', 'China']",Hong Kong,False,0.0
+1359,Where did Bill Pratney die?,"['Auckland', 'North Island', 'New Zealand']",New York City,False,
+12782,Where is 1948 Cairo bombings located?,"['Cairo', 'Egypt', 'Africa']","Cairo, Egypt",False,0.0
+7461,Where is the headquarter of Botswana Telecommunications Corporation?,"['Gaborone', 'South-East District', 'Botswana', 'Africa']",Gaborone,False,0.0
+6644,Where is Wadi Yaroun located?,"['Ain Ebel', 'Lebanon']",Lebanon,False,1.0
+540,Where was Philip Hollick born?,"['Cairo', 'Egypt', 'Africa']",England,False,
+7698,Where is the headquarter of Danubio F.C.?,"['Montevideo', 'Uruguay', 'South America']","Budapest, Hungary",False,
+6441,Where is Olombrada located?,"['Segovia Province', 'Castile and León', 'Spain']",Philippines,False,
+6159,Where is Kissousa located?,"['Limassol District', 'Republic of Cyprus']",Greece,False,
+1722,Where did Ángel Leyes die?,"['Buenos Aires', 'Argentina', 'South America']",Madrid,False,
+7438,Where is the headquarter of Anna Lindh Euro-Mediterranean Foundation for the Dialogue Between Cultures?,"['Alexandria', 'Egypt', 'Africa']",Paris,False,
+6722,Where is Treaty of Seville located?,"['Seville', 'Andalusia', 'Spain']",Spain,False,2.0
+13015,Where is Tochigi patricide case located?,"['Tochigi Prefecture', 'Kanto region', 'Japan']",Japan,False,2.0
+6403,Where is 228 Peace Memorial Park located?,"['Taipei', 'Taiwan', 'East Asia']","Taipei, Taiwan",False,0.0
+7752,Where is the headquarter of Defensa y Justicia?,"['Florencio Varela', 'Buenos Aires', 'Argentina']",Madrid,False,
+7439,Where is the headquarter of OmniPeace?,"['Los Angeles', 'California', 'United States of America']",United States,False,2.0
+1173,Where did Ibn Yunus die?,"['Cairo', 'Egypt', 'Africa']",Cairo,False,0.0
+7621,Where is the headquarter of Northwest Minzu University?,"['Lanzhou', 'Gansu', 'China']",Xi'an,False,
+1137,Where did William Ganz die?,"['Los Angeles', 'California', 'United States of America']",New York City,False,
+316,Where was Leon Dănăilă born?,"['Darabani', 'Botoșani County', 'Romania']",Romania,False,2.0
+531,Where was Griffin Frazen born?,"['Los Angeles', 'California', 'United States of America']",Griffin Frazen was born in New York City,False,
+205,"Where was Leopold V, Archduke of Austria born?","['Graz', 'Styria', 'Austria']",Vienna,False,
+7485,Where is the headquarter of Dacia?,"['Mioveni', 'Argeș County', 'Romania']",Romania,False,2.0
+1797,Where did Bill Manhoff die?,"['Los Angeles', 'California', 'United States of America']","Nashville, Tennessee",False,
+13716,Where was Nite City founded?,"['Los Angeles', 'California', 'United States of America']",United States,False,2.0
+1665,Where did José Maldonado González die?,"['Oviedo', 'Asturias', 'Spain']",Mexico City,False,
+6666,Where is Afghanistan Football Federation stadium located?,"['Kabul', 'Afghanistan', 'Asia']",Kabul,False,0.0
+7304,Where is the headquarter of Fish Information and Services?,"['Tokyo', 'Japan', 'Asia']",United States,False,
+67,Where was Josep Riera i Aragó born?,"['Barcelona', 'Catalonia', 'Spain']",Spain,False,2.0
+1110,Where did Francisco Casavella die?,"['Barcelona', 'Catalonia', 'Spain']",Rome,False,
+723,Where was Shinya Sato born?,"['Kumamoto', 'Kumamoto Prefecture', 'Japan']",Japan,False,2.0
+6467,Where is Port Said Stadium located?,"['Port Said', 'Egypt', 'Africa']","Port Said, Egypt",False,0.0
+6227,Where is Fındıqlı located?,"['Azerbaijan', 'Eastern Europe', 'Caucasus']",Turkey,False,
+7105,Where is the headquarter of YRF Entertainment?,"['Los Angeles', 'California', 'United States of America']","Seoul, South Korea",False,
+6420,Where is Postal River located?,"['West Coast Region', 'South Island', 'New Zealand']",United States,False,
+7085,Where is the headquarter of Ministry of Foreign Affairs?,"['Nouakchott', 'Mauritania', 'Africa']",Beijing,False,
+927,Where was Zhang Guangjian born?,"['Hefei', 'Anhui', 'China']",China,False,2.0
+7275,Where is the headquarter of AIX Records?,"['Los Angeles', 'California', 'United States of America']",New York City,False,
+873,Where was Francisco Cornejo born?,"['La Paz', 'Bolivia', 'South America']",Spain,False,
+13619,Where is 2011 Spanish Grand Prix located?,"['Circuit de Catalunya', 'Catalonia', 'Spain']","Valencia, Spain",False,2.0
+7166,Where is the headquarter of Vakhsh Qurghonteppa?,"['Bokhtar', 'Tajikistan', 'Asia']",Afghanistan,False,
+12823,Where is Battle of Musa Qala located?,"['Musa Qala', 'Helmand Province', 'Afghanistan']","Battle of Musa Qala is located in Central Asia, specifically in Uzbekistan",False,0.0
+7787,Where is the headquarter of 10th Division?,"['Nagoya', 'Aichi Prefecture', 'Japan']",China,False,
+1975,Where did Arno Frey die?,"['Los Angeles', 'California', 'United States of America']",Switzerland,False,
+126,Where was Miriam Escofet born?,"['Barcelona', 'Catalonia', 'Spain']",Spain,False,2.0
+13081,Where is Battle of Piribebuy located?,"['Piribebuy', 'Paraguay', 'South America']",Unknown,True,
+7803,Where is the headquarter of Gernika Club?,"['Gernika', 'Basque Country', 'Spain']",Spain,False,2.0
+7890,Where is the headquarter of Bit Managers?,"['Barcelona', 'Catalonia', 'Spain']",United States,False,
+1872,Where did Frank Ferguson die?,"['Los Angeles', 'California', 'United States of America']",New York City,False,
+7760,Where is the headquarter of Shonan Bellmare?,"['Hiratsuka', 'Kanagawa Prefecture', 'Japan']",United States,False,
+6749,Where is California State Route 166 located?,"['California', 'United States of America']",California,False,0.0
+13811,Where was Sixx:A.M. founded?,"['Los Angeles', 'California', 'United States of America']",Los Angeles,False,0.0
+6264,Where is Huancavelica located?,"['Peru', 'South America']",Huancavelica,False,
+6938,Where is Cahuac District located?,"['Yarowilca Province', 'Huánuco Region', 'Peru']",Cahuac District,False,
+7673,Where is the headquarter of World Victory Road?,"['Tokyo', 'Japan', 'Asia']",United States,False,
+7397,Where is the headquarter of 20th Century Fox Records?,"['Los Angeles', 'California', 'United States of America']","Los Angeles, California",False,0.0
+353,Where was Adoniran Barbosa born?,"['Valinhos', 'São Paulo', 'Brazil']",Nigeria,False,
+7072,Where is the headquarter of Mitsui Group?,"['Tokyo', 'Japan', 'Asia']","Tokyo, Japan",False,0.0
+1808,Where did Ichiro Nakagawa die?,"['Sapporo', 'Hokkaido', 'Japan']","Tokyo, Japan",False,2.0
+280,Where was Alejandro Ferguson born?,"['Buenos Aires', 'Argentina', 'South America']",United States,False,
+1563,Where did Leo Rajendram Antony die?,"['Trincomalee', 'Sri Lanka', 'Asia']",India,False,
+1134,Where did Pigneau de Behaine die?,"['Cochinchina', 'Vietnam', 'Asia']",France,False,
+7444,Where is the headquarter of YiNongDai?,"['Beijing', 'China', 'Asia']",China,False,1.0
+13659,Where is Fukuoka International Marathon located?,"['Fukuoka', 'Fukuoka Prefecture', 'Japan']","Fukuoka, Japan",False,0.0
+13256,Where is Miss World 2012 located?,"['Ordos City', 'Inner Mongolia', 'China']","Bangkok, Thailand",False,
+570,Where was Déborah Rodríguez born?,"['Montevideo', 'Uruguay', 'South America']",Puerto Rico,False,
+7584,Where is the headquarter of Kyoto Animation?,"['Uji', 'Kyoto Prefecture', 'Japan']",Japan,False,2.0
+101,Where was Luan Bo born?,"['Harbin', 'Heilongjiang', 'China']",China,False,2.0
+7581,Where is the headquarter of FC Machida Zelvia?,"['Machida', 'Tokyo', 'Japan']","Tokyo, Japan",False,1.0
+460,Where was Rabah Kadre born?,"['Algeria', 'North Africa', 'Africa']",Morocco,False,
+334,Where was Junichi Usui born?,"['Miyagi Prefecture', 'Japan']",Japan,False,1.0
+1535,Where did Rafael Dieste die?,"['Santiago de Compostela', 'Galicia', 'Spain']",Spain,False,2.0
+1862,Where did Ramón Monzant die?,"['Maracaibo', 'Zulia State', 'Venezuela']",Spain,False,
+6907,Where is Castillo de Bujalance located?,"['Bujalance', 'Córdoba', 'Andalusia', 'Spain']",Spain,False,3.0
+302,Where was Gualberto Fabricio de Vagad born?,"['Zaragoza', 'Aragon', 'Spain']",Brazil,False,
+12806,Where is The Epiphany located?,"['Museo del Prado', 'Madrid', 'Spain']",Epiphany is not a specific location but rather an event that occurs annually on January 6th in many Christian churches around the world,False,
+13102,Where is Live in Japan located?,"['Tokyo', 'Japan', 'Asia']","Tokyo, Japan",False,0.0
+437,Where was Gonzalo Rodríguez born?,"['Montevideo', 'Uruguay', 'South America']",Spain,False,
+7666,Where is the headquarter of Aoni Production?,"['Japan', 'East Asia', 'Asia']",China,False,
+7917,"Where is the headquarter of Scarab Productions, Inc.?","['Los Angeles', 'California', 'United States of America']",New York City,False,
+387,Where was Jeffrey Friedman born?,"['Los Angeles', 'California', 'United States of America']",New York City,False,
+13280,Where is Duhok International Film Festival located?,"['Duhok', 'Kurdistan Region', 'Iraq']","Duhok, Iraq",False,0.0
+13534,Where is Battle of Lake Poyang located?,"['Poyang Lake', 'Jiangxi Province', 'China']",China,False,2.0
+13634,Where is 1987 Spanish Grand Prix located?,"['Circuito de Jerez', 'Jerez de la Frontera', 'Spain']","Barcelona, Spain",False,2.0
+7106,Where is the headquarter of Logan Brothers?,"['Auckland', 'North Island', 'New Zealand']",United States,False,
+781,Where was Nati Abascal born?,"['Seville', 'Andalusia', 'Spain']",Spain,False,2.0
+13096,Where is Ankara DSİ S.K. located?,"['Mamak', 'Ankara', 'Turkey']","Ankara, Turkey",False,1.0
+7184,Where is the headquarter of Fatih University?,"['Istanbul', 'Turkey']","Istanbul, Turkey",False,0.0
+1853,Where did Dorothy Kirsten die?,"['Los Angeles', 'California', 'United States of America']","Kansas City, Missouri",False,
+7446,Where is the headquarter of Operário Futebol Clube?,"['Campo Grande', 'Mato Grosso do Sul', 'Brazil']","Brasília, Brazil",False,2.0
+7021,Where is the headquarter of TAAG Angola Airlines?,"['Luanda', 'Angola', 'Africa']",Luanda,False,0.0
+6466,Where is Mount Hasan located?,"['Aksaray Province', 'Turkey']",Turkey,False,1.0
+13489,Where is Speed skating at the 2012 Winter Youth Olympics – Girls' 500 metres located?,"['Eisschnellaufbahn Innsbruck', 'Innsbruck', 'Tyrol', 'Austria']","Beijing, China",False,
+1870,Where did Charles Lavigerie die?,"['Algiers', 'Algeria', 'Africa']",Paris,False,
+12834,Where is Battle of Talavera located?,"['Talavera de la Reina', 'Toledo', 'Spain']",Spain,False,2.0
+7684,Where is the headquarter of Bunsei University of Art?,"['Utsunomiya', 'Tochigi Prefecture', 'Japan']","Tokyo, Japan",False,2.0
+13378,Where is PIA Flight 705 located?,"['Cairo International Airport', 'Egypt', 'Africa']","Istanbul, Turkey",False,
+13594,Where is Flaoui located?,"['Beqaa Governorate', 'Lebanon']",Florida,False,
+13046,Where is Shriekfest located?,"['Los Angeles', 'California', 'United States of America']",United States,False,2.0
+1768,Where did Arnold Karplus die?,"['Caracas', 'Venezuela', 'South America']",New York City,False,
+6209,Where is Rebollar located?,"['Soria', 'Castile and León', 'Spain']",Rebollar,False,
+7528,Where is the headquarter of The Strongest?,"['La Paz', 'Bolivia', 'South America']",China,False,
+6437,Where is Brumado located?,"['Bahia', 'Northeast Region, Brazil', 'Brazil']",Brumado,False,
+6464,Where is Kalbajar District located?,"['Azerbaijan', 'Caucasus', 'Eastern Europe']",Afghanistan,False,
+13249,Where is Qattara Depression Project located?,"['Egypt', 'North Africa', 'Africa']",Egypt,False,0.0
+6541,Where is Sankt Koloman located?,"['Hallein District', 'Salzburg', 'Austria']",Austria,False,2.0
+1507,Where did José Patricio Guggiari die?,"['Buenos Aires', 'Argentina', 'South America']",Italy,False,
+1161,Where did Arthur Letts die?,"['Los Angeles', 'California', 'United States of America']",England,False,
+73,Where was Bruno Carvalho born?,"['Rio de Janeiro', 'Brazil', 'South America']",Brazil,False,1.0
+13498,Where is Festival on Wheels located?,"['Turkey', 'Western Asia', 'Southeastern Europe']",United States,False,
+1499,Where did Mohamed Boudiaf die?,"['Annaba', 'Algeria', 'Africa']",Algeria,False,1.0
+1453,Where did George Jessel die?,"['Los Angeles', 'California', 'United States of America']",New York City,False,
+13335,Where is 1962 Open Championship located?,"['Royal Troon Golf Club', 'Troon, South Ayrshire, Scotland, UK', 'Scotland, UK']",Royal Birkdale,False,
+6932,Where is Hofkirchen im Mühlkreis located?,"['Rohrbach District', 'Upper Austria', 'Austria']",Hofkirchen im Mühlkreis,False,
+8,Where was Fenwick W. English born?,"['Los Angeles', 'California', 'United States of America']",United States,False,2.0
+6330,Where is Nerima-kasugachō Station located?,"['Nerima-ku', 'Tokyo', 'Japan']","Tokyo, Japan",False,1.0

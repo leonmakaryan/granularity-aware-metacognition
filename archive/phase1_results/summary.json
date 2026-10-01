@@ -1,0 +1,65 @@
+{
+  "base_direct": {
+    "method": "base_direct",
+    "n": 61,
+    "on_hierarchy": 29,
+    "idk": 0,
+    "off_hierarchy": 32,
+    "acc_on_hierarchy": 0.4754,
+    "selective_acc": 0.4754,
+    "specific_accuracy": 0.2623,
+    "avg_normalized_level": 2.19,
+    "level_idx_distribution": {
+      "0": 16,
+      "1": 4,
+      "2": 9
+    },
+    "metacognition": {
+      "note": "no meta signal (model always commits)"
+    }
+  },
+  "meta_question": {
+    "method": "meta_question",
+    "n": 61,
+    "on_hierarchy": 4,
+    "idk": 57,
+    "off_hierarchy": 0,
+    "acc_on_hierarchy": 0.0656,
+    "selective_acc": 1.0,
+    "specific_accuracy": 0.0492,
+    "avg_normalized_level": 1.75,
+    "level_idx_distribution": {
+      "0": 3,
+      "2": 1
+    },
+    "metacognition": {
+      "d_prime": 2.001,
+      "yes_ratio": 0.066,
+      "yfr": 0.0,
+      "nfr": 0.439
+    }
+  },
+  "drag": {
+    "method": "drag",
+    "n": 61,
+    "on_hierarchy": 27,
+    "idk": 26,
+    "off_hierarchy": 8,
+    "acc_on_hierarchy": 0.4426,
+    "selective_acc": 0.7714,
+    "specific_accuracy": 0.1475,
+    "avg_normalized_level": 2.741,
+    "level_idx_distribution": {
+      "0": 9,
+      "1": 7,
+      "2": 10,
+      "3": 1
+    },
+    "metacognition": {
+      "d_prime": 0.573,
+      "yes_ratio": 0.574,
+      "yfr": 0.429,
+      "nfr": 0.346
+    }
+  }
+}

@@ -1,0 +1,504 @@
+qid,question,raw,answer,kind,is_idk,gold,gold_level,parsed,parsed_level
+Q83410_birth,When was Cary Grant born?,Date: 1895,1895,answered,False,"January 18, 1904",DAY,1895,YEAR
+Q83410_death,When did Cary Grant die?,Date: I don't know,I don't know,abstained,True,"November 29, 1986",DAY,,
+Q104049_birth,When was Sidney Poitier born?,Date: 1927,1927,answered,False,"February 20, 1927",DAY,1927,YEAR
+Q104049_death,When did Sidney Poitier die?,"Date: February 5, 2022","February 5, 2022",answered,False,"January 6, 2022",DAY,"February 5, 2022",DAY
+Q2685_birth,When was Arnold Schwarzenegger born?,Date: 1947,1947,answered,False,"July 30, 1947",DAY,1947,YEAR
+Q100937_birth,When was Fred Astaire born?,Date: 1899,1899,answered,False,"May 10, 1899",DAY,1899,YEAR
+Q100937_death,When did Fred Astaire die?,"Date: June 22, 1987","June 22, 1987",answered,False,"June 22, 1987",DAY,"June 22, 1987",DAY
+Q313256_birth,When was Bob Fosse born?,Date: I don't know,I don't know,abstained,True,"June 23, 1927",DAY,,
+Q313256_death,When did Bob Fosse die?,Date: 1987,1987,answered,False,"September 23, 1987",DAY,1987,YEAR
+Q5597_birth,When was Raphael born?,"Date: March 31, 1483","March 31, 1483",answered,False,"April 6, 1483",DAY,"March 31, 1483",DAY
+Q5597_death,When did Raphael die?,"Date: April 6, 1520","April 6, 1520",answered,False,"April 17, 1520",DAY,"April 6, 1520",DAY
+Q203643_birth,When was James McNeill Whistler born?,Date: 1834,1834,answered,False,"July 10, 1834",DAY,1834,YEAR
+Q203643_death,When did James McNeill Whistler die?,Date: 1903,1903,answered,False,"July 17, 1903",DAY,1903,YEAR
+Q41406_birth,When was Edvard Munch born?,Date: 1863,1863,answered,False,1863,YEAR,1863,YEAR
+Q41406_death,When did Edvard Munch die?,Date: 1944,1944,answered,False,1944,YEAR,1944,YEAR
+Q44007_birth,When was Paul Klee born?,Date: 1879,1879,answered,False,"February 18, 1879",DAY,1879,YEAR
+Q44007_death,When did Paul Klee die?,Date: 1940,1940,answered,False,"May 29, 1940",DAY,1940,YEAR
+Q44054_birth,When was Franz Marc born?,Date: 1880,1880,answered,False,"February 8, 1880",DAY,1880,YEAR
+Q44054_death,When did Franz Marc die?,Date: 1916,1916,answered,False,"March 4, 1916",DAY,1916,YEAR
+Q203401_birth,When was Edward Hopper born?,"Date: July 22, 1882","July 22, 1882",answered,False,"July 23, 1882",DAY,"July 22, 1882",DAY
+Q203401_death,When did Edward Hopper die?,Date: 1967,1967,answered,False,"May 15, 1967",DAY,1967,YEAR
+Q7836_birth,When was René Magritte born?,Date: I don't know,I don't know,abstained,True,"November 21, 1898",DAY,,
+Q7836_death,When did René Magritte die?,"Date: December 15, 1967","December 15, 1967",answered,False,"August 15, 1967",DAY,"December 15, 1967",DAY
+Q272566_birth,When was Aubrey Beardsley born?,Date: 1872,1872,answered,False,"August 21, 1872",DAY,1872,YEAR
+Q272566_death,When did Aubrey Beardsley die?,Date: 1921,1921,answered,False,"March 16, 1898",DAY,1921,YEAR
+Q271884_birth,When was Norman Rockwell born?,Date: I don't know,I don't know,abstained,True,"February 3, 1894",DAY,,
+Q271884_death,When did Norman Rockwell die?,Date: I don't know,I don't know,abstained,True,"November 8, 1978",DAY,,
+Q309850_birth,When was Will Eisner born?,"Date: December 6, 1917","December 6, 1917",answered,False,"March 6, 1917",DAY,"December 6, 1917",DAY
+Q309850_death,When did Will Eisner die?,Date: I don't know,I don't know,abstained,True,"January 3, 2005",DAY,,
+Q37562_birth,When was Donatello born?,Date: I don't know,I don't know,abstained,True,1386,YEAR,,
+Q37562_death,When did Donatello die?,Date: 1466,1466,answered,False,1466,YEAR,1466,YEAR
+Q160538_birth,When was Gian Lorenzo Bernini born?,Date: 1598,1598,answered,False,"December 7, 1598",DAY,1598,YEAR
+Q160538_death,When did Gian Lorenzo Bernini die?,Date: 1680,1680,answered,False,"November 28, 1680",DAY,1680,YEAR
+Q182046_birth,When was Leon Battista Alberti born?,Date: 1404,1404,answered,False,"February 23, 1404",DAY,1404,YEAR
+Q182046_death,When did Leon Battista Alberti die?,Date: 1404,1404,answered,False,1472,YEAR,1404,YEAR
+Q5600_birth,When was Mimar Sinan born?,Date: I don't know,I don't know,abstained,True,1490,YEAR,,
+Q5600_death,When did Mimar Sinan die?,Date: 1588,1588,answered,False,"July 17, 1588",DAY,1588,YEAR
+Q82840_birth,When was Alvar Aalto born?,Date: 1898,1898,answered,False,"February 3, 1898",DAY,1898,YEAR
+Q82840_death,When did Alvar Aalto die?,Date: 1976,1976,answered,False,"May 11, 1976",DAY,1976,YEAR
+Q364187_birth,When was Frederick Law Olmsted born?,"Date: April 26, 1822","April 26, 1822",answered,False,"April 26, 1822",DAY,"April 26, 1822",DAY
+Q364187_death,When did Frederick Law Olmsted die?,Date: I don't know,I don't know,abstained,True,"August 28, 1903",DAY,,
+Q378564_birth,When was Wang Xizhi born?,Date: I don't know,I don't know,abstained,True,303,YEAR,,
+Q378564_death,When did Wang Xizhi die?,Date: 353-406,353-406,answered,False,361,YEAR,,
+Q172048_birth,When was Terence born?,Date: I don't know,I don't know,abstained,True,184 BCE,YEAR,,
+Q172048_death,When did Terence die?,Date: I don't know,I don't know,abstained,True,158 BCE,YEAR,,
+Q312551_birth,When was Kabir born?,Date: I don't know,I don't know,abstained,True,1398,YEAR,,
+Q312551_death,When did Kabir die?,Date: I don't know,I don't know,abstained,True,1518,YEAR,,
+Q590_birth,When was Luís de Camões born?,Date: I don't know,I don't know,abstained,True,December 1524,MONTH,,
+Q590_death,When did Luís de Camões die?,Date: 1580,1580,answered,False,"June 20, 1580",DAY,1580,YEAR
+Q128460_birth,When was Charles Perrault born?,Date: I don't know,I don't know,abstained,True,"January 12, 1628",DAY,,
+Q128460_death,When did Charles Perrault die?,Date: 1688,1688,answered,False,"May 16, 1703",DAY,1688,YEAR
+Q123867_birth,When was Marquis de Sade born?,Date: 1742,1742,answered,False,"June 2, 1740",DAY,1742,YEAR
+Q123867_death,When did Marquis de Sade die?,Date: 1814,1814,answered,False,"December 2, 1814",DAY,1814,YEAR
+Q42544_birth,When was Thomas More born?,Date: I don't know,I don't know,abstained,True,"February 16, 1478",DAY,,
+Q42544_death,When did Thomas More die?,Date: 1535,1535,answered,False,"July 16, 1535",DAY,1535,YEAR
+Q193857_birth,When was Ben Jonson born?,"Date: October 11, 1572","October 11, 1572",answered,False,"June 21, 1572",DAY,"October 11, 1572",DAY
+Q193857_death,When did Ben Jonson die?,Date: 1637,1637,answered,False,"August 16, 1637",DAY,1637,YEAR
+Q40946_birth,When was Daniel Defoe born?,Date: 1660,1660,answered,False,"September 13, 1660",DAY,1660,YEAR
+Q40946_death,When did Daniel Defoe die?,Date: 1731,1731,answered,False,"April 24, 1731",DAY,1731,YEAR
+Q81960_birth,When was Robert Burns born?,Date: 1759,1759,answered,False,"January 25, 1759",DAY,1759,YEAR
+Q81960_death,When did Robert Burns die?,Date: 1796,1796,answered,False,1796,YEAR,1796,YEAR
+Q44593_birth,When was V. S. Naipaul born?,Date: 1932,1932,answered,False,August 1932,MONTH,1932,YEAR
+Q44593_death,When did V. S. Naipaul die?,Date: 2018,2018,answered,False,"August 11, 2018",DAY,2018,YEAR
+Q152513_birth,When was Henry Wadsworth Longfellow born?,Date: 1807,1807,answered,False,1807,YEAR,1807,YEAR
+Q152513_death,When did Henry Wadsworth Longfellow die?,Date: 1882,1882,answered,False,"March 24, 1882",DAY,1882,YEAR
+Q170509_birth,When was Henry James born?,"Date: October 15, 1843","October 15, 1843",answered,False,1843,YEAR,"October 15, 1843",DAY
+Q170509_death,When did Henry James die?,"Date: February 28, 1916","February 28, 1916",answered,False,1916,YEAR,"February 28, 1916",DAY
+Q23434_birth,When was Ernest Hemingway born?,Date: December 1899,December 1899,answered,False,"July 21, 1899",DAY,December 1899,MONTH
+Q23434_death,When did Ernest Hemingway die?,"Date: July 2, 1961","July 2, 1961",answered,False,"July 2, 1961",DAY,"July 2, 1961",DAY
+Q80596_birth,When was Arthur Miller born?,Date: 1915,1915,answered,False,"October 17, 1915",DAY,1915,YEAR
+Q80596_death,When did Arthur Miller die?,Date: 2005,2005,answered,False,"February 10, 2005",DAY,2005,YEAR
+Q133054_birth,When was Sylvia Plath born?,Date: 1932,1932,answered,False,"October 27, 1932",DAY,1932,YEAR
+Q133054_death,When did Sylvia Plath die?,Date: 1963,1963,answered,False,"February 11, 1963",DAY,1963,YEAR
+Q311145_birth,When was Machado de Assis born?,"Date: October 21, 1839","October 21, 1839",answered,False,1839,YEAR,"October 21, 1839",DAY
+Q311145_death,When did Machado de Assis die?,"Date: November 29, 1899","November 29, 1899",answered,False,1908,YEAR,"November 29, 1899",DAY
+Q216466_birth,When was Alejo Carpentier born?,Date: 1898,1898,answered,False,"December 26, 1904",DAY,1898,YEAR
+Q216466_death,When did Alejo Carpentier die?,Date: 1980,1980,answered,False,"April 24, 1980",DAY,1980,YEAR
+Q484141_birth,When was Muhammad Iqbal born?,Date: 1877,1877,answered,False,1873,YEAR,1877,YEAR
+Q484141_death,When did Muhammad Iqbal die?,Date: 1938,1938,answered,False,"April 21, 1938",DAY,1938,YEAR
+Q174152_birth,When was Premchand born?,Date: 1880,1880,answered,False,"July 31, 1880",DAY,1880,YEAR
+Q174152_death,When did Premchand die?,Date: 1936,1936,answered,False,"October 8, 1936",DAY,1936,YEAR
+Q241248_birth,When was Orhan Pamuk born?,Date: 1952,1952,answered,False,"June 7, 1952",DAY,1952,YEAR
+Q79822_birth,When was Adam Mickiewicz born?,Date: 1798,1798,answered,False,"December 24, 1798",DAY,1798,YEAR
+Q79822_death,When did Adam Mickiewicz die?,Date: 1855,1855,answered,False,"November 26, 1855",DAY,1855,YEAR
+Q5685_birth,When was Anton Chekhov born?,Date: 1860,1860,answered,False,"January 29, 1860",DAY,1860,YEAR
+Q5685_death,When did Anton Chekhov die?,Date: 1904,1904,answered,False,"July 15, 1904",DAY,1904,YEAR
+Q36591_birth,When was Vladimir Nabokov born?,"Date: April 22, 1899","April 22, 1899",answered,False,"April 22, 1899",DAY,"April 22, 1899",DAY
+Q36591_death,When did Vladimir Nabokov die?,"Date: July 2, 1977","July 2, 1977",answered,False,"July 2, 1977",DAY,"July 2, 1977",DAY
+Q1403_birth,When was Luigi Pirandello born?,Date: 1867,1867,answered,False,"June 28, 1867",DAY,1867,YEAR
+Q1403_death,When did Luigi Pirandello die?,Date: 1936,1936,answered,False,"December 10, 1936",DAY,1936,YEAR
+Q37060_birth,When was José Saramago born?,Date: I don't know,I don't know,abstained,True,"November 16, 1922",DAY,,
+Q37060_death,When did José Saramago die?,Date: 2010,2010,answered,False,"June 18, 2010",DAY,2010,YEAR
+Q33977_birth,When was Jules Verne born?,Date: 1828,1828,answered,False,"February 8, 1828",DAY,1828,YEAR
+Q33977_death,When did Jules Verne die?,Date: 1905,1905,answered,False,"March 24, 1905",DAY,1905,YEAR
+Q55767_birth,When was Astrid Lindgren born?,"Date: April 14, 1907","April 14, 1907",answered,False,"November 14, 1907",DAY,"April 14, 1907",DAY
+Q55767_death,When did Astrid Lindgren die?,Date: 2002,2002,answered,False,"January 28, 2002",DAY,2002,YEAR
+Q45546_birth,When was William Wordsworth born?,Date: 1770,1770,answered,False,"April 7, 1770",DAY,1770,YEAR
+Q45546_death,When did William Wordsworth die?,Date: 1800s,1800s,answered,False,"April 23, 1850",DAY,1800s,DECADE
+Q47152_birth,When was Mary Shelley born?,"Date: August 30, 1797","August 30, 1797",answered,False,"August 30, 1797",DAY,"August 30, 1797",DAY
+Q47152_death,When did Mary Shelley die?,Date: 1851,1851,answered,False,"February 1, 1851",DAY,1851,YEAR
+Q131333_birth,When was George Eliot born?,Date: 1819,1819,answered,False,1819,YEAR,1819,YEAR
+Q131333_death,When did George Eliot die?,Date: 1880,1880,answered,False,1880,YEAR,1880,YEAR
+Q1512_birth,When was Robert Louis Stevenson born?,"Date: November 13, 1850","November 13, 1850",answered,False,"November 13, 1850",DAY,"November 13, 1850",DAY
+Q1512_death,When did Robert Louis Stevenson die?,"Date: December 3, 1894","December 3, 1894",answered,False,"December 3, 1894",DAY,"December 3, 1894",DAY
+Q19185_birth,When was George Bernard Shaw born?,Date: 1856,1856,answered,False,"July 26, 1856",DAY,1856,YEAR
+Q19185_death,When did George Bernard Shaw die?,Date: 1950,1950,answered,False,"November 2, 1950",DAY,1950,YEAR
+Q35610_birth,When was Arthur Conan Doyle born?,Date: 1859,1859,answered,False,"May 22, 1859",DAY,1859,YEAR
+Q35610_death,When did Arthur Conan Doyle die?,Date: 1930,1930,answered,False,"July 7, 1930",DAY,1930,YEAR
+Q6882_birth,When was James Joyce born?,Date: 1882,1882,answered,False,"February 2, 1882",DAY,1882,YEAR
+Q6882_death,When did James Joyce die?,Date: 1941,1941,answered,False,"January 13, 1941",DAY,1941,YEAR
+Q274334_birth,When was Svetlana Alexievich born?,Date: 1948,1948,answered,False,"May 31, 1948",DAY,1948,YEAR
+Q179277_birth,When was Giovanni Pierluigi da Palestrina born?,Date: I don't know,I don't know,abstained,True,1525,YEAR,,
+Q179277_death,When did Giovanni Pierluigi da Palestrina die?,Date: 1594,1594,answered,False,"February 2, 1594",DAY,1594,YEAR
+Q7349_birth,When was Joseph Haydn born?,Date: 1732,1732,answered,False,"March 31, 1732",DAY,1732,YEAR
+Q7349_death,When did Joseph Haydn die?,Date: 1809,1809,answered,False,"May 31, 1809",DAY,1809,YEAR
+Q255_birth,When was Ludwig van Beethoven born?,"Date: December 17, 1770","December 17, 1770",answered,False,1770,YEAR,"December 17, 1770",DAY
+Q255_death,When did Ludwig van Beethoven die?,"Date: October 26, 1827","October 26, 1827",answered,False,"March 26, 1827",DAY,"October 26, 1827",DAY
+Q46096_birth,When was Felix Mendelssohn born?,Date: 1809,1809,answered,False,"February 3, 1809",DAY,1809,YEAR
+Q46096_death,When did Felix Mendelssohn die?,Date: 1847,1847,answered,False,"November 4, 1847",DAY,1847,YEAR
+Q1268_birth,When was Frédéric Chopin born?,"Date: February 22, 1810","February 22, 1810",answered,False,"February 22, 1810",DAY,"February 22, 1810",DAY
+Q1268_death,When did Frédéric Chopin die?,"Date: October 17, 1849","October 17, 1849",answered,False,"October 17, 1849",DAY,"October 17, 1849",DAY
+Q104919_birth,When was Gabriel Fauré born?,Date: 1845,1845,answered,False,"May 12, 1845",DAY,1845,YEAR
+Q104919_death,When did Gabriel Fauré die?,Date: 1924,1924,answered,False,1924,YEAR,1924,YEAR
+Q45682_birth,When was Jean Sibelius born?,Date: 1865,1865,answered,False,"December 8, 1865",DAY,1865,YEAR
+Q45682_death,When did Jean Sibelius die?,Date: 1957,1957,answered,False,"September 20, 1957",DAY,1957,YEAR
+Q154770_birth,When was Arnold Schoenberg born?,"Date: September 13, 1874","September 13, 1874",answered,False,"September 13, 1874",DAY,"September 13, 1874",DAY
+Q154770_death,When did Arnold Schoenberg die?,Date: 1951,1951,answered,False,"July 13, 1951",DAY,1951,YEAR
+Q156193_birth,When was Pierre Boulez born?,Date: 1925,1925,answered,False,"March 26, 1925",DAY,1925,YEAR
+Q156193_death,When did Pierre Boulez die?,Date: 2021,2021,answered,False,"January 5, 2016",DAY,2021,YEAR
+Q152043_birth,When was Mstislav Rostropovich born?,Date: 1927,1927,answered,False,"March 27, 1927",DAY,1927,YEAR
+Q152043_death,When did Mstislav Rostropovich die?,Date: 1997,1997,answered,False,"April 27, 2007",DAY,1997,YEAR
+Q2044389_birth,When was Tyagaraja born?,Date: I don't know,I don't know,abstained,True,"May 4, 1767",DAY,,
+Q2044389_death,When did Tyagaraja die?,Date: 1839,1839,answered,False,"January 6, 1847",DAY,1839,YEAR
+Q1771067_birth,When was Muthuswami Dikshitar born?,Date: I don't know,I don't know,abstained,True,"March 24, 1775",DAY,,
+Q1771067_death,When did Muthuswami Dikshitar die?,Date: 1835,1835,answered,False,"October 21, 1835",DAY,1835,YEAR
+Q44122_birth,When was Django Reinhardt born?,Date: 1897,1897,answered,False,"January 23, 1910",DAY,1897,YEAR
+Q44122_death,When did Django Reinhardt die?,Date: 1953,1953,answered,False,"May 16, 1953",DAY,1953,YEAR
+Q200131_birth,When was Antônio Carlos Jobim born?,Date: I don't know,I don't know,abstained,True,"January 25, 1927",DAY,,
+Q200131_death,When did Antônio Carlos Jobim die?,Date: 1994,1994,answered,False,"December 8, 1994",DAY,1994,YEAR
+Q2831_birth,When was Michael Jackson born?,"Date: August 29, 1958","August 29, 1958",answered,False,"August 29, 1958",DAY,"August 29, 1958",DAY
+Q2831_death,When did Michael Jackson die?,"Date: June 25, 2009","June 25, 2009",answered,False,"June 25, 2009",DAY,"June 25, 2009",DAY
+Q172505_birth,When was Astor Piazzolla born?,Date: I don't know,I don't know,abstained,True,"March 11, 1921",DAY,,
+Q172505_death,When did Astor Piazzolla die?,"Date: July 4, 1992","July 4, 1992",answered,False,"July 4, 1992",DAY,"July 4, 1992",DAY
+Q512_birth,When was Vladimir Vysotsky born?,"Date: June 25, 1938","June 25, 1938",answered,False,"January 25, 1938",DAY,"June 25, 1938",DAY
+Q512_death,When did Vladimir Vysotsky die?,Date: 1980,1980,answered,False,"July 25, 1980",DAY,1980,YEAR
+Q188969_birth,When was B. B. King born?,Date: I don't know,I don't know,abstained,True,"September 16, 1925",DAY,,
+Q188969_death,When did B. B. King die?,Date: 2015,2015,answered,False,"May 14, 2015",DAY,2015,YEAR
+Q544387_birth,When was Ray Charles born?,"Date: September 23, 1930","September 23, 1930",answered,False,"September 23, 1930",DAY,"September 23, 1930",DAY
+Q544387_death,When did Ray Charles die?,Date: 2004,2004,answered,False,"June 10, 2004",DAY,2004,YEAR
+Q313868_birth,When was Fela Kuti born?,"Date: October 15, 1938","October 15, 1938",answered,False,"October 15, 1938",DAY,"October 15, 1938",DAY
+Q313868_death,When did Fela Kuti die?,Date: 1997,1997,answered,False,"August 2, 1997",DAY,1997,YEAR
+Q125121_birth,When was Aretha Franklin born?,Date: 1942,1942,answered,False,"March 25, 1942",DAY,1942,YEAR
+Q125121_death,When did Aretha Franklin die?,"Date: August 16, 2018","August 16, 2018",answered,False,"August 16, 2018",DAY,"August 16, 2018",DAY
+Q4061_birth,When was Woody Guthrie born?,"Date: July 14, 1912","July 14, 1912",answered,False,"July 14, 1912",DAY,"July 14, 1912",DAY
+Q4061_death,When did Woody Guthrie die?,Date: I don't know,I don't know,abstained,True,"October 3, 1967",DAY,,
+Q5608_birth,When was Eminem born?,Date: 1972,1972,answered,False,"October 17, 1972",DAY,1972,YEAR
+Q128746_birth,When was Irving Berlin born?,Date: I don't know,I don't know,abstained,True,"May 11, 1888",DAY,,
+Q128746_death,When did Irving Berlin die?,"Date: September 22, 1989","September 22, 1989",answered,False,"September 22, 1989",DAY,"September 22, 1989",DAY
+Q5921_birth,When was Chuck Berry born?,"Date: October 18, 1926","October 18, 1926",answered,False,"October 18, 1926",DAY,"October 18, 1926",DAY
+Q5921_death,When did Chuck Berry die?,"Date: March 18, 2017","March 18, 2017",answered,False,"March 18, 2017",DAY,"March 18, 2017",DAY
+Q1203_birth,When was John Lennon born?,"Date: October 9, 1940","October 9, 1940",answered,False,"October 9, 1940",DAY,"October 9, 1940",DAY
+Q1203_death,When did John Lennon die?,"Date: December 8, 1980","December 8, 1980",answered,False,"December 8, 1980",DAY,"December 8, 1980",DAY
+Q1514_birth,When was Janis Joplin born?,Date: I don't know,I don't know,abstained,True,"January 19, 1943",DAY,,
+Q1514_death,When did Janis Joplin die?,Date: 1970,1970,answered,False,"October 4, 1970",DAY,1970,YEAR
+Q55431_birth,When was Wong Kar-wai born?,Date: 1962,1962,answered,False,"July 17, 1958",DAY,1962,YEAR
+Q51552_birth,When was Roman Polanski born?,Date: 1933,1933,answered,False,"August 18, 1933",DAY,1933,YEAR
+Q44131_birth,When was Werner Herzog born?,Date: I don't know,I don't know,abstained,True,"September 5, 1942",DAY,,
+Q152272_birth,When was Georges Méliès born?,Date: 1861,1861,answered,False,"December 8, 1861",DAY,1861,YEAR
+Q152272_death,When did Georges Méliès die?,Date: 1938,1938,answered,False,"January 21, 1938",DAY,1938,YEAR
+Q50713_birth,When was Jean Renoir born?,Date: 1894,1894,answered,False,"September 15, 1894",DAY,1894,YEAR
+Q50713_death,When did Jean Renoir die?,Date: 1979,1979,answered,False,"February 12, 1979",DAY,1979,YEAR
+Q229990_birth,When was Agnès Varda born?,Date: 1928,1928,answered,False,"May 30, 1928",DAY,1928,YEAR
+Q229990_death,When did Agnès Varda die?,Date: 2023,2023,answered,False,"March 29, 2019",DAY,2023,YEAR
+Q55433_birth,When was Michelangelo Antonioni born?,Date: 1912,1912,answered,False,"September 29, 1912",DAY,1912,YEAR
+Q55433_death,When did Michelangelo Antonioni die?,Date: 2007,2007,answered,False,"July 30, 2007",DAY,2007,YEAR
+Q7374_birth,When was Alfred Hitchcock born?,"Date: May 13, 1899","May 13, 1899",answered,False,"August 13, 1899",DAY,"May 13, 1899",DAY
+Q7374_death,When did Alfred Hitchcock die?,Date: 1980,1980,answered,False,"April 29, 1980",DAY,1980,YEAR
+Q72267_birth,When was Cecil B. DeMille born?,Date: I don't know,I don't know,abstained,True,"August 12, 1881",DAY,,
+Q72267_death,When did Cecil B. DeMille die?,"Date: November 21, 1959","November 21, 1959",answered,False,"January 21, 1959",DAY,"November 21, 1959",DAY
+Q72614_birth,When was Jack L. Warner born?,Date: I don't know,I don't know,abstained,True,"August 2, 1892",DAY,,
+Q72614_death,When did Jack L. Warner die?,Date: 1978,1978,answered,False,"September 9, 1978",DAY,1978,YEAR
+Q57423_birth,When was John Jacob Astor born?,Date: 1763,1763,answered,False,"July 17, 1763",DAY,1763,YEAR
+Q57423_death,When did John Jacob Astor die?,Date: 1848,1848,answered,False,"March 29, 1848",DAY,1848,YEAR
+Q484265_birth,When was Andrew Carnegie born?,Date: I don't know,I don't know,abstained,True,"November 25, 1835",DAY,,
+Q484265_death,When did Andrew Carnegie die?,Date: I don't know,I don't know,abstained,True,"August 11, 1919",DAY,,
+Q193368_birth,When was Ted Turner born?,"Date: June 19, 1938","June 19, 1938",answered,False,"November 19, 1938",DAY,"June 19, 1938",DAY
+Q193368_death,When did Ted Turner die?,Date: I don't know,I don't know,abstained,True,"May 6, 2026",DAY,,
+Q19837_birth,When was Steve Jobs born?,"Date: February 24, 1955","February 24, 1955",answered,False,"February 24, 1955",DAY,"February 24, 1955",DAY
+Q19837_death,When did Steve Jobs die?,"Date: October 5, 2011","October 5, 2011",answered,False,"October 5, 2011",DAY,"October 5, 2011",DAY
+Q42063_birth,When was Xuanzang born?,Date: 602,602,answered,False,602,YEAR,,
+Q42063_death,When did Xuanzang die?,Date: 664,664,answered,False,664,YEAR,,
+Q47674_birth,When was Amerigo Vespucci born?,Date: I don't know,I don't know,abstained,True,"March 18, 1454",DAY,,
+Q47674_death,When did Amerigo Vespucci die?,Date: 1512,1512,answered,False,"March 3, 1512",DAY,1512,YEAR
+Q868_birth,When was Aristotle born?,Date: 384 BCE,384 BCE,answered,False,383 BCE,YEAR,384 BCE,YEAR
+Q868_death,When did Aristotle die?,Date: 322 BCE,322 BCE,answered,False,321 BCE,YEAR,322 BCE,YEAR
+Q160460_birth,When was Al-Farabi born?,Date: I don't know,I don't know,abstained,True,872,YEAR,,
+Q160460_death,When did Al-Farabi die?,Date: 11th century,11th century,answered,False,951,YEAR,11th century,CENTURY
+Q190089_birth,When was Duns Scotus born?,Date: c. 1265,c. 1265,answered,False,1266,YEAR,1265,YEAR
+Q190089_death,When did Duns Scotus die?,Date: 1308,1308,answered,False,"November 16, 1308",DAY,1308,YEAR
+Q43499_birth,When was Erasmus born?,Date: 1466,1466,answered,False,"October 28, 1469",DAY,1466,YEAR
+Q43499_death,When did Erasmus die?,Date: 1572,1572,answered,False,"July 22, 1536",DAY,1572,YEAR
+Q37388_birth,When was Francis Bacon born?,"Date: October 22, 1561","October 22, 1561",answered,False,1561,YEAR,"October 22, 1561",DAY
+Q37388_death,When did Francis Bacon die?,"Date: April 9, 1626","April 9, 1626",answered,False,"April 19, 1626",DAY,"April 9, 1626",DAY
+Q35802_birth,When was Baruch Spinoza born?,Date: 1632,1632,answered,False,"November 24, 1632",DAY,1632,YEAR
+Q35802_death,When did Baruch Spinoza die?,Date: 1677,1677,answered,False,"February 21, 1677",DAY,1677,YEAR
+Q60887_birth,When was Jeremy Bentham born?,Date: 1748,1748,answered,False,1748,YEAR,1748,YEAR
+Q60887_death,When did Jeremy Bentham die?,Date: 1832,1832,answered,False,"June 6, 1832",DAY,1832,YEAR
+Q102585_birth,When was Johann Gottlieb Fichte born?,Date: 1762,1762,answered,False,"May 19, 1762",DAY,1762,YEAR
+Q102585_death,When did Johann Gottlieb Fichte die?,Date: 1804,1804,answered,False,"January 27, 1814",DAY,1804,YEAR
+Q125249_birth,When was William James born?,Date: I don't know,I don't know,abstained,True,"January 11, 1842",DAY,,
+Q125249_death,When did William James die?,Date: I don't know,I don't know,abstained,True,"August 26, 1910",DAY,,
+Q9364_birth,When was Jean-Paul Sartre born?,Date: I don't know,I don't know,abstained,True,"June 21, 1905",DAY,,
+Q9364_death,When did Jean-Paul Sartre die?,"Date: April 15, 1980","April 15, 1980",answered,False,"April 15, 1980",DAY,"April 15, 1980",DAY
+Q129772_birth,When was Xenophon born?,Date: I don't know,I don't know,abstained,True,430s BCE,DECADE,,
+Q129772_death,When did Xenophon die?,Date: I don't know,I don't know,abstained,True,353 BCE,YEAR,,
+Q41523_birth,When was Plutarch born?,Date: I don't know,I don't know,abstained,True,50,YEAR,,
+Q41523_death,When did Plutarch die?,Date: I don't know,I don't know,abstained,True,2nd century,CENTURY,,
+Q102323_birth,When was Snorri Sturluson born?,Date: I don't know,I don't know,abstained,True,1179,YEAR,,
+Q102323_death,When did Snorri Sturluson die?,Date: 1241,1241,answered,False,"September 30, 1241",DAY,1241,YEAR
+Q27645_birth,When was Mikhail Bakunin born?,Date: I don't know,I don't know,abstained,True,1814,YEAR,,
+Q27645_death,When did Mikhail Bakunin die?,"Date: July 1, 1876","July 1, 1876",answered,False,"July 1, 1876",DAY,"July 1, 1876",DAY
+Q34787_birth,When was Friedrich Engels born?,Date: 1820,1820,answered,False,"November 28, 1820",DAY,1820,YEAR
+Q34787_death,When did Friedrich Engels die?,Date: 1895,1895,answered,False,"August 5, 1895",DAY,1895,YEAR
+Q75786_birth,When was Eduard Bernstein born?,Date: 1850,1850,answered,False,"January 6, 1850",DAY,1850,YEAR
+Q75786_death,When did Eduard Bernstein die?,Date: 1916,1916,answered,False,"December 18, 1932",DAY,1916,YEAR
+Q9317_birth,When was John Maynard Keynes born?,Date: 1883,1883,answered,False,"June 5, 1883",DAY,1883,YEAR
+Q9317_death,When did John Maynard Keynes die?,Date: 1946,1946,answered,False,"April 21, 1946",DAY,1946,YEAR
+Q76857_birth,When was Franz Boas born?,"Date: April 24, 1858","April 24, 1858",answered,False,"July 9, 1858",DAY,"April 24, 1858",DAY
+Q76857_death,When did Franz Boas die?,"Date: December 21, 1942","December 21, 1942",answered,False,"December 21, 1942",DAY,"December 21, 1942",DAY
+Q9387_birth,When was Max Weber born?,"Date: April 21, 1864","April 21, 1864",answered,False,"April 21, 1864",DAY,"April 21, 1864",DAY
+Q9387_death,When did Max Weber die?,Date: 1920,1920,answered,False,"June 14, 1920",DAY,1920,YEAR
+Q13230_birth,When was Ferdinand de Saussure born?,Date: 1857,1857,answered,False,"November 26, 1857",DAY,1857,YEAR
+Q13230_death,When did Ferdinand de Saussure die?,Date: 1953,1953,answered,False,"February 22, 1913",DAY,1953,YEAR
+Q75814_birth,When was Wilhelm Wundt born?,Date: 1832,1832,answered,False,"August 16, 1832",DAY,1832,YEAR
+Q75814_death,When did Wilhelm Wundt die?,Date: 1920,1920,answered,False,"August 31, 1920",DAY,1920,YEAR
+Q309765_birth,When was Edward Thorndike born?,Date: 1886,1886,answered,False,"August 31, 1874",DAY,1886,YEAR
+Q309765_death,When did Edward Thorndike die?,Date: 1949,1949,answered,False,"August 9, 1949",DAY,1949,YEAR
+Q78485_birth,When was Anna Freud born?,Date: 1895,1895,answered,False,"December 3, 1895",DAY,1895,YEAR
+Q78485_death,When did Anna Freud die?,Date: 1982,1982,answered,False,"October 9, 1982",DAY,1982,YEAR
+Q180819_birth,When was Lev Vygotsky born?,Date: November 1896,November 1896,answered,False,"November 17, 1896",DAY,November 1896,MONTH
+Q180819_death,When did Lev Vygotsky die?,"Date: June 12, 1934","June 12, 1934",answered,False,"July 11, 1934",DAY,"June 12, 1934",DAY
+Q310741_birth,When was Gordon Allport born?,"Date: April 15, 1907","April 15, 1907",answered,False,"November 11, 1897",DAY,"April 15, 1907",DAY
+Q310741_death,When did Gordon Allport die?,Date: I don't know,I don't know,abstained,True,1967,YEAR,,
+Q313931_birth,When was Albert Ellis born?,"Date: April 12, 1913","April 12, 1913",answered,False,"September 27, 1913",DAY,"April 12, 1913",DAY
+Q313931_death,When did Albert Ellis die?,"Date: September 3, 2007","September 3, 2007",answered,False,"July 24, 2007",DAY,"September 3, 2007",DAY
+Q310821_birth,When was Rabbi Akiva born?,Date: I don't know,I don't know,abstained,True,50,YEAR,,
+Q310821_death,When did Rabbi Akiva die?,Date: I don't know,I don't know,abstained,True,"September 27, 135",DAY,,
+Q319062_birth,When was Baal Shem Tov born?,Date: I don't know,I don't know,abstained,True,1700,YEAR,,
+Q319062_death,When did Baal Shem Tov die?,Date: 1760,1760,answered,False,"May 21, 1760",DAY,1760,YEAR
+Q191734_birth,When was Gregory of Nyssa born?,Date: I don't know,I don't know,abstained,True,335,YEAR,,
+Q191734_death,When did Gregory of Nyssa die?,Date: I don't know,I don't know,abstained,True,395,YEAR,,
+Q44248_birth,When was Jerome born?,Date: I don't know,I don't know,abstained,True,347,YEAR,,
+Q44248_death,When did Jerome die?,Date: 420,420,answered,False,"October 1, 420",DAY,,
+Q173893_birth,When was John Wycliffe born?,Date: I don't know,I don't know,abstained,True,1330,YEAR,,
+Q173893_death,When did John Wycliffe die?,Date: 1384,1384,answered,False,"January 8, 1385",DAY,1384,YEAR
+Q210735_birth,When was Tomás de Torquemada born?,Date: I don't know,I don't know,abstained,True,"October 23, 1420",DAY,,
+Q210735_death,When did Tomás de Torquemada die?,Date: 1498,1498,answered,False,"September 25, 1498",DAY,1498,YEAR
+Q107473_birth,When was Karl Barth born?,Date: 1886,1886,answered,False,"May 10, 1886",DAY,1886,YEAR
+Q107473_death,When did Karl Barth die?,Date: 1968,1968,answered,False,"December 10, 1968",DAY,1968,YEAR
+Q213550_birth,When was Billy Graham born?,"Date: November 7, 1918","November 7, 1918",answered,False,"November 7, 1918",DAY,"November 7, 1918",DAY
+Q213550_death,When did Billy Graham die?,"Date: November 21, 2018","November 21, 2018",answered,False,"February 21, 2018",DAY,"November 21, 2018",DAY
+Q42034_birth,When was Khadija bint Khuwaylid born?,Date: I don't know,I don't know,abstained,True,6th century,CENTURY,,
+Q42034_death,When did Khadija bint Khuwaylid die?,Date: I don't know,I don't know,abstained,True,619,YEAR,,
+Q9546_birth,When was Al-Ghazali born?,Date: I don't know,I don't know,abstained,True,1056,YEAR,,
+Q9546_death,When did Al-Ghazali die?,Date: 1111,1111,answered,False,1111,YEAR,1111,YEAR
+Q101054_birth,When was Baháʼu'lláh born?,Date: 1817,1817,answered,False,"November 12, 1817",DAY,1817,YEAR
+Q101054_death,When did Baháʼu'lláh die?,Date: 1892,1892,answered,False,"May 29, 1892",DAY,1892,YEAR
+Q28988_birth,When was Ānanda born?,Date: I don't know,I don't know,abstained,True,6th century BCE,CENTURY,,
+Q28988_death,When did Ānanda die?,Date: I don't know,I don't know,abstained,True,5th century BCE,CENTURY,,
+Q222227_birth,When was Kūkai born?,Date: 774,774,answered,False,"July 31, 774",DAY,,
+Q222227_death,When did Kūkai die?,Date: 835,835,answered,False,"April 26, 835",DAY,,
+Q627784_birth,When was Yu the Great born?,Date: I don't know,I don't know,abstained,True,2296 BCE,YEAR,,
+Q627784_death,When did Yu the Great die?,Date: I don't know,I don't know,abstained,True,2024 BCE,YEAR,,
+Q7210_birth,When was Emperor Gaozu of Han born?,Date: I don't know,I don't know,abstained,True,255 BCE,YEAR,,
+Q7210_death,When did Emperor Gaozu of Han die?,Date: 195 BCE,195 BCE,answered,False,"June 1, 194 BCE",DAY,195 BCE,YEAR
+Q7225_birth,When was Emperor Wu of Han born?,Date: I don't know,I don't know,abstained,True,"June 7, 155 BCE",DAY,,
+Q7225_death,When did Emperor Wu of Han die?,Date: 139 BCE,139 BCE,answered,False,"March 27, 86 BCE",DAY,139 BCE,YEAR
+Q9045_birth,When was Chanakya born?,Date: I don't know,I don't know,abstained,True,374 BCE,YEAR,,
+Q9045_death,When did Chanakya die?,Date: I don't know,I don't know,abstained,True,282 BCE,YEAR,,
+Q8589_birth,When was Ashoka born?,Date: I don't know,I don't know,abstained,True,303 BCE,YEAR,,
+Q8589_death,When did Ashoka die?,Date: I don't know,I don't know,abstained,True,231 BCE,YEAR,,
+Q187982_birth,When was Alcibiades born?,Date: I don't know,I don't know,abstained,True,449 BCE,YEAR,,
+Q187982_death,When did Alcibiades die?,Date: 404 BCE,404 BCE,answered,False,403 BCE,YEAR,404 BCE,YEAR
+Q172353_birth,When was Pyrrhus of Epirus born?,Date: I don't know,I don't know,abstained,True,317 BCE,YEAR,,
+Q172353_death,When did Pyrrhus of Epirus die?,Date: 272 BCE,272 BCE,answered,False,271 BCE,YEAR,272 BCE,YEAR
+Q178953_birth,When was Vercingetorix born?,Date: I don't know,I don't know,abstained,True,79 BCE,YEAR,,
+Q178953_death,When did Vercingetorix die?,Date: 46 BC,46 BC,answered,False,45 BCE,YEAR,46 BCE,YEAR
+Q1048_birth,When was Julius Caesar born?,Date: 100 BC,100 BC,answered,False,"July 11, 99 BCE",DAY,100 BCE,YEAR
+Q1048_death,When did Julius Caesar die?,Date: 44 BC,44 BC,answered,False,43 BCE,YEAR,44 BCE,YEAR
+Q1423_birth,When was Domitian born?,Date: 8 March 51 AD,8 March 51 AD,answered,False,51,YEAR,"March 8, 2051",DAY
+Q1423_death,When did Domitian die?,Date: 96,96,answered,False,"September 16, 96",DAY,,
+Q46696_birth,When was Theodosius I born?,Date: 347,347,answered,False,"January 12, 347",DAY,,
+Q46696_death,When did Theodosius I die?,Date: 395,395,answered,False,"January 18, 395",DAY,,
+Q144565_birth,When was Tughril I born?,Date: I don't know,I don't know,abstained,True,990,YEAR,,
+Q144565_death,When did Tughril I die?,Date: 1063,1063,answered,False,"September 10, 1063",DAY,1063,YEAR
+Q244007_birth,When was Tamar I born?,Date: I don't know,I don't know,abstained,True,1166,YEAR,,
+Q244007_death,When did Tamar I die?,Date: 27 December 1382,27 December 1382,answered,False,"January 25, 1213",DAY,"December 27, 1382",DAY
+Q8462_birth,When was Timur born?,Date: I don't know,I don't know,abstained,True,"April 16, 1336",DAY,,
+Q8462_death,When did Timur die?,Date: 1405,1405,answered,False,"February 27, 1405",DAY,1405,YEAR
+Q83100_birth,When was Osman I born?,Date: I don't know,I don't know,abstained,True,"August 30, 1258",DAY,,
+Q83100_death,When did Osman I die?,Date: 1389,1389,answered,False,"August 9, 1326",DAY,1389,YEAR
+Q334923_birth,When was Abu Bakr born?,Date: I don't know,I don't know,abstained,True,572,YEAR,,
+Q334923_death,When did Abu Bakr die?,Date: 632,632,answered,False,634,YEAR,,
+Q188943_birth,When was Yaroslav the Wise born?,Date: I don't know,I don't know,abstained,True,978,YEAR,,
+Q188943_death,When did Yaroslav the Wise die?,Date: 1054,1054,answered,False,1054,YEAR,1054,YEAR
+Q43974_birth,When was Louis the Pious born?,Date: I don't know,I don't know,abstained,True,"April 24, 778",DAY,,
+Q43974_death,When did Louis the Pious die?,Date: 840,840,answered,False,"June 28, 840",DAY,,
+Q34428_birth,When was Philip II of France born?,Date: 1165,1165,answered,False,"August 28, 1165",DAY,1165,YEAR
+Q34428_death,When did Philip II of France die?,Date: 1165,1165,answered,False,"July 21, 1223",DAY,1165,YEAR
+Q150712_birth,When was Charles the Fat born?,Date: I don't know,I don't know,abstained,True,832,YEAR,,
+Q150712_death,When did Charles the Fat die?,Date: 888,888,answered,False,"January 13, 888",DAY,,
+Q43915_birth,When was Otto the Great born?,Date: I don't know,I don't know,abstained,True,"November 28, 912",DAY,,
+Q43915_death,When did Otto the Great die?,Date: 973,973,answered,False,"May 12, 973",DAY,,
+Q187998_birth,When was Cesare Borgia born?,Date: 1475,1475,answered,False,"September 22, 1475",DAY,1475,YEAR
+Q187998_death,When did Cesare Borgia die?,Date: 1507,1507,answered,False,"March 22, 1507",DAY,1507,YEAR
+Q484359_birth,When was Seonjo of Joseon born?,Date: I don't know,I don't know,abstained,True,1552,YEAR,,
+Q484359_death,When did Seonjo of Joseon die?,Date: 1623,1623,answered,False,"February 1, 1608",DAY,1623,YEAR
+Q83672_birth,When was Shah Jahan born?,Date: 1592,1592,answered,False,"January 15, 1592",DAY,1592,YEAR
+Q83672_death,When did Shah Jahan die?,Date: 1666,1666,answered,False,1666,YEAR,1666,YEAR
+Q8479_birth,When was Peter the Great born?,Date: 1672,1672,answered,False,"June 9, 1672",DAY,1672,YEAR
+Q8479_death,When did Peter the Great die?,Date: 1725,1725,answered,False,"February 8, 1725",DAY,1725,YEAR
+Q130752_birth,When was Elizabeth of Russia born?,"Date: April 29, 1709","April 29, 1709",answered,False,"December 29, 1709",DAY,"April 29, 1709",DAY
+Q130752_death,When did Elizabeth of Russia die?,Date: 1796,1796,answered,False,"January 5, 1762",DAY,1796,YEAR
+Q36450_birth,When was Catherine the Great born?,Date: 1729,1729,answered,False,"May 2, 1729",DAY,1729,YEAR
+Q36450_death,When did Catherine the Great die?,Date: 1796,1796,answered,False,"November 17, 1796",DAY,1796,YEAR
+Q38370_birth,When was Henry VIII born?,Date: 1491,1491,answered,False,"July 7, 1491",DAY,1491,YEAR
+Q38370_death,When did Henry VIII die?,Date: I don't know,I don't know,abstained,True,"February 7, 1547",DAY,,
+Q44279_birth,When was Oliver Cromwell born?,Date: 1599,1599,answered,False,"May 5, 1599",DAY,1599,YEAR
+Q44279_death,When did Oliver Cromwell die?,Date: 1658,1658,answered,False,"September 13, 1658",DAY,1658,YEAR
+Q104190_birth,When was Robert Walpole born?,Date: 1676,1676,answered,False,"September 5, 1676",DAY,1676,YEAR
+Q104190_death,When did Robert Walpole die?,Date: 1745,1745,answered,False,"March 29, 1745",DAY,1745,YEAR
+Q127318_birth,When was George III born?,Date: 1738,1738,answered,False,"June 4, 1738",DAY,1738,YEAR
+Q127318_death,When did George III die?,Date: 1820,1820,answered,False,"January 29, 1820",DAY,1820,YEAR
+Q150611_birth,"When was Ferdinand I, Holy Roman Emperor born?",Date: 1496,1496,answered,False,"March 10, 1503",DAY,1496,YEAR
+Q150611_death,"When did Ferdinand I, Holy Roman Emperor die?",Date: 1564,1564,answered,False,"July 25, 1564",DAY,1564,YEAR
+Q33550_birth,When was Frederick the Great born?,Date: 1712,1712,answered,False,"January 24, 1712",DAY,1712,YEAR
+Q33550_death,When did Frederick the Great die?,Date: 1786,1786,answered,False,"August 17, 1786",DAY,1786,YEAR
+Q52937_birth,"When was Christina, Queen of Sweden born?",Date: 1626,1626,answered,False,"December 18, 1626",DAY,1626,YEAR
+Q52937_death,"When did Christina, Queen of Sweden die?",Date: 1689,1689,answered,False,"April 19, 1689",DAY,1689,YEAR
+Q48231_birth,When was Idi Amin born?,Date: I don't know,I don't know,abstained,True,1925,YEAR,,
+Q48231_death,When did Idi Amin die?,Date: 19 August 2003,19 August 2003,answered,False,"August 16, 2003",DAY,"August 19, 2003",DAY
+Q1231345_birth,When was Paul Kagame born?,Date: 1957,1957,answered,False,"October 23, 1957",DAY,1957,YEAR
+Q315659_birth,When was Yohannes IV born?,Date: I don't know,I don't know,abstained,True,"July 11, 1837",DAY,,
+Q315659_death,When did Yohannes IV die?,Date: 1889,1889,answered,False,"March 9, 1889",DAY,1889,YEAR
+Q298678_birth,When was Muhammad Ahmad born?,Date: 1844,1844,answered,False,"August 12, 1844",DAY,1844,YEAR
+Q298678_death,When did Muhammad Ahmad die?,Date: 1885,1885,answered,False,"June 22, 1885",DAY,1885,YEAR
+Q182781_birth,When was Muhammad Ali of Egypt born?,Date: I don't know,I don't know,abstained,True,1769,YEAR,,
+Q182781_death,When did Muhammad Ali of Egypt die?,Date: 1935,1935,answered,False,"August 2, 1849",DAY,1935,YEAR
+Q154545_birth,When was Léopold Sédar Senghor born?,"Date: October 9, 1906","October 9, 1906",answered,False,"October 9, 1906",DAY,"October 9, 1906",DAY
+Q154545_death,When did Léopold Sédar Senghor die?,"Date: October 20, 2001","October 20, 2001",answered,False,"December 20, 2001",DAY,"October 20, 2001",DAY
+Q368_birth,When was Augusto Pinochet born?,Date: 1915,1915,answered,False,"November 25, 1915",DAY,1915,YEAR
+Q368_death,When did Augusto Pinochet die?,Date: 2006,2006,answered,False,"December 10, 2006",DAY,2006,YEAR
+Q156774_birth,When was Pedro II of Brazil born?,Date: 1825,1825,answered,False,"December 2, 1825",DAY,1825,YEAR
+Q156774_death,When did Pedro II of Brazil die?,Date: 1891,1891,answered,False,"December 5, 1891",DAY,1891,YEAR
+Q152474_birth,When was Rafael Trujillo born?,Date: 1891,1891,answered,False,"October 24, 1891",DAY,1891,YEAR
+Q152474_death,When did Rafael Trujillo die?,Date: 1961,1961,answered,False,"May 30, 1961",DAY,1961,YEAR
+Q9588_birth,When was Richard Nixon born?,"Date: January 20, 1913","January 20, 1913",answered,False,"January 9, 1913",DAY,"January 20, 1913",DAY
+Q9588_death,When did Richard Nixon die?,"Date: April 22, 1994","April 22, 1994",answered,False,"April 22, 1994",DAY,"April 22, 1994",DAY
+Q152265_birth,When was Mohammad Zahir Shah born?,Date: 1914,1914,answered,False,"October 15, 1914",DAY,1914,YEAR
+Q152265_death,When did Mohammad Zahir Shah die?,Date: 2007,2007,answered,False,"July 23, 2007",DAY,2007,YEAR
+Q151929_birth,When was Eduard Shevardnadze born?,"Date: December 29, 1928","December 29, 1928",answered,False,"January 25, 1928",DAY,"December 29, 1928",DAY
+Q151929_death,When did Eduard Shevardnadze die?,"Date: October 29, 2014","October 29, 2014",answered,False,"July 7, 2014",DAY,"October 29, 2014",DAY
+Q16574_birth,When was Chiang Kai-shek born?,"Date: October 31, 1887","October 31, 1887",answered,False,"October 31, 1887",DAY,"October 31, 1887",DAY
+Q16574_death,When did Chiang Kai-shek die?,"Date: April 5, 1975","April 5, 1975",answered,False,"April 5, 1975",DAY,"April 5, 1975",DAY
+Q16977_birth,When was Deng Xiaoping born?,Date: 1904,1904,answered,False,"August 22, 1904",DAY,1904,YEAR
+Q16977_death,When did Deng Xiaoping die?,Date: February 1997,February 1997,answered,False,"February 19, 1997",DAY,February 1997,MONTH
+Q15031_birth,When was Xi Jinping born?,Date: 1953,1953,answered,False,"June 15, 1953",DAY,1953,YEAR
+Q132345_birth,When was Shinzo Abe born?,Date: 1954,1954,answered,False,"September 21, 1954",DAY,1954,YEAR
+Q132345_death,When did Shinzo Abe die?,"Date: July 8, 2022","July 8, 2022",answered,False,"July 8, 2022",DAY,"July 8, 2022",DAY
+Q171684_birth,When was Syngman Rhee born?,Date: I don't know,I don't know,abstained,True,"March 26, 1875",DAY,,
+Q171684_death,When did Syngman Rhee die?,Date: I don't know,I don't know,abstained,True,"July 19, 1965",DAY,,
+Q663001_birth,When was D. S. Senanayake born?,Date: I don't know,I don't know,abstained,True,"October 20, 1884",DAY,,
+Q663001_death,When did D. S. Senanayake die?,Date: 1952,1952,answered,False,"March 22, 1952",DAY,1952,YEAR
+Q1047_birth,When was Jawaharlal Nehru born?,Date: 1889,1889,answered,False,"November 14, 1889",DAY,1889,YEAR
+Q1047_death,When did Jawaharlal Nehru die?,Date: 1964,1964,answered,False,"May 27, 1964",DAY,1964,YEAR
+Q151509_birth,When was Ibn Saud born?,Date: I don't know,I don't know,abstained,True,"January 15, 1876",DAY,,
+Q151509_death,When did Ibn Saud die?,Date: 1953,1953,answered,False,"November 9, 1953",DAY,1953,YEAR
+Q483672_birth,When was Ali Abdullah Saleh born?,Date: I don't know,I don't know,abstained,True,"March 21, 1947",DAY,,
+Q483672_death,When did Ali Abdullah Saleh die?,Date: 2012,2012,answered,False,"December 4, 2017",DAY,2012,YEAR
+Q174791_birth,When was Mahmud II born?,Date: 1785,1785,answered,False,"July 20, 1785",DAY,1785,YEAR
+Q174791_death,When did Mahmud II die?,Date: 1839,1839,answered,False,"July 1, 1839",DAY,1839,YEAR
+Q45662_birth,When was Klemens von Metternich born?,Date: 1773,1773,answered,False,"May 15, 1773",DAY,1773,YEAR
+Q45662_death,When did Klemens von Metternich die?,Date: 1859,1859,answered,False,"June 11, 1859",DAY,1859,YEAR
+Q9161_birth,When was Josip Broz Tito born?,Date: 1892,1892,answered,False,"May 7, 1892",DAY,1892,YEAR
+Q9161_death,When did Josip Broz Tito die?,Date: 1980,1980,answered,False,"May 4, 1980",DAY,1980,YEAR
+Q130734_birth,When was Nicholas I of Russia born?,Date: 1796,1796,answered,False,"July 6, 1796",DAY,1796,YEAR
+Q130734_death,When did Nicholas I of Russia die?,Date: 1855,1855,answered,False,"March 2, 1855",DAY,1855,YEAR
+Q855_birth,When was Joseph Stalin born?,"Date: December 18, 1878","December 18, 1878",answered,False,"December 18, 1878",DAY,"December 18, 1878",DAY
+Q855_death,When did Joseph Stalin die?,"Date: March 5, 1953","March 5, 1953",answered,False,"March 5, 1953",DAY,"March 5, 1953",DAY
+Q7771_birth,When was Louis Philippe I born?,Date: 1773,1773,answered,False,"October 6, 1773",DAY,1773,YEAR
+Q7771_death,When did Louis Philippe I die?,Date: 1850,1850,answered,False,"August 26, 1850",DAY,1850,YEAR
+Q352_birth,When was Adolf Hitler born?,Date: 1889,1889,answered,False,1889,YEAR,1889,YEAR
+Q352_death,When did Adolf Hitler die?,"Date: April 30, 1945","April 30, 1945",answered,False,"April 30, 1945",DAY,"April 30, 1945",DAY
+Q2607_birth,When was Erich Honecker born?,Date: 1912,1912,answered,False,"August 25, 1912",DAY,1912,YEAR
+Q2607_death,When did Erich Honecker die?,Date: 1994,1994,answered,False,"May 29, 1994",DAY,1994,YEAR
+Q2518_birth,When was Helmut Kohl born?,Date: 1930,1930,answered,False,"April 3, 1930",DAY,1930,YEAR
+Q2518_death,When did Helmut Kohl die?,Date: 2019,2019,answered,False,"June 16, 2017",DAY,2019,YEAR
+Q19943_birth,When was Juan Carlos I born?,Date: 1938,1938,answered,False,"January 5, 1938",DAY,1938,YEAR
+Q166092_birth,"When was Camillo Benso, Count of Cavour born?",Date: 1810,1810,answered,False,"August 10, 1810",DAY,1810,YEAR
+Q166092_death,"When did Camillo Benso, Count of Cavour die?",Date: 1861,1861,answered,False,1861,YEAR,1861,YEAR
+Q82006_birth,When was Benjamin Disraeli born?,Date: 1804,1804,answered,False,1804,YEAR,1804,YEAR
+Q82006_death,When did Benjamin Disraeli die?,Date: 1881,1881,answered,False,1881,YEAR,1881,YEAR
+Q129006_birth,When was Clement Attlee born?,Date: 1883,1883,answered,False,"January 3, 1883",DAY,1883,YEAR
+Q129006_death,When did Clement Attlee die?,Date: 1967,1967,answered,False,"October 8, 1967",DAY,1967,YEAR
+Q44228_death,When did Leonidas I die?,Date: I don't know,I don't know,abstained,True,"August 6, 479 BCE",DAY,,
+Q51673_birth,When was Mark Antony born?,Date: I don't know,I don't know,abstained,True,82 BCE,YEAR,,
+Q51673_death,When did Mark Antony die?,Date: 43 BCE,43 BCE,answered,False,"July 30, 29 BCE",DAY,43 BCE,YEAR
+Q316945_birth,When was Michiel de Ruyter born?,Date: I don't know,I don't know,abstained,True,"March 24, 1607",DAY,,
+Q316945_death,When did Michiel de Ruyter die?,Date: 1676,1676,answered,False,"April 29, 1676",DAY,1676,YEAR
+Q83235_birth,"When was Horatio Nelson, 1st Viscount Nelson born?",Date: 18 May 1758,18 May 1758,answered,False,"September 29, 1758",DAY,"May 18, 1758",DAY
+Q83235_death,"When did Horatio Nelson, 1st Viscount Nelson die?",Date: 1805,1805,answered,False,"October 21, 1805",DAY,1805,YEAR
+Q151414_birth,When was George C. Marshall born?,Date: 1893,1893,answered,False,"December 31, 1880",DAY,1893,YEAR
+Q151414_death,When did George C. Marshall die?,Date: 1959,1959,answered,False,"October 16, 1959",DAY,1959,YEAR
+Q152325_birth,When was Isoroku Yamamoto born?,Date: I don't know,I don't know,abstained,True,"April 4, 1884",DAY,,
+Q152325_death,When did Isoroku Yamamoto die?,"Date: April 18, 1943","April 18, 1943",answered,False,"April 18, 1943",DAY,"April 18, 1943",DAY
+Q76430_birth,When was Carl von Clausewitz born?,Date: 1780,1780,answered,False,"June 1, 1780",DAY,1780,YEAR
+Q76430_death,When did Carl von Clausewitz die?,Date: 1831,1831,answered,False,"November 16, 1831",DAY,1831,YEAR
+Q379580_birth,When was John Muir born?,Date: I don't know,I don't know,abstained,True,"April 21, 1838",DAY,,
+Q379580_death,When did John Muir die?,Date: I don't know,I don't know,abstained,True,"December 24, 1914",DAY,,
+Q38203_birth,When was Helen Keller born?,"Date: June 27, 1880","June 27, 1880",answered,False,"June 27, 1880",DAY,"June 27, 1880",DAY
+Q38203_death,When did Helen Keller die?,"Date: June 1, 1968","June 1, 1968",answered,False,"June 1, 1968",DAY,"June 1, 1968",DAY
+Q312555_birth,When was Bal Gangadhar Tilak born?,Date: 1856,1856,answered,False,"July 23, 1856",DAY,1856,YEAR
+Q312555_death,When did Bal Gangadhar Tilak die?,Date: 1920,1920,answered,False,"September 1, 1920",DAY,1920,YEAR
+Q167852_birth,When was Jabir ibn Hayyan born?,Date: I don't know,I don't know,abstained,True,721,YEAR,,
+Q167852_death,When did Jabir ibn Hayyan die?,Date: I don't know,I don't know,abstained,True,815,YEAR,,
+Q302835_birth,When was Nasir al-Din al-Tusi born?,Date: 1201,1201,answered,False,"February 24, 1201",DAY,1201,YEAR
+Q302835_death,When did Nasir al-Din al-Tusi die?,Date: 1274,1274,answered,False,1274,YEAR,1274,YEAR
+Q58720_birth,When was Mikhail Lomonosov born?,"Date: December 19, 1711","December 19, 1711",answered,False,"November 19, 1711",DAY,"December 19, 1711",DAY
+Q58720_death,When did Mikhail Lomonosov die?,Date: 1765,1765,answered,False,"April 15, 1765",DAY,1765,YEAR
+Q43476_birth,When was Amedeo Avogadro born?,Date: 1776,1776,answered,False,"June 9, 1776",DAY,1776,YEAR
+Q43476_death,When did Amedeo Avogadro die?,Date: 1856,1856,answered,False,"July 9, 1856",DAY,1856,YEAR
+Q60052_birth,When was Gustav Kirchhoff born?,Date: 1824,1824,answered,False,"March 12, 1824",DAY,1824,YEAR
+Q60052_death,When did Gustav Kirchhoff die?,Date: 1887,1887,answered,False,"October 17, 1887",DAY,1887,YEAR
+Q9021_birth,When was Max Planck born?,"Date: April 23, 1858","April 23, 1858",answered,False,"April 23, 1858",DAY,"April 23, 1858",DAY
+Q9021_death,When did Max Planck die?,"Date: October 4, 1947","October 4, 1947",answered,False,"October 4, 1947",DAY,"October 4, 1947",DAY
+Q37463_birth,When was Pierre Curie born?,Date: 1859,1859,answered,False,"May 15, 1859",DAY,1859,YEAR
+Q37463_death,When did Pierre Curie die?,Date: 1906,1906,answered,False,"April 19, 1906",DAY,1906,YEAR
+Q937_birth,When was Albert Einstein born?,"Date: March 14, 1879","March 14, 1879",answered,False,"March 14, 1879",DAY,"March 14, 1879",DAY
+Q937_death,When did Albert Einstein die?,"Date: April 18, 1955","April 18, 1955",answered,False,"April 18, 1955",DAY,"April 18, 1955",DAY
+Q65989_birth,When was Wolfgang Pauli born?,"Date: December 25, 1900","December 25, 1900",answered,False,"April 25, 1900",DAY,"December 25, 1900",DAY
+Q65989_death,When did Wolfgang Pauli die?,"Date: December 15, 1958","December 15, 1958",answered,False,"December 15, 1958",DAY,"December 15, 1958",DAY
+Q181369_birth,When was Yang Chen-Ning born?,Date: October 1922,October 1922,answered,False,"October 1, 1922",DAY,October 1922,MONTH
+Q181369_death,When did Yang Chen-Ning die?,Date: I don't know,I don't know,abstained,True,"October 18, 2025",DAY,,
+Q183679_birth,When was Tsung-Dao Lee born?,"Date: September 23, 1926","September 23, 1926",answered,False,"November 25, 1926",DAY,"September 23, 1926",DAY
+Q183679_death,When did Tsung-Dao Lee die?,Date: I don't know,I don't know,abstained,True,"August 4, 2024",DAY,,
+Q172840_birth,When was Murray Gell-Mann born?,Date: October 1929,October 1929,answered,False,"September 15, 1929",DAY,October 1929,MONTH
+Q172840_death,When did Murray Gell-Mann die?,"Date: October 24, 2019","October 24, 2019",answered,False,"May 24, 2019",DAY,"October 24, 2019",DAY
+Q8963_birth,When was Johannes Kepler born?,"Date: December 27, 1571","December 27, 1571",answered,False,"January 6, 1572",DAY,"December 27, 1571",DAY
+Q8963_death,When did Johannes Kepler die?,Date: 1610,1610,answered,False,"November 15, 1630",DAY,1610,YEAR
+Q47434_birth,When was Edmond Halley born?,Date: 1656,1656,answered,False,"November 8, 1656",DAY,1656,YEAR
+Q47434_death,When did Edmond Halley die?,Date: 1742,1742,answered,False,"January 25, 1742",DAY,1742,YEAR
+Q76948_birth,When was Caroline Herschel born?,Date: 1750,1750,answered,False,"March 16, 1750",DAY,1750,YEAR
+Q76948_death,When did Caroline Herschel die?,Date: 1848,1848,answered,False,"January 9, 1848",DAY,1848,YEAR
+Q410_birth,When was Carl Sagan born?,"Date: October 9, 1934","October 9, 1934",answered,False,"November 9, 1934",DAY,"October 9, 1934",DAY
+Q410_death,When did Carl Sagan die?,Date: I don't know,I don't know,abstained,True,"December 20, 1996",DAY,,
+Q39607_birth,When was Antoine Lavoisier born?,Date: 1743,1743,answered,False,"August 26, 1743",DAY,1743,YEAR
+Q39607_death,When did Antoine Lavoisier die?,Date: 1794,1794,answered,False,"May 8, 1794",DAY,1794,YEAR
+Q80956_birth,When was Svante Arrhenius born?,Date: 1859,1859,answered,False,"February 19, 1859",DAY,1859,YEAR
+Q80956_death,When did Svante Arrhenius die?,Date: 1927,1927,answered,False,"October 2, 1927",DAY,1927,YEAR
+Q57075_birth,When was Fritz Haber born?,Date: 1868,1868,answered,False,"December 9, 1868",DAY,1868,YEAR
+Q57075_death,When did Fritz Haber die?,Date: 1934,1934,answered,False,"January 29, 1934",DAY,1934,YEAR
+Q151564_birth,When was Frederick Sanger born?,Date: 1918,1918,answered,False,"August 13, 1918",DAY,1918,YEAR
+Q151564_death,When did Frederick Sanger die?,Date: 2013,2013,answered,False,"November 19, 2013",DAY,2013,YEAR
+Q298933_birth,When was Edward Drinker Cope born?,Date: I don't know,I don't know,abstained,True,"July 28, 1840",DAY,,
+Q298933_death,When did Edward Drinker Cope die?,Date: 1897,1897,answered,False,"April 12, 1897",DAY,1897,YEAR
+Q37103_birth,When was Florence Nightingale born?,Date: 1820,1820,answered,False,"May 12, 1820",DAY,1820,YEAR
+Q37103_death,When did Florence Nightingale die?,Date: 1910,1910,answered,False,"August 13, 1910",DAY,1910,YEAR
+Q192496_birth,When was Robert Fulton born?,Date: 1765,1765,answered,False,"November 14, 1756",DAY,1765,YEAR
+Q192496_death,When did Robert Fulton die?,Date: 1815,1815,answered,False,"February 24, 1815",DAY,1815,YEAR
+Q40224_birth,When was Carl Benz born?,"Date: November 25, 1844","November 25, 1844",answered,False,"November 25, 1844",DAY,"November 25, 1844",DAY
+Q40224_death,When did Carl Benz die?,"Date: August 4, 1929","August 4, 1929",answered,False,"April 4, 1929",DAY,"August 4, 1929",DAY
+Q8743_birth,When was Thomas Edison born?,"Date: February 11, 1847","February 11, 1847",answered,False,"February 11, 1847",DAY,"February 11, 1847",DAY
+Q8743_death,When did Thomas Edison die?,"Date: October 18, 1931","October 18, 1931",answered,False,"October 18, 1931",DAY,"October 18, 1931",DAY
+Q150910_birth,When was Charles Algernon Parsons born?,Date: 1854,1854,answered,False,"June 13, 1854",DAY,1854,YEAR
+Q150910_death,When did Charles Algernon Parsons die?,Date: 1931,1931,answered,False,"February 11, 1931",DAY,1931,YEAR
+Q354863_birth,When was Lee de Forest born?,Date: 1873,1873,answered,False,"August 26, 1873",DAY,1873,YEAR
+Q354863_death,When did Lee de Forest die?,Date: 1961,1961,answered,False,"June 30, 1961",DAY,1961,YEAR
+Q182546_birth,When was Robert H. Goddard born?,Date: 1882,1882,answered,False,"October 5, 1882",DAY,1882,YEAR
+Q182546_death,When did Robert H. Goddard die?,Date: 1945,1945,answered,False,"August 10, 1945",DAY,1945,YEAR
+Q133544_birth,When was John Logie Baird born?,Date: 1888,1888,answered,False,"August 13, 1888",DAY,1888,YEAR
+Q133544_death,When did John Logie Baird die?,Date: 1946,1946,answered,False,"June 14, 1946",DAY,1946,YEAR
+Q182031_birth,When was Jack Kilby born?,Date: 1928,1928,answered,False,"November 8, 1923",DAY,1928,YEAR
+Q182031_death,When did Jack Kilby die?,"Date: September 5, 2005","September 5, 2005",answered,False,"June 20, 2005",DAY,"September 5, 2005",DAY
+Q9047_birth,When was Gottfried Wilhelm Leibniz born?,"Date: July 1, 1646","July 1, 1646",answered,False,"July 1, 1646",DAY,"July 1, 1646",DAY
+Q9047_death,When did Gottfried Wilhelm Leibniz die?,Date: 1716,1716,answered,False,"November 14, 1716",DAY,1716,YEAR
+Q29193_birth,When was Peter Gustav Lejeune Dirichlet born?,Date: 1805,1805,answered,False,"February 13, 1805",DAY,1805,YEAR
+Q29193_death,When did Peter Gustav Lejeune Dirichlet die?,Date: I don't know,I don't know,abstained,True,"May 5, 1859",DAY,,
+Q81082_birth,When was Henri Poincaré born?,"Date: April 29, 1854","April 29, 1854",answered,False,"April 29, 1854",DAY,"April 29, 1854",DAY
+Q81082_death,When did Henri Poincaré die?,"Date: July 17, 1912","July 17, 1912",answered,False,"July 17, 1912",DAY,"July 17, 1912",DAY
+Q310794_birth,When was Karl Pearson born?,Date: 1857,1857,answered,False,"March 27, 1857",DAY,1857,YEAR
+Q310794_death,When did Karl Pearson die?,Date: 1936,1936,answered,False,"April 27, 1936",DAY,1936,YEAR
+Q7099_birth,When was Emmy Noether born?,Date: 1882,1882,answered,False,"March 23, 1882",DAY,1882,YEAR
+Q7099_death,When did Emmy Noether die?,"Date: April 14, 1935","April 14, 1935",answered,False,"April 14, 1935",DAY,"April 14, 1935",DAY
+Q11641_birth,When was Grace Hopper born?,"Date: December 9, 1906","December 9, 1906",answered,False,"December 9, 1906",DAY,"December 9, 1906",DAY
+Q11641_death,When did Grace Hopper die?,"Date: October 1, 1992","October 1, 1992",answered,False,"January 1, 1992",DAY,"October 1, 1992",DAY
+Q7251_birth,When was Alan Turing born?,Date: 23 June 1912,23 June 1912,answered,False,"June 23, 1912",DAY,"June 23, 1912",DAY
+Q7251_death,When did Alan Turing die?,"Date: June 7, 1954","June 7, 1954",answered,False,"June 7, 1954",DAY,"June 7, 1954",DAY
+Q171500_birth,When was Haile Gebrselassie born?,"Date: October 29, 1973","October 29, 1973",answered,False,"April 18, 1973",DAY,"October 29, 1973",DAY
+Q36107_birth,When was Muhammad Ali born?,"Date: January 17, 1942","January 17, 1942",answered,False,"January 17, 1942",DAY,"January 17, 1942",DAY
+Q36107_death,When did Muhammad Ali die?,"Date: June 3, 2016","June 3, 2016",answered,False,"June 3, 2016",DAY,"June 3, 2016",DAY
+Q221048_birth,When was Jackie Robinson born?,Date: I don't know,I don't know,abstained,True,"January 31, 1919",DAY,,
+Q221048_death,When did Jackie Robinson die?,"Date: October 24, 1972","October 24, 1972",answered,False,"October 24, 1972",DAY,"October 24, 1972",DAY
+Q179051_birth,When was Kareem Abdul-Jabbar born?,"Date: April 16, 1947","April 16, 1947",answered,False,"April 16, 1947",DAY,"April 16, 1947",DAY

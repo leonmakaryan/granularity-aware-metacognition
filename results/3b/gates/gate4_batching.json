@@ -1,0 +1,11 @@
+{
+  "n": 100,
+  "scorer_outcome_diffs": 2,
+  "text_diffs": 3,
+  "diff_qids": [
+    "12994",
+    "13350"
+  ],
+  "rule": "batched canonical if <= 3",
+  "canonical_batch": 32
+}

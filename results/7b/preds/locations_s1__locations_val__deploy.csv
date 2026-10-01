@@ -1,0 +1,286 @@
+qid,unit,relation,question,raw,kind,text,correct,level,score,has_support,support,category,exact
+1018,1018,P20,Where did Robert Dickson die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+105,105,P19,Where was William Goldwin Carrington Howland born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+11,11,P19,Where was Krystina Alogbo born?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+1100,1100,P20,Where did Anil Chatterjee die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1115,1115,P20,Where did Murdock MacKinnon die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1128,1128,P20,Where did Arturo Rivera y Damas die?,Location: Cuba,answered,Cuba,False,,-0.65625,True,,answered_without_support_wrong,0.0
+1147,1147,P20,Where did Sultan Zainal Rashid Mu'adzam Shah II die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+115,115,P19,Where was G. B. Lyon-Fellowes born?,Location: England,answered,England,False,,-0.45811855670103097,True,,answered_without_support_wrong,0.0
+1153,1153,P20,Where did Karl August Ramsay die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1154,1154,P20,Where did Alex Taylor die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1184,1184,P20,Where did Fred Cook die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+121,121,P19,Where was Guylaine St-Onge born?,Location: Canada,answered,Canada,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1249,1249,P20,Where did Linus Suryadi AG die?,Location: I don't know,abstained,I don't know,False,,0.0,True,3.0,abstained_despite_support,0.0
+12736,12736,P276,Where is Battle of Ongjin located?,Location: Korea,answered,Korea,True,2.0,0.25,True,2.0,exact_support_match,1.0
+12741,12741,P276,Where is Dizengoff Center suicide bombing located?,Location: Israel,answered,Israel,True,1.0,0.625,True,1.0,exact_support_match,1.0
+12752,12752,P276,Where is Bombardment of Pape'ete located?,Location: Tahiti,answered,Tahiti,False,,-0.625,True,,answered_without_support_wrong,0.0
+12781,12781,P276,Where is Frog Baby Fountain located?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+1291,1291,P20,Where did Sauli Rytky die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+12934,12934,P276,Where is Universal Man located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+12945,12945,P276,Where is Canada Soccer Hall of Fame located?,Location: I don't know,abstained,I don't know,False,,0.0,True,1.0,abstained_despite_support,0.0
+12957,12957,P276,Where is Temple in Jerusalem located?,Location: Israel,answered,Israel,True,3.0,0.25,True,3.0,exact_support_match,1.0
+12964,12964,P276,Where is SN 2005cs located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+12968,12968,P276,Where is 2009 World Single Distance Speed Skating Championships located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1303,1303,P20,Where did Eli Uzan die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1327,1327,P20,Where did Armand Frappier die?,Location: Canada,answered,Canada,True,2.0,0.25,True,1.0,correct_coarser_than_support,0.0
+13286,13286,P276,Where is Kaisaniemi located?,Location: Helsinki,answered,Helsinki,True,1.0,0.625,True,1.0,exact_support_match,1.0
+13290,13290,P276,Where is 1974 Beit She'an attack located?,Location: Israel,answered,Israel,True,1.0,0.625,True,1.0,exact_support_match,1.0
+1330,1330,P20,Where did Róbert Antal die?,Location: Hungary,answered,Hungary,False,,-0.55,True,,answered_without_support_wrong,0.0
+13332,13332,P276,Where is 2012 Burlington VIA derailment located?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+13354,13354,P276,Where is 1936 Soviet Cup Final located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13359,13359,P276,Where is Centretown Movies Outdoor Film Festival located?,Location: Ottawa,answered,Ottawa,True,0.0,1.0,True,2.0,correct_finer_than_support,0.0
+13363,13363,P276,Where is Kinotavr located?,Location: Russia,answered,Russia,True,2.0,0.25,True,2.0,exact_support_match,1.0
+13393,13393,P276,Where is Miss World 2009 located?,Location: United Kingdom,answered,United Kingdom,False,,-0.2726586102719033,True,,answered_without_support_wrong,0.0
+13396,13396,P276,Where is Banjarmasin riot of May 1997 located?,Location: Indonesia,answered,Indonesia,True,2.0,0.25,True,2.0,exact_support_match,1.0
+13410,13410,P276,Where is Battle of Cresson located?,Location: Pennsylvania,answered,Pennsylvania,False,,-0.6053921568627451,True,,answered_without_support_wrong,0.0
+13435,13435,P276,Where is Helsinki City Hall located?,Location: Helsinki,answered,Helsinki,True,1.0,0.625,True,1.0,exact_support_match,1.0
+1345,1345,P20,Where did Mahlon K. Cowan die?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+13461,13461,P276,Where is Battle of Zliten located?,Location: Libya,answered,Libya,True,1.0,0.25,True,1.0,exact_support_match,1.0
+13476,13476,P276,Where is 1994 Men's Hockey Champions Trophy located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13516,13516,P276,Where is Crowfoot Mountain located?,Location: Alberta,answered,Alberta,True,1.0,0.625,True,1.0,exact_support_match,1.0
+13552,13552,P276,Where is Kuala Lumpur Badminton Stadium located?,Location: Malaysia,answered,Malaysia,True,1.0,0.625,True,1.0,exact_support_match,1.0
+13579,13579,P276,Where is Queer Azaadi Mumbai located?,Location: Mumbai,answered,Mumbai,True,0.0,1.0,True,0.0,exact_support_match,1.0
+13626,13626,P276,Where is January 2010 Bajaur bombing located?,Location: Pakistan,answered,Pakistan,True,3.0,0.25,True,3.0,exact_support_match,1.0
+13638,13638,P276,Where is MFK Tyumen located?,Location: Tyumen,answered,Tyumen,True,0.0,1.0,True,0.0,exact_support_match,1.0
+13691,13691,P276,Where is 1985 Borobudur bombing located?,Location: Indonesia,answered,Indonesia,True,3.0,0.25,True,3.0,exact_support_match,1.0
+13698,13698,P276,Where is Gallagher Convention Centre located?,Location: Australia,answered,Australia,False,,-0.25,True,,answered_without_support_wrong,0.0
+1370,1370,P20,Where did Balaji Baji Rao die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13709,13709,P740,Where was Black Diamond Bay founded?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13720,13720,P740,Where was Thornley founded?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13774,13774,P740,Where was Shaa'ir and Func founded?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+13815,13815,P740,Where was Locnville founded?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1388,1388,P20,Where did Ian Player die?,Location: I don't know,abstained,I don't know,False,,0.0,True,1.0,abstained_despite_support,0.0
+1415,1415,P20,Where did Hugh Guthrie die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+145,145,P19,Where was Vera Koval born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1457,1457,P20,Where did Barbara Godard die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+148,148,P19,Where was Simo Rundgren born?,Location: Finland,answered,Finland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+1510,1510,P20,Where did Ron Searle die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1516,1516,P20,Where did Lionel de Nicéville die?,Location: France,answered,France,False,,-0.2765858208955224,True,,answered_without_support_wrong,0.0
+1532,1532,P20,Where did Shimon Yaakov Gliksberg die?,Location: Israel,answered,Israel,True,1.0,0.625,True,1.0,exact_support_match,1.0
+1536,1536,P20,Where did Ben Heppner die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1551,1551,P20,Where did Edward Towle Brooks die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1578,1578,P20,Where did Hasan Turkmani die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+166,166,P19,Where was Mir Babar Ali Anis born?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+1688,1688,P20,Where did Heinz Bevernis die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1720,1720,P20,Where did Maa Naa Chowdappa die?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+1741,1741,P20,Where did Maqsood Ahmed die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1746,1746,P20,Where did Heraclius I of Kakheti die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1769,1769,P20,Where did Jonathan Goforth die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1804,1804,P20,"Where did Deokhye, Princess of Korea die?",Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1823,1823,P20,Where did Tim Horshington die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1851,1851,P20,Where did Duke Anthony Ulrich of Brunswick die?,Location: Brunswick,answered,Brunswick,False,,-1.0,True,,answered_without_support_wrong,0.0
+1887,1887,P20,Where did Chittabrata Majumdar die?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+1894,1894,P20,Where did John Charles Fields die?,Location: Toronto,answered,Toronto,True,0.0,1.0,True,0.0,exact_support_match,1.0
+1912,1912,P20,Where did Robert Kernan die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+1934,1934,P20,Where did Gadzhi Abashilov die?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+217,217,P19,Where was Amani Williams Hunt Abdullah born?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+226,226,P19,Where was Andreas Romar born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+228,228,P19,Where was Brendon Dedekind born?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+267,267,P19,Where was Baba Amte born?,Location: India,answered,India,True,3.0,0.25,True,3.0,exact_support_match,1.0
+274,274,P19,Where was William Chapman born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+281,281,P19,Where was Joonas Hallikainen born?,Location: Finland,answered,Finland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+33,33,P19,Where was Jyrki Yrttiaho born?,Location: Finland,answered,Finland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+341,341,P19,Where was Annette Lapointe born?,Location: Canada,answered,Canada,True,2.0,0.25,True,2.0,exact_support_match,1.0
+375,375,P19,Where was Maxim Zyuzyakin born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+378,378,P19,Where was Viacheslav Datsik born?,Location: Ukraine,answered,Ukraine,False,,-0.4338235294117647,True,,answered_without_support_wrong,0.0
+411,411,P19,Where was Arsen Khubulov born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+415,415,P19,Where was Otumfuo Nana Osei Tutu II born?,Location: Ghana,answered,Ghana,True,2.0,0.25,True,2.0,exact_support_match,1.0
+436,436,P19,Where was M. S. Sathyu born?,Location: India,answered,India,True,2.0,0.25,True,2.0,exact_support_match,1.0
+449,449,P19,Where was Robert Dawson born?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+461,461,P19,Where was Vladimir Shilykovsky born?,Location: Russia,answered,Russia,True,3.0,0.25,True,3.0,exact_support_match,1.0
+503,503,P19,Where was Blaže Georgioski born?,Location: North Macedonia,answered,North Macedonia,True,2.0,0.25,True,2.0,exact_support_match,1.0
+507,507,P19,Where was Nomsebenzi Tsotsobe born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+550,550,P19,Where was Jeffrey Lay born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+562,562,P19,Where was Ivan Melnik born?,Location: Ukraine,answered,Ukraine,False,,-0.4338235294117647,True,,answered_without_support_wrong,0.0
+573,573,P19,Where was P K. Basheer born?,Location: Kerala,answered,Kerala,True,2.0,0.5,True,2.0,exact_support_match,1.0
+58,58,P19,Where was T. Franklin Ahearn born?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+590,590,P19,Where was Tuks Senganga born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6026,6026,P131,Where is Nalbandyan located?,Location: Armenia,answered,Armenia,True,1.0,0.25,True,1.0,exact_support_match,1.0
+6037,6037,P131,Where is Hoseynabad-e Mish Mast located?,Location: Iran,answered,Iran,True,1.0,0.25,True,1.0,exact_support_match,1.0
+6056,6056,P131,Where is Tayemeh located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6090,6090,P131,Where is Bala Shekar Kesh located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6092,6092,P131,Where is Lalbag subdivision located?,Location: Bangladesh,answered,Bangladesh,False,,-0.25,True,,answered_without_support_wrong,0.0
+6095,6095,P131,Where is Siah Cheshmeh located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6101,6101,P131,Where is Mueang Lampang located?,Location: Thailand,answered,Thailand,True,1.0,0.25,True,1.0,exact_support_match,1.0
+6105,6105,P131,Where is Namazpur located?,Location: India,answered,India,False,,-0.25,True,,answered_without_support_wrong,0.0
+6112,6112,P131,Where is Dul Abza located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6181,6181,P131,Where is Jurbijarkol located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6185,6185,P131,Where is Hidden Bay Airport located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6187,6187,P131,Where is Pirabad located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6191,6191,P131,Where is Hajipur located?,Location: India,answered,India,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6201,6201,P131,Where is Babaganjeh located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6208,6208,P131,"Where is Kheyrabad, Sarvelayat located?",Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6210,6210,P131,"Where is Shuran, Chaharmahal and Bakhtiari located?",Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6211,6211,P131,Where is Balkut located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6222,6222,P131,"Where is Tavani, Nunavut located?",Location: Nunavut,answered,Nunavut,True,0.0,1.0,True,0.0,exact_support_match,1.0
+6225,6225,P131,Where is Milliken Mine located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6245,6245,P131,Where is Ban Pong located?,Location: Thailand,answered,Thailand,True,1.0,0.25,True,1.0,exact_support_match,1.0
+6262,6262,P131,Where is Vihreäsaari located?,Location: Finland,answered,Finland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6277,6277,P131,Where is Abu Hail located?,Location: Saudi Arabia,answered,Saudi Arabia,False,,-0.25,True,,answered_without_support_wrong,0.0
+6290,6290,P131,Where is Balandar-e Sofla located?,Location: Iran,answered,Iran,True,1.0,0.25,True,1.0,exact_support_match,1.0
+63,63,P19,Where was Gus tf Sakai born?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+6302,6302,P131,Where is Rekat-e Olya located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6310,6310,P131,Where is Aliabad-e Shamshir Bar located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6334,6334,P131,Where is Farim Rural District located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6335,6335,P131,Where is Tang-e Khiareh located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6344,6344,P131,Where is Davi Sara located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6349,6349,P131,Where is Nasirnagar Upazila located?,Location: Bangladesh,answered,Bangladesh,True,2.0,0.25,True,2.0,exact_support_match,1.0
+635,635,P19,Where was Ali Safi Golpaygani born?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6354,6354,P131,Where is Amirabad located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6358,6358,P131,Where is Salmon River located?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+6367,6367,P131,Where is Juwat al-al-Muhanna located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6370,6370,P131,"Where is Chah Deraz, Minab located?",Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6391,6391,P131,Where is Karaj-e Olya located?,Location: Iran,answered,Iran,True,1.0,0.25,True,1.0,exact_support_match,1.0
+6400,6400,P131,Where is Roes Welcome Sound located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6408,6408,P131,Where is Sheykh Ebrahim Bazar Arab Zehi located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6409,6409,P131,Where is Darbandkan located?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+6417,6417,P131,Where is Duljin located?,Location: Bulgaria,answered,Bulgaria,False,,-0.5625,True,,answered_without_support_wrong,0.0
+6434,6434,P131,Where is Minwakh located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6448,6448,P131,Where is Jarwal located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6456,6456,P131,Where is Ab Chendaran-e Tal Deraz located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6465,6465,P131,Where is Khvor-e Khiari located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6486,6486,P131,Where is Seh Riz located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6487,6487,P131,Where is Sumner located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+65,65,P19,Where was Robert Howie born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6501,6501,P131,Where is Namivand-e Olya located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6507,6507,P131,Where is Kankavli Vidhan Sabha constituency located?,Location: Maharashtra,answered,Maharashtra,True,2.0,0.5,True,2.0,exact_support_match,1.0
+6509,6509,P131,Where is Thorhild located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6512,6512,P131,"Where is Deh Bagh, Borujen located?",Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6515,6515,P131,Where is Mehdishahr County located?,Location: Iran,answered,Iran,True,1.0,0.25,True,1.0,exact_support_match,1.0
+6538,6538,P131,Where is Lichk located?,Location: Russia,answered,Russia,False,,-0.25,True,,answered_without_support_wrong,0.0
+6542,6542,P131,Where is Suleh Dugal located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6548,6548,P131,Where is Chah-e Akbar located?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+6557,6557,P131,"Where is Parian, Kermanshah located?",Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6560,6560,P131,"Where is Salarabad, Kurdistan located?",Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+657,657,P19,Where was Gilbert Parent born?,Location: Canada,answered,Canada,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6577,6577,P131,Where is Parasuvaikkal located?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+6582,6582,P131,"Where is Ray, South Khorasan located?",Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6584,6584,P131,Where is Poshteh-ye Pirdad located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6591,6591,P131,Where is Tapik located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+660,660,P19,Where was Omid Ahangar born?,Location: Iran,answered,Iran,True,1.0,0.625,True,1.0,exact_support_match,1.0
+6634,6634,P131,Where is East Bengal Ground located?,Location: Bangladesh,answered,Bangladesh,False,,-0.25,True,,answered_without_support_wrong,0.0
+6651,6651,P131,Where is Halifax Provincial Court located?,Location: Nova Scotia,answered,Nova Scotia,True,0.0,1.0,True,0.0,exact_support_match,1.0
+6658,6658,P131,Where is Chataparru located?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+6667,6667,P131,Where is Pulo Gadung located?,Location: Indonesia,answered,Indonesia,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6668,6668,P131,Where is Saskatchewan Highway 766 located?,Location: Canada,answered,Canada,True,1.0,0.25,True,1.0,exact_support_match,1.0
+6669,6669,P131,Where is Teluk Intan Hospital located?,Location: Malaysia,answered,Malaysia,True,1.0,0.625,True,1.0,exact_support_match,1.0
+667,667,P19,Where was Joé Juneau born?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+6684,6684,P131,"Where is Kalvin, Iran located?",Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6688,6688,P131,"Where is Hamzehabad, Tehran located?",Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6727,6727,P131,"Where is Ramnagar, Kulti located?",Location: India,answered,India,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6733,6733,P131,Where is Dasht-e Zahmatkeshan located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6756,6756,P131,"Where is Deh Now, Delfan located?",Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6759,6759,P131,Where is Bhaluka Upazila located?,Location: Bangladesh,answered,Bangladesh,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6789,6789,P131,"Where is Dastjerd, Khorrambid located?",Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6790,6790,P131,Where is Asrabad-e Tazeh located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6791,6791,P131,Where is Dadri located?,Location: India,answered,India,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6792,6792,P131,Where is Purulia Sadar West subdivision located?,Location: India,answered,India,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6820,6820,P131,"Where is Omar, Bushehr located?",Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6823,6823,P131,Where is Chah-e Chalehi located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6828,6828,P131,Where is Moomin World located?,Location: Finland,answered,Finland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6841,6841,P131,Where is Vatani Stadium located?,Location: Turkey,answered,Turkey,False,,-0.4609375,True,,answered_without_support_wrong,0.0
+6863,6863,P131,Where is Kumarganj community development block located?,Location: India,answered,India,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6865,6865,P131,Where is Nowdeh-e Olya located?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6876,6876,P131,Where is Nik Pey located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6877,6877,P131,Where is Darrehi located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6893,6893,P131,Where is Kississing Lake located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6897,6897,P131,Where is Sijareh located?,Location: Iran,answered,Iran,True,1.0,0.25,True,1.0,exact_support_match,1.0
+6898,6898,P131,"Where is Algi, Barisal located?",Location: Bangladesh,answered,Bangladesh,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6906,6906,P131,Where is Parsah Su located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6910,6910,P131,"Where is Abjaz, Hati located?",Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6913,6913,P131,Where is Al-Ameen College of Pharmacy located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6940,6940,P131,"Where is Akbarabad, Shahr-e Babak located?",Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6951,6951,P131,Where is Keski-Vuosaari located?,Location: Finland,answered,Finland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+6954,6954,P131,Where is Eypak located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6956,6956,P131,Where is Ashkelon Academic College located?,Location: Israel,answered,Israel,True,1.0,0.25,True,1.0,exact_support_match,1.0
+6960,6960,P131,Where is Namkhola located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6964,6964,P131,Where is La-ngu located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6973,6973,P131,Where is Dom Shahr located?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+6981,6981,P131,"Where is Churchover, Nova Scotia located?",Location: Nova Scotia,answered,Nova Scotia,True,2.0,0.5,True,2.0,exact_support_match,1.0
+6995,6995,P159,Where is the headquarter of FC SOYUZ-Gazprom Izhevsk?,Location: Russia,answered,Russia,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7005,7005,P159,Where is the headquarter of Tersano?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+7013,7013,P159,Where is the headquarter of TC PipeLines?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+7019,7019,P159,Where is the headquarter of TGC-1?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7024,7024,P159,Where is the headquarter of Cuttack District?,Location: Cuttack,answered,Cuttack,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7027,7027,P159,Where is the headquarter of Intuit India?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7037,7037,P159,Where is the headquarter of Labtec?,Location: Brazil,answered,Brazil,False,,-0.3303571428571429,True,,answered_without_support_wrong,0.0
+7047,7047,P159,Where is the headquarter of Aamir khan Productions?,Location: Mumbai,answered,Mumbai,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7062,7062,P159,Where is the headquarter of Canadian Hurricane Centre?,Location: I don't know,abstained,I don't know,False,,0.0,True,3.0,abstained_despite_support,0.0
+7075,7075,P159,Where is the headquarter of Ata Gears?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7083,7083,P159,Where is the headquarter of Industri Kereta Api?,Location: Indonesia,answered,Indonesia,True,3.0,0.25,True,3.0,exact_support_match,1.0
+711,711,P19,Where was Johannes Van Rensburg born?,Location: South Africa,answered,South Africa,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7127,7127,P159,Where is the headquarter of Katha NGO?,Location: India,answered,India,True,1.0,0.25,True,1.0,exact_support_match,1.0
+7137,7137,P159,Where is the headquarter of Alias Systems Corporation?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7143,7143,P159,Where is the headquarter of Shaftesbury Films?,Location: United Kingdom,answered,United Kingdom,False,,-0.2726586102719033,True,,answered_without_support_wrong,0.0
+7156,7156,P159,Where is the headquarter of Stir Crazy Thane?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7170,7170,P159,Where is the headquarter of Kabir Kala Manch?,Location: India,answered,India,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7208,7208,P159,Where is the headquarter of Casavant Frères?,Location: Canada,answered,Canada,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7216,7216,P159,Where is the headquarter of Arab Bank?,Location: Jordan,answered,Jordan,True,1.0,0.625,True,1.0,exact_support_match,1.0
+7223,7223,P159,Where is the headquarter of Puntarenas F.C.?,Location: Costa Rica,answered,Costa Rica,True,1.0,0.625,True,1.0,exact_support_match,1.0
+7235,7235,P159,Where is the headquarter of Tempo Beer Industries?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7236,7236,P159,Where is the headquarter of Element Yachts?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7246,7246,P159,Where is the headquarter of Bharathi Puthakalayam?,Location: Chennai,answered,Chennai,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7248,7248,P159,Where is the headquarter of Abels Moving Services?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+7265,7265,P159,Where is the headquarter of CCT Rail System?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+7274,7274,P159,Where is the headquarter of Tupuji Imere F.C.?,Location: Nigeria,answered,Nigeria,False,,-0.625,True,,answered_without_support_wrong,0.0
+7297,7297,P159,Where is the headquarter of Hillsborough Resources?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7298,7298,P159,Where is the headquarter of Kazan National Research Technological University?,Location: Russia,answered,Russia,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7308,7308,P159,Where is the headquarter of Federal Urdu University?,Location: Pakistan,answered,Pakistan,True,2.0,0.25,True,,answered_without_support_correct,0.0
+7314,7314,P159,Where is the headquarter of Communauto?,Location: Canada,answered,Canada,True,2.0,0.25,True,2.0,exact_support_match,1.0
+733,733,P19,Where was Robert John Fleming born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7343,7343,P159,Where is the headquarter of India Home Health Care?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+7346,7346,P159,Where is the headquarter of Cinevistaas Limited?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7377,7377,P159,Where is the headquarter of Reliance Retail?,Location: India,answered,India,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7379,7379,P159,Where is the headquarter of Alexander Forbes Group Holdings?,Location: South Africa,answered,South Africa,True,3.0,0.25,True,3.0,exact_support_match,1.0
+7382,7382,P159,Where is the headquarter of Lahore High Court?,Location: Pakistan,answered,Pakistan,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7394,7394,P159,Where is the headquarter of Canadian Coast Guard?,Location: Ottawa,answered,Ottawa,True,0.0,1.0,True,0.0,exact_support_match,1.0
+740,740,P19,Where was Antti Haapakoski born?,Location: Finland,answered,Finland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7418,7418,P159,Where is the headquarter of ENMAX?,Location: Calgary,answered,Calgary,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7437,7437,P159,Where is the headquarter of Moroka Swallows F.C.?,Location: South Africa,answered,South Africa,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7450,7450,P159,Where is the headquarter of Planet41?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7454,7454,P159,Where is the headquarter of Thales Rail Signalling Solutions?,Location: France,answered,France,False,,-0.2765858208955224,True,,answered_without_support_wrong,0.0
+7475,7475,P159,Where is the headquarter of Centre for Applied Genomics?,Location: Toronto,answered,Toronto,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7478,7478,P159,Where is the headquarter of Sietk?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+748,748,P19,Where was Kang Min-ho born?,Location: South Korea,answered,South Korea,True,1.0,0.25,True,1.0,exact_support_match,1.0
+7490,7490,P159,Where is the headquarter of Agrium?,Location: Canada,answered,Canada,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7506,7506,P159,Where is the headquarter of Kelseys Original Roadhouse?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+7508,7508,P159,Where is the headquarter of Irving Oil?,Location: I don't know,abstained,I don't know,False,,0.0,True,0.0,abstained_despite_support,0.0
+7521,7521,P159,Where is the headquarter of GNRC?,Location: I don't know,abstained,I don't know,False,,0.0,True,2.0,abstained_despite_support,0.0
+7525,7525,P159,Where is the headquarter of Becker's?,Location: Germany,answered,Germany,False,,-0.321236559139785,True,,answered_without_support_wrong,0.0
+7530,7530,P159,Where is the headquarter of Institute for Advanced Studies in Basic Sciences?,Location: Iran,answered,Iran,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7587,7587,P159,Where is the headquarter of Karachi Co-operative Housing Societies Union?,Location: Pakistan,answered,Pakistan,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7618,7618,P159,Where is the headquarter of Lufa Farms?,Location: Canada,answered,Canada,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7623,7623,P159,Where is the headquarter of Kalahandi district?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7633,7633,P159,Where is the headquarter of Shabab Al-Ordon Club?,Location: Kuwait,answered,Kuwait,False,,-1.0,True,,answered_without_support_wrong,0.0
+7645,7645,P159,Where is the headquarter of Superformance?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+7661,7661,P159,Where is the headquarter of Walker's Auctions?,Location: United Kingdom,answered,United Kingdom,False,,-0.2726586102719033,True,,answered_without_support_wrong,0.0
+7667,7667,P159,Where is the headquarter of Liberty Shoes?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7669,7669,P159,Where is the headquarter of Canadian Broadcasting Corporation?,Location: Ottawa,answered,Ottawa,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7687,7687,P159,Where is the headquarter of Society of Swedish Literature in Finland?,Location: Finland,answered,Finland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7690,7690,P159,Where is the headquarter of FC Uralets Nizhny Tagil?,Location: Russia,answered,Russia,True,2.0,0.25,True,0.0,correct_coarser_than_support,0.0
+7714,7714,P159,Where is the headquarter of Commercial Bank of Syria?,Location: Damascus,answered,Damascus,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7728,7728,P159,Where is the headquarter of Muang Thai Life Assurance?,Location: Thailand,answered,Thailand,True,1.0,0.625,True,1.0,exact_support_match,1.0
+7757,7757,P159,Where is the headquarter of Mikes?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7764,7764,P159,Where is the headquarter of Aviadvigatel?,Location: Russia,answered,Russia,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7766,7766,P159,Where is the headquarter of State Bank of Mysore?,Location: Mysore,answered,Mysore,False,,-1.0,True,,answered_without_support_wrong,0.0
+7773,7773,P159,Where is the headquarter of Halifax?,Location: Canada,answered,Canada,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7780,7780,P159,Where is the headquarter of Times Business School?,Location: United Kingdom,answered,United Kingdom,False,,-0.2726586102719033,True,,answered_without_support_wrong,0.0
+7797,7797,P159,Where is the headquarter of Zerofootprint?,Location: Canada,answered,Canada,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7804,7804,P159,Where is the headquarter of RADWIN?,Location: Israel,answered,Israel,True,1.0,0.625,True,1.0,exact_support_match,1.0
+7809,7809,P159,Where is the headquarter of Thai Farmers Bank F.C.?,Location: Thailand,answered,Thailand,True,1.0,0.625,True,1.0,exact_support_match,1.0
+7869,7869,P159,Where is the headquarter of Ottawa Fury FC?,Location: Canada,answered,Canada,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7870,7870,P159,Where is the headquarter of Douglas & McIntyre?,Location: Canada,answered,Canada,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7874,7874,P159,Where is the headquarter of Cambodia Angkor Air?,Location: I don't know,abstained,I don't know,False,,0.0,True,1.0,abstained_despite_support,0.0
+7881,7881,P159,Where is the headquarter of BrightSide Technologies?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+7921,7921,P159,Where is the headquarter of Mohun Bagan A.C.?,Location: Kolkata,answered,Kolkata,True,0.0,1.0,True,0.0,exact_support_match,1.0
+7923,7923,P159,Where is the headquarter of Meezan Bank?,Location: Pakistan,answered,Pakistan,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7969,7969,P159,Where is the headquarter of Kambarka Engineering Works?,Location: Russia,answered,Russia,True,2.0,0.25,True,2.0,exact_support_match,1.0
+7973,7973,P159,Where is the headquarter of ALDO Group?,Location: Brazil,answered,Brazil,False,,-0.3303571428571429,True,,answered_without_support_wrong,0.0
+7977,7977,P159,Where is the headquarter of Fariñas Transit Company?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+816,816,P19,Where was Sunil Kumar Desai born?,Location: India,answered,India,True,2.0,0.25,True,2.0,exact_support_match,1.0
+925,925,P19,Where was Piia Suomalainen born?,Location: Finland,answered,Finland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+943,943,P19,Where was Nanna Hänninen born?,Location: Finland,answered,Finland,True,2.0,0.25,True,2.0,exact_support_match,1.0
+966,966,P19,Where was Graham Hood born?,Location: I don't know,abstained,I don't know,False,,0.0,True,,exact_support_match,1.0
+982,982,P19,Where was Herbert Ames born?,Location: United States,answered,United States,False,,-0.2741416309012875,True,,answered_without_support_wrong,0.0
+988,988,P19,Where was Suzanne Paradis born?,Location: Canada,answered,Canada,True,2.0,0.25,True,2.0,exact_support_match,1.0
